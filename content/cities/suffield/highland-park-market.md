@@ -1,0 +1,4 @@
+---
+title: "Highland Park Market"
+url: /suffield/highland-park-market/
+---
