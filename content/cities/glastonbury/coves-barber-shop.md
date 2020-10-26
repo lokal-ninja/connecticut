@@ -1,0 +1,4 @@
+---
+title: "Cove's Barber Shop"
+url: /glastonbury/coves-barber-shop/
+---
