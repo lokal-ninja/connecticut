@@ -1,6 +1,6 @@
 ---
 title: North Windham
 url: /north-windham/
-latitude: 41.749543100000004
-longitude: -72.15452160000001
+latitude: 41.748033
+longitude: -72.15575720000001
 ---
