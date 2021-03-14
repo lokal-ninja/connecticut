@@ -1,5 +1,5 @@
 ---
 title: "H. & B. Package Store"
-url: /taftville/h-and-b-package-store/
+url: /norwich/h-and-b-package-store/
 shop: alcohol
 ---
