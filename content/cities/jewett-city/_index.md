@@ -1,6 +1,6 @@
 ---
 title: Jewett City
 url: /jewett-city/
-latitude: 41.6071261
-longitude: -71.98090110000001
+latitude: 41.606765100000004
+longitude: -71.98090810000001
 ---
