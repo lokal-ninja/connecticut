@@ -1,6 +1,6 @@
 ---
 title: North Haven
 url: /north-haven/
-latitude: 41.3909305
-longitude: -72.85954500000001
+latitude: 41.367
+longitude: -72.877
 ---

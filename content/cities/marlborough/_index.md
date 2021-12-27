@@ -1,6 +1,6 @@
 ---
 title: Marlborough
 url: /marlborough/
-latitude: 41.631488000000004
-longitude: -72.45980800000001
+latitude: 41.63
+longitude: -72.46
 ---

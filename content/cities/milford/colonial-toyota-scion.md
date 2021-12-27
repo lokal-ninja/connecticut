@@ -1,5 +1,5 @@
 ---
 title: "Colonial Toyota Scion"
 url: /milford/colonial-toyota-scion/
-shop: car
+shop: Autohaus
 ---

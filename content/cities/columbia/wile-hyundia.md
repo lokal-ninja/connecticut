@@ -1,5 +1,5 @@
 ---
 title: "Wile Hyundia"
 url: /columbia/wile-hyundia/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PriceRite"
 url: /hamden/pricerite/
-shop: supermarket
+shop: Supermarkt
 ---

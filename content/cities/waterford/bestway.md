@@ -1,5 +1,5 @@
 ---
 title: "Bestway"
 url: /waterford/bestway/
-shop: convenience
+shop: Lebensmittel
 ---

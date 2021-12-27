@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /glastonbury/petco/
-shop: pet
+shop: Tiere
 ---

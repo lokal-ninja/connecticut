@@ -1,5 +1,5 @@
 ---
 title: "Luigi's Bakery"
 url: /trumbull/luigis-bakery/
-shop: bakery
+shop: Bäckerei
 ---

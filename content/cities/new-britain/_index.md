@@ -1,6 +1,6 @@
 ---
 title: New Britain
 url: /new-britain/
-latitude: 41.6612104
-longitude: -72.7795419
+latitude: 41.683
+longitude: -72.775
 ---

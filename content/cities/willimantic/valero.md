@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /willimantic/valero/
-shop: convenience
+shop: Lebensmittel
 ---

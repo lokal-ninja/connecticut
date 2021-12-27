@@ -1,5 +1,5 @@
 ---
 title: "PriceRite"
 url: /bridgeport/pricerite/
-shop: supermarket
+shop: Supermarkt
 ---

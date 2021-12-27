@@ -1,5 +1,5 @@
 ---
 title: "Scissor Kids"
 url: /glastonbury/scissor-kids/
-shop: hairdresser
+shop: Friseur
 ---

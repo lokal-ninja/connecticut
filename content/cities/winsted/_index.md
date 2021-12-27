@@ -1,6 +1,6 @@
 ---
 title: Winsted
 url: /winsted/
-latitude: 41.921206600000005
-longitude: -73.06010780000001
+latitude: 41.921
+longitude: -73.071
 ---

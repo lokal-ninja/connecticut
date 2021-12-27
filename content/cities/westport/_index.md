@@ -1,6 +1,6 @@
 ---
 title: Westport
 url: /westport/
-latitude: 41.1414855
-longitude: -73.3578955
+latitude: 41.139
+longitude: -73.346
 ---

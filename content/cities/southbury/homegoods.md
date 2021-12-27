@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /southbury/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Port Chester
 url: /port-chester/
-latitude: 
-longitude: 
+latitude: 41
+longitude: -73.661
 ---

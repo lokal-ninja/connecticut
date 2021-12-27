@@ -1,5 +1,5 @@
 ---
 title: "Antiques"
 url: /milford/antiques/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Kakery"
 url: /newington/the-kakery/
-shop: bakery
+shop: Bäckerei
 ---

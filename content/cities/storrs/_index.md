@@ -1,6 +1,6 @@
 ---
 title: Storrs
 url: /storrs/
-latitude: 41.8084314
-longitude: -72.2495231
+latitude: 41.826
+longitude: -72.271
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mansfield Center
 url: /mansfield-center/
-latitude: 41.7653764
-longitude: -72.1981334
+latitude: 41.734
+longitude: -72.199
 ---

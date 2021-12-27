@@ -1,6 +1,6 @@
 ---
 title: Eastford
 url: /eastford/
-latitude: 41.902068
-longitude: -72.0799095
+latitude: 41.903
+longitude: -72.081
 ---

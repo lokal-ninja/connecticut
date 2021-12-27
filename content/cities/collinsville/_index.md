@@ -1,6 +1,6 @@
 ---
 title: Collinsville
 url: /collinsville/
-latitude: 41.8111173
-longitude: -72.9211889
+latitude: 41.81
+longitude: -72.924
 ---

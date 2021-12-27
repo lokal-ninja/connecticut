@@ -1,5 +1,5 @@
 ---
 title: "Bloodroot"
 url: /bridgeport/bloodroot/
-shop: books
+shop: Bücher
 ---

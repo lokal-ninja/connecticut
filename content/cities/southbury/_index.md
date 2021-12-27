@@ -1,6 +1,6 @@
 ---
 title: Southbury
 url: /southbury/
-latitude: 41.481484800000004
-longitude: -73.2131693
+latitude: 41.48
+longitude: -73.21
 ---

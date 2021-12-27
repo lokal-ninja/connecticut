@@ -1,6 +1,6 @@
 ---
 title: Uncasville
 url: /uncasville/
-latitude: 41.4345426
-longitude: -72.1097996
+latitude: 41.441
+longitude: -72.106
 ---

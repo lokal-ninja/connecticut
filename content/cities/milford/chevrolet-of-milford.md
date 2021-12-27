@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet of Milford"
 url: /milford/chevrolet-of-milford/
-shop: car
+shop: Autohaus
 ---

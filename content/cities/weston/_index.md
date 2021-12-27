@@ -1,6 +1,6 @@
 ---
 title: Weston
 url: /weston/
-latitude: 41.2021302
-longitude: -73.3812743
+latitude: 41.202
+longitude: -73.382
 ---

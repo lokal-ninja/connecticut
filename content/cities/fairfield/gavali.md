@@ -1,5 +1,5 @@
 ---
 title: "Gavali"
 url: /fairfield/gavali/
-shop: hairdresser
+shop: Friseur
 ---

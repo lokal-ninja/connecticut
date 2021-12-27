@@ -1,6 +1,6 @@
 ---
 title: Putnam
 url: /putnam/
-latitude: 41.915309400000005
-longitude: -71.90925630000001
+latitude: 41.927
+longitude: -71.877
 ---

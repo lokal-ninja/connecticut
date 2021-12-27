@@ -1,6 +1,6 @@
 ---
 title: Trumbull
 url: /trumbull/
-latitude: 41.2428742
-longitude: -73.20066870000001
+latitude: 41.278
+longitude: -73.227
 ---

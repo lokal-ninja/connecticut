@@ -1,6 +1,6 @@
 ---
 title: Haddam
 url: /haddam/
-latitude: 41.4773213
-longitude: -72.5120333
+latitude: 41.45
+longitude: -72.477
 ---

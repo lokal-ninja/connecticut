@@ -1,5 +1,5 @@
 ---
 title: "Superior Barber Shop"
 url: /stamford/superior-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

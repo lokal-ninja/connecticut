@@ -1,6 +1,6 @@
 ---
 title: Stamford
 url: /stamford/
-latitude: 41.0534302
-longitude: -73.5387341
+latitude: 41.042
+longitude: -73.559
 ---

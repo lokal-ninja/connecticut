@@ -1,5 +1,5 @@
 ---
 title: "Jewett City Florist and Greenhouse"
 url: /griswold/jewett-city-florist-and-greenhouse/
-shop: garden centre
+shop: Garten-Center
 ---

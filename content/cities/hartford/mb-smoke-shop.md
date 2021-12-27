@@ -1,5 +1,5 @@
 ---
 title: "MB Smoke Shop"
 url: /hartford/mb-smoke-shop/
-shop: tobacco
+shop: Tabak
 ---

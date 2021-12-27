@@ -1,6 +1,6 @@
 ---
 title: Preston
 url: /preston/
-latitude: 
-longitude: 
+latitude: 41.49
+longitude: -72
 ---

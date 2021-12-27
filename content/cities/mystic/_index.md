@@ -1,6 +1,6 @@
 ---
 title: Mystic
 url: /mystic/
-latitude: 41.354265600000005
-longitude: -71.966462
+latitude: 41.346
+longitude: -71.95
 ---

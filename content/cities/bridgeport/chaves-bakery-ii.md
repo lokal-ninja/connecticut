@@ -1,5 +1,5 @@
 ---
 title: "Chaves Bakery II"
 url: /bridgeport/chaves-bakery-ii/
-shop: bakery
+shop: Bäckerei
 ---

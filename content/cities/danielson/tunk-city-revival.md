@@ -1,5 +1,5 @@
 ---
 title: "Tunk City Revival"
 url: /danielson/tunk-city-revival/
-shop: gift
+shop: Andenken
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dayville
 url: /dayville/
-latitude: 41.846487200000006
-longitude: -71.8875721
+latitude: 41.844
+longitude: -71.884
 ---

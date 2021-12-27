@@ -1,5 +1,5 @@
 ---
 title: "SunRay Mini Mart"
 url: /hartford/sunray-mini-mart/
-shop: convenience
+shop: Lebensmittel
 ---

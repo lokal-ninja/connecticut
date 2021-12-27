@@ -1,5 +1,5 @@
 ---
 title: "Image Nails"
 url: /plainfield/image-nails/
-shop: beauty
+shop: Kosmetik
 ---

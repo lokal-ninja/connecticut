@@ -1,5 +1,5 @@
 ---
 title: "Shine"
 url: /ridgefield/shine/
-shop: hairdresser
+shop: Friseur
 ---

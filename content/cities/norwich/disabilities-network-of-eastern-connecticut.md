@@ -1,5 +1,5 @@
 ---
 title: "Disabilities Network of Eastern Connecticut"
 url: /norwich/disabilities-network-of-eastern-connecticut/
-shop: shop
+shop: Allgemein
 ---
