@@ -1,6 +1,6 @@
 ---
 title: Brookfield
 url: /brookfield/
-latitude: 41.442
-longitude: -73.407
+latitude: 41.435
+longitude: -73.413
 ---
