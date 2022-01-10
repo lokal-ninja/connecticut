@@ -1,5 +1,5 @@
 ---
 title: "Body Matrix"
 url: /fairfield/body-matrix/
-shop: Gesundheit
+shop: health
 ---

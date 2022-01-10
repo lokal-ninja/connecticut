@@ -1,5 +1,5 @@
 ---
 title: "Abriola Parkview Funeral Home"
 url: /trumbull/abriola-parkview-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

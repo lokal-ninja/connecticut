@@ -1,5 +1,5 @@
 ---
 title: "Helmut's Foreign Car Service"
 url: /milford/helmuts-foreign-car-service/
-shop: Autowerkstatt
+shop: car repair
 ---

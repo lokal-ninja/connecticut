@@ -1,5 +1,5 @@
 ---
 title: "Foxy Fast Lube"
 url: /willimantic/foxy-fast-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

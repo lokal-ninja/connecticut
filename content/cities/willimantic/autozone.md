@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /willimantic/autozone/
-shop: Autoteile
+shop: car parts
 ---

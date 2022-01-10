@@ -1,5 +1,5 @@
 ---
 title: "Car Factory Direct"
 url: /milford/car-factory-direct/
-shop: Autohaus
+shop: car
 ---

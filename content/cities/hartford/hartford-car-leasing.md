@@ -1,5 +1,5 @@
 ---
 title: "Hartford Car Leasing"
 url: /hartford/hartford-car-leasing/
-shop: Autohaus
+shop: car
 ---

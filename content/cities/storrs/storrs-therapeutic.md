@@ -1,5 +1,5 @@
 ---
 title: "Storrs Therapeutic"
 url: /storrs/storrs-therapeutic/
-shop: Massage
+shop: massage
 ---

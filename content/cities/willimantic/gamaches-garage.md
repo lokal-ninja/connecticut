@@ -1,5 +1,5 @@
 ---
 title: "Gamache's Garage"
 url: /willimantic/gamaches-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /orange/petsmart/
-shop: Tiere
+shop: pet
 ---

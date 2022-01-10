@@ -1,5 +1,5 @@
 ---
 title: "Capitol"
 url: /willimantic/capitol/
-shop: Autohaus
+shop: car
 ---

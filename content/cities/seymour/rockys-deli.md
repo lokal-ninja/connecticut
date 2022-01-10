@@ -1,5 +1,5 @@
 ---
 title: "Rocky's Deli"
 url: /seymour/rockys-deli/
-shop: Feinkost
+shop: deli
 ---

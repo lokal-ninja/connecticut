@@ -1,5 +1,5 @@
 ---
 title: "Aerus"
 url: /west-hartford/aerus/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

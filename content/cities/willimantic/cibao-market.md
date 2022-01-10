@@ -1,5 +1,5 @@
 ---
 title: "Cibao Market"
 url: /willimantic/cibao-market/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motorsports Nation"
 url: /plainfield/motorsports-nation/
-shop: Motorrad
+shop: motorcycle
 ---

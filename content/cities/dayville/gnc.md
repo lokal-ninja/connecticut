@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /dayville/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

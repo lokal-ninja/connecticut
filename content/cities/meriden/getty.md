@@ -1,5 +1,5 @@
 ---
 title: "Getty"
 url: /meriden/getty/
-shop: Lebensmittel
+shop: convenience
 ---

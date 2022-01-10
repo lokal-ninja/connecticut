@@ -1,5 +1,5 @@
 ---
 title: "BigY"
 url: /mansfield/bigy/
-shop: Supermarkt
+shop: supermarket
 ---

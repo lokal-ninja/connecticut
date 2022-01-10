@@ -1,5 +1,5 @@
 ---
 title: "Nirvana"
 url: /plainfield/nirvana/
-shop: Friseur
+shop: hairdresser
 ---

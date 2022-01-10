@@ -1,5 +1,5 @@
 ---
 title: "Formula Society of Automotive Engineers Shop"
 url: /storrs/formula-society-of-automotive-engineers-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

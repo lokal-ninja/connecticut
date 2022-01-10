@@ -1,5 +1,5 @@
 ---
 title: "Weight Watchers"
 url: /fairfield/weight-watchers/
-shop: Allgemein
+shop: shop
 ---

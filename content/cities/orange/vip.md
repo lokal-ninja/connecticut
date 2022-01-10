@@ -1,5 +1,5 @@
 ---
 title: "VIP"
 url: /orange/vip/
-shop: Erotik
+shop: erotic
 ---

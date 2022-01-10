@@ -1,5 +1,5 @@
 ---
 title: "Vachon Chevrolet"
 url: /brooklyn/vachon-chevrolet/
-shop: Autohaus
+shop: car
 ---

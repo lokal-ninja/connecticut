@@ -1,5 +1,5 @@
 ---
 title: "Traveler's Shell"
 url: /dayville/travelers-shell/
-shop: Lebensmittel
+shop: convenience
 ---

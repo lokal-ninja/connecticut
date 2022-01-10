@@ -1,5 +1,5 @@
 ---
 title: "French's Worldwide Travel"
 url: /newington/frenchs-worldwide-travel/
-shop: Reisebüro
+shop: travel agency
 ---

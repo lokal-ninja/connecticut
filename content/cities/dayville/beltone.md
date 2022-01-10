@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /dayville/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baker's Dozen"
 url: /norwich/bakers-dozen/
-shop: Bäckerei
+shop: bakery
 ---

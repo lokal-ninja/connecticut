@@ -1,5 +1,5 @@
 ---
 title: "Health Food Corner"
 url: /winsted/health-food-corner/
-shop: Bioladen
+shop: health food
 ---

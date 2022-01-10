@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /ansonia/marshalls/
-shop: Warenhaus
+shop: department store
 ---

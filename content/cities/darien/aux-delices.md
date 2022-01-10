@@ -1,5 +1,5 @@
 ---
 title: "Aux Délices"
 url: /darien/aux-delices/
-shop: Feinkost
+shop: deli
 ---

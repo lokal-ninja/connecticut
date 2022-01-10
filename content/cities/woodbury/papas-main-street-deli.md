@@ -1,5 +1,5 @@
 ---
 title: "Papa's Main Street Deli"
 url: /woodbury/papas-main-street-deli/
-shop: Feinkost
+shop: deli
 ---

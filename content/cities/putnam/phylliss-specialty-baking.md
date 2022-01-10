@@ -1,5 +1,5 @@
 ---
 title: "Phyllis's Specialty Baking"
 url: /putnam/phylliss-specialty-baking/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tiger Lily's"
 url: /greenwich/tiger-lilys/
-shop: Raumausstattung
+shop: interior decoration
 ---

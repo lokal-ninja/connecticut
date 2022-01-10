@@ -1,5 +1,5 @@
 ---
 title: "Elm City Collision"
 url: /new-haven/elm-city-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

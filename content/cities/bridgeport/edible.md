@@ -1,5 +1,5 @@
 ---
 title: "Edible"
 url: /bridgeport/edible/
-shop: Allgemein
+shop: shop
 ---

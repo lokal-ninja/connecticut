@@ -1,5 +1,5 @@
 ---
 title: "Fairfield County Vacuums"
 url: /stamford/fairfield-county-vacuums/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

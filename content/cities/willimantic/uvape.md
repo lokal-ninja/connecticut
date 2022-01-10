@@ -1,5 +1,5 @@
 ---
 title: "UVape"
 url: /willimantic/uvape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

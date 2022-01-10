@@ -1,5 +1,5 @@
 ---
 title: "Wheels"
 url: /milford/wheels/
-shop: Lebensmittel
+shop: convenience
 ---

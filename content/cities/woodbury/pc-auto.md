@@ -1,5 +1,5 @@
 ---
 title: "PC Auto"
 url: /woodbury/pc-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

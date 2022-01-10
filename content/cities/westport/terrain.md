@@ -1,5 +1,5 @@
 ---
 title: "Terrain"
 url: /westport/terrain/
-shop: Garten-Center
+shop: garden centre
 ---

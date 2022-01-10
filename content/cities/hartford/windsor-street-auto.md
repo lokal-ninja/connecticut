@@ -1,5 +1,5 @@
 ---
 title: "Windsor Street Auto"
 url: /hartford/windsor-street-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

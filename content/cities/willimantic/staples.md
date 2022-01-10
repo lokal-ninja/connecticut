@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /willimantic/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

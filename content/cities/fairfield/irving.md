@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /fairfield/irving/
-shop: Autowerkstatt
+shop: car repair
 ---

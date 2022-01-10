@@ -1,5 +1,5 @@
 ---
 title: "PriceRite"
 url: /danbury/pricerite/
-shop: Supermarkt
+shop: supermarket
 ---

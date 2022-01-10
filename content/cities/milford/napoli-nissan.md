@@ -1,5 +1,5 @@
 ---
 title: "Napoli Nissan"
 url: /milford/napoli-nissan/
-shop: Autohaus
+shop: car
 ---

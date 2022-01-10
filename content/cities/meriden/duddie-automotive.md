@@ -1,5 +1,5 @@
 ---
 title: "Duddie Automotive"
 url: /meriden/duddie-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

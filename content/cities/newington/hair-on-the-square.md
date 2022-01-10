@@ -1,5 +1,5 @@
 ---
 title: "Hair on the Square"
 url: /newington/hair-on-the-square/
-shop: Kosmetik
+shop: beauty
 ---

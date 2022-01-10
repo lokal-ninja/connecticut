@@ -1,5 +1,5 @@
 ---
 title: "Best Cleaners"
 url: /glastonbury/best-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

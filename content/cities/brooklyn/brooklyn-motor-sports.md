@@ -1,5 +1,5 @@
 ---
 title: "Brooklyn Motor Sports"
 url: /brooklyn/brooklyn-motor-sports/
-shop: Autohaus
+shop: car
 ---

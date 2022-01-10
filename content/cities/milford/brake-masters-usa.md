@@ -1,5 +1,5 @@
 ---
 title: "Brake Masters USA"
 url: /milford/brake-masters-usa/
-shop: Autowerkstatt
+shop: car repair
 ---

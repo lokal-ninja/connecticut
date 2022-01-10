@@ -1,5 +1,5 @@
 ---
 title: "Vegas Wireless"
 url: /hartford/vegas-wireless/
-shop: Handy
+shop: mobile phone
 ---

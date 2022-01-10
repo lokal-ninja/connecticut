@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /glastonbury/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

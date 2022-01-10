@@ -1,5 +1,5 @@
 ---
 title: "Kings Acres"
 url: /north-haven/kings-acres/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Richards Service"
 url: /glastonbury/richards-service/
-shop: Autowerkstatt
+shop: car repair
 ---

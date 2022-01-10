@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /middletown/lenscrafters/
-shop: Optiker
+shop: optician
 ---

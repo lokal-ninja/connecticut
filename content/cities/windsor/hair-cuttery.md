@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /windsor/hair-cuttery/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wheels"
 url: /fairfield/wheels/
-shop: Lebensmittel
+shop: convenience
 ---

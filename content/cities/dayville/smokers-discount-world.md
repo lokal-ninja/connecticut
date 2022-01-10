@@ -1,5 +1,5 @@
 ---
 title: "Smoker’s Discount World"
 url: /dayville/smokers-discount-world/
-shop: Tabak
+shop: tobacco
 ---

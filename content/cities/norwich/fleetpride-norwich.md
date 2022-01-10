@@ -1,5 +1,5 @@
 ---
 title: "FleetPride Norwich"
 url: /norwich/fleetpride-norwich/
-shop: Autoteile
+shop: car parts
 ---

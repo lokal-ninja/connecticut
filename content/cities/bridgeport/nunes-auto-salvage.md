@@ -1,5 +1,5 @@
 ---
 title: "Nunes Auto Salvage"
 url: /bridgeport/nunes-auto-salvage/
-shop: Autoteile
+shop: car parts
 ---

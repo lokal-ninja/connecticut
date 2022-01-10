@@ -1,5 +1,5 @@
 ---
 title: "Food Bag"
 url: /wethersfield/food-bag/
-shop: Lebensmittel
+shop: convenience
 ---

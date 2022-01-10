@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /fairfield/carters/
-shop: Kleidung
+shop: clothes
 ---

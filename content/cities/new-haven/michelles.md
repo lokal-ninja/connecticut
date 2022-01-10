@@ -1,5 +1,5 @@
 ---
 title: "Michelle's"
 url: /new-haven/michelles/
-shop: Friseur
+shop: hairdresser
 ---

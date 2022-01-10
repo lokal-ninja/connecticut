@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /fairfield/food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

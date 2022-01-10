@@ -1,5 +1,5 @@
 ---
 title: "Stop and Shop"
 url: /trumbull/stop-and-shop/
-shop: Supermarkt
+shop: supermarket
 ---

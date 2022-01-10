@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /windham/spectrum/
-shop: Handy
+shop: mobile phone
 ---

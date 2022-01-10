@@ -1,5 +1,5 @@
 ---
 title: "Monro Muffler Brake"
 url: /east-hartford/monro-muffler-brake/
-shop: Autowerkstatt
+shop: car repair
 ---

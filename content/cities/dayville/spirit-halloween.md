@@ -1,5 +1,5 @@
 ---
 title: "Spirit Halloween"
 url: /dayville/spirit-halloween/
-shop: Andenken
+shop: gift
 ---

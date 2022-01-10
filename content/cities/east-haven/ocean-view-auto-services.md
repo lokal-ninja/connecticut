@@ -1,5 +1,5 @@
 ---
 title: "Ocean View Auto Services"
 url: /east-haven/ocean-view-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

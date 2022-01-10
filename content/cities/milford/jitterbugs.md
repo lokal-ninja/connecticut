@@ -1,5 +1,5 @@
 ---
 title: "Jitterbugs"
 url: /milford/jitterbugs/
-shop: Sport
+shop: sports
 ---

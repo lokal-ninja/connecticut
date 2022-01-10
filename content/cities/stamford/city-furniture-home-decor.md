@@ -1,5 +1,5 @@
 ---
 title: "City Furniture Home Decor"
 url: /stamford/city-furniture-home-decor/
-shop: Möbel
+shop: furniture
 ---

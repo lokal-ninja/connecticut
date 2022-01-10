@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /avon/walmart/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /dayville/hair-cuttery/
-shop: Friseur
+shop: hairdresser
 ---

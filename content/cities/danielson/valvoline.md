@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /danielson/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

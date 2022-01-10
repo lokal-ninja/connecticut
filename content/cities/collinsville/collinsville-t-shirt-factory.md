@@ -1,5 +1,5 @@
 ---
 title: "Collinsville T-Shirt Factory"
 url: /collinsville/collinsville-t-shirt-factory/
-shop: Kleidung
+shop: clothes
 ---

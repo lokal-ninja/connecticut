@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /east-hartford/walgreens/
-shop: Drogerie
+shop: chemist
 ---

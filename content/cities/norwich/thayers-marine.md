@@ -1,5 +1,5 @@
 ---
 title: "Thayer's Marine"
 url: /norwich/thayers-marine/
-shop: Boot
+shop: boat
 ---

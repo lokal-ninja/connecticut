@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /trumbull/target/
-shop: Warenhaus
+shop: department store
 ---

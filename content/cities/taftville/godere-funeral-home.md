@@ -1,5 +1,5 @@
 ---
 title: "Godere Funeral Home"
 url: /taftville/godere-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

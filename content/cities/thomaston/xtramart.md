@@ -1,5 +1,5 @@
 ---
 title: "Xtramart"
 url: /thomaston/xtramart/
-shop: Lebensmittel
+shop: convenience
 ---

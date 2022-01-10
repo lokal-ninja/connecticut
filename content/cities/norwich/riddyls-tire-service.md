@@ -1,5 +1,5 @@
 ---
 title: "Riddyls Tire Service"
 url: /norwich/riddyls-tire-service/
-shop: Autowerkstatt
+shop: car repair
 ---

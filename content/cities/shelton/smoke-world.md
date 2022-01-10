@@ -1,5 +1,5 @@
 ---
 title: "Smoke World"
 url: /shelton/smoke-world/
-shop: Allgemein
+shop: shop
 ---

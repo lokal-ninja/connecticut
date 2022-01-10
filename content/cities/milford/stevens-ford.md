@@ -1,5 +1,5 @@
 ---
 title: "Stevens Ford"
 url: /milford/stevens-ford/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HearingLife"
 url: /norwich/hearinglife/
-shop: Hörgeräte
+shop: hearing aids
 ---

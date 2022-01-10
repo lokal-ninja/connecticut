@@ -1,5 +1,5 @@
 ---
 title: "Gulf Express"
 url: /meriden/gulf-express/
-shop: Lebensmittel
+shop: convenience
 ---

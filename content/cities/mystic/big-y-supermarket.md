@@ -1,5 +1,5 @@
 ---
 title: "Big Y Supermarket"
 url: /mystic/big-y-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

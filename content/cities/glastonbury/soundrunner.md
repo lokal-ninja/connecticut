@@ -1,5 +1,5 @@
 ---
 title: "SoundRunner"
 url: /glastonbury/soundrunner/
-shop: Sport
+shop: sports
 ---
