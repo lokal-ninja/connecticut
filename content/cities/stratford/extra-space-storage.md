@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
-url: /orange/extra-space-storage-2/
+url: /stratford/extra-space-storage/
 shop: storage rental
 ---
