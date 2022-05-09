@@ -1,10 +1,10 @@
-id: 8978090634
-type: node
-latitude: 41.47653
-longitude: -72.26306
+id: 970184823
+type: way
+latitude: 41.47655
+longitude: -72.26288
 postcode: "06420"
 city: Salem
-street: "New London Road"
+street: "New London Road;New Road"
 housenumber: 12
 phone: "+1 860 859 0741"
 opening_hours: "Tu-Su 08:00-18:00"
