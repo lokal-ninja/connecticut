@@ -1,5 +1,5 @@
 ---
 title: "Balance Hair Studio"
-url: /taftville/balance-hair-studio/
+url: /norwich/balance-hair-studio/
 shop: hairdresser
 ---

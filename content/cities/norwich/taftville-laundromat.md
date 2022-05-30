@@ -1,5 +1,5 @@
 ---
 title: "Taftville Laundromat"
-url: /taftville/taftville-laundromat/
+url: /norwich/taftville-laundromat/
 shop: laundry
 ---

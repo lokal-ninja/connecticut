@@ -1,5 +1,5 @@
 ---
 title: "Godere Funeral Home"
-url: /taftville/godere-funeral-home/
+url: /norwich/godere-funeral-home/
 shop: funeral directors
 ---
