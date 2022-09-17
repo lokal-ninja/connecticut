@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
-url: /stamford/nothing-bundt-cakes/
+url: /west-hartford/nothing-bundt-cakes/
 shop: pastry
 ---
