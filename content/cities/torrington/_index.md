@@ -1,6 +1,6 @@
 ---
 title: Torrington
 url: /torrington/
-latitude: 41.807
-longitude: -73.11
+latitude: 41.805
+longitude: -73.132
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ridgefield
 url: /ridgefield/
-latitude: 41.281
-longitude: -73.5
+latitude: 41.295
+longitude: -73.495
 ---
