@@ -1,6 +1,6 @@
 ---
 title: Ledyard
 url: /ledyard/
-latitude: 41.442
-longitude: -72.018
+latitude: 41.47
+longitude: -71.953
 ---

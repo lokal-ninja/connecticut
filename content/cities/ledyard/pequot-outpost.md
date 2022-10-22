@@ -1,5 +1,5 @@
 ---
 title: "Pequot Outpost"
-url: /mashantucket/pequot-outpost/
+url: /ledyard/pequot-outpost/
 shop: convenience
 ---

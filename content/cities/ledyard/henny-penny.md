@@ -1,5 +1,5 @@
 ---
 title: "Henny Penny"
-url: /gales-ferry/henny-penny/
+url: /ledyard/henny-penny/
 shop: convenience
 ---
