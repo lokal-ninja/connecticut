@@ -1,6 +1,6 @@
 ---
 title: North Franklin
 url: /north-franklin/
-latitude: 41.635
-longitude: -72.166
+latitude: 41.644
+longitude: -72.16
 ---
