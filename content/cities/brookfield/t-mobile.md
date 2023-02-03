@@ -1,5 +1,5 @@
 ---
-title: "T mobile"
+title: "T-Mobile"
 url: /brookfield/t-mobile/
-shop: electronics
+shop: mobile phone
 ---
