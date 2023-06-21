@@ -1,6 +1,6 @@
 ---
 title: Simsbury
 url: /simsbury/
-latitude: 41.875
-longitude: -72.801
+latitude: 41.861
+longitude: -72.81
 ---
