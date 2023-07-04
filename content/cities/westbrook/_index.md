@@ -1,6 +1,6 @@
 ---
 title: Westbrook
 url: /westbrook/
-latitude: 41.291
-longitude: -72.442
+latitude: 41.29
+longitude: -72.446
 ---
