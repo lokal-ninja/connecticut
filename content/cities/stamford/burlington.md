@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /stamford/burlington/
-shop: clothes
+shop: department store
 ---
