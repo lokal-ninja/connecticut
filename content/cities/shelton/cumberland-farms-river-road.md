@@ -1,5 +1,5 @@
 ---
 title: "Cumberland Farms"
-url: /shelton/cumberland-farms/
+url: /shelton/cumberland-farms-river-road/
 shop: convenience
 ---

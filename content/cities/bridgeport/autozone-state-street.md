@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /bridgeport/autozone/
+url: /bridgeport/autozone-state-street/
 shop: car parts
 ---

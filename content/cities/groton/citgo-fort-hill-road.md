@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
-url: /groton/citgo/
+url: /groton/citgo-fort-hill-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cumberland Farms"
-url: /willimantic/cumberland-farms/
+url: /willimantic/cumberland-farms-jackson-street/
 shop: convenience
 ---

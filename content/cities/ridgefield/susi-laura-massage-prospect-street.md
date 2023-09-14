@@ -1,5 +1,5 @@
 ---
 title: "SUSI LAURA MASSAGE"
-url: /ridgefield/susi-laura-massage/
+url: /ridgefield/susi-laura-massage-prospect-street/
 shop: massage
 ---

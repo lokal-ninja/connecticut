@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /norwich/shell/
+url: /norwich/shell-west-main-street/
 shop: convenience
 ---
