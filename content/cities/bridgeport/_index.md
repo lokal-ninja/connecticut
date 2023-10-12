@@ -1,6 +1,6 @@
 ---
 title: Bridgeport
 url: /bridgeport/
-latitude: 41.183
-longitude: -73.199
+latitude: 41.195
+longitude: -73.201
 ---

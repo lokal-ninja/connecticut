@@ -1,6 +1,6 @@
 ---
 title: Willimantic
 url: /willimantic/
-latitude: 41.711
-longitude: -72.208
+latitude: 41.724
+longitude: -72.238
 ---
