@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /wilimantic/dollar-general/
+url: /windham/dollar-general/
 shop: variety store
 ---

@@ -1,6 +1,6 @@
 ---
 title: Meriden
 url: /meriden/
-latitude: 41.53
-longitude: -72.78
+latitude: 41.507
+longitude: -72.807
 ---
