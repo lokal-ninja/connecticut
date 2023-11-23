@@ -1,6 +1,6 @@
 ---
 title: Naugatuck
 url: /naugatuck/
-latitude: 41.47
-longitude: -73.028
+latitude: 41.502
+longitude: -73.045
 ---
