@@ -1,6 +1,6 @@
 ---
 title: Cheshire
 url: /cheshire/
-latitude: 41.506
-longitude: -72.901
+latitude: 41.515
+longitude: -72.926
 ---
