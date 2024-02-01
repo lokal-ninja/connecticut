@@ -1,5 +1,5 @@
 ---
 title: "The UPS Store"
-url: /fairfield/the-ups-store-post-road/
+url: /wethersfield/the-ups-store/
 shop: copyshop
 ---
