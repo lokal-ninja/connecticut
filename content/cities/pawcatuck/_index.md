@@ -1,6 +1,6 @@
 ---
 title: Pawcatuck
 url: /pawcatuck/
-latitude: 41.369
-longitude: -71.837
+latitude: 41.407
+longitude: -71.846
 ---

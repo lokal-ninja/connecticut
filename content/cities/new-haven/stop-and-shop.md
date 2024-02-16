@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /farmington/stop-and-shop/
+url: /new-haven/stop-and-shop/
 shop: supermarket
 ---

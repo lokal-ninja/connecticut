@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /glastonbury/stop-and-shop-oak-street/
+url: /west-haven/stop-and-shop/
 shop: supermarket
 ---
