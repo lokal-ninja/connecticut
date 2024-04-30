@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
-url: /hartford/boost-mobile-albany-avenue/
+url: /hartford/boost-mobile-new-britain-avenue/
 shop: mobile phone
 ---
