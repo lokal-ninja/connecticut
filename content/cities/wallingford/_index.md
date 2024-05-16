@@ -1,6 +1,6 @@
 ---
 title: Wallingford
 url: /wallingford/
-latitude: 41.502
-longitude: -72.81
+latitude: 41.5
+longitude: -72.811
 ---
