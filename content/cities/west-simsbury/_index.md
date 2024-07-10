@@ -1,6 +1,6 @@
 ---
 title: West Simsbury
 url: /west-simsbury/
-latitude: 41.819
-longitude: -72.868
+latitude: 41.82
+longitude: -72.87
 ---
