@@ -1,6 +1,6 @@
 ---
 title: Hamden
 url: /hamden/
-latitude: 41.372
-longitude: -72.914
+latitude: 41.363
+longitude: -72.922
 ---
