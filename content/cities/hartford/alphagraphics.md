@@ -1,5 +1,5 @@
 ---
 title: "AlphaGraphics"
 url: /hartford/alphagraphics/
-shop: copyshop
+shop: Kopieren
 ---

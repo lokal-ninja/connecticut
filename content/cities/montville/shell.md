@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /montville/shell/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centre For Natural Healing"
 url: /norwalk/centre-for-natural-healing/
-shop: chemist
+shop: Drogerie
 ---

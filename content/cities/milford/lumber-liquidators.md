@@ -1,5 +1,5 @@
 ---
 title: "Lumber Liquidators"
 url: /milford/lumber-liquidators/
-shop: trade
+shop: Baustoffe
 ---

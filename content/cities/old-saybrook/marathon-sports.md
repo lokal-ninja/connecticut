@@ -1,5 +1,5 @@
 ---
 title: "Marathon Sports"
 url: /old-saybrook/marathon-sports/
-shop: sports
+shop: Sport
 ---

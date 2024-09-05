@@ -1,5 +1,5 @@
 ---
 title: "Cost Cutters"
 url: /meriden/cost-cutters/
-shop: hairdresser
+shop: Friseur
 ---

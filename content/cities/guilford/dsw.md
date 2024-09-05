@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /guilford/dsw/
-shop: shoes
+shop: Schuhe
 ---

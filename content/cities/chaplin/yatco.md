@@ -1,5 +1,5 @@
 ---
 title: "Yatco"
 url: /chaplin/yatco/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Redbox"
 url: /madison/redbox/
-shop: video
+shop: Videothek
 ---

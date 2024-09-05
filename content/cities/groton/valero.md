@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /groton/valero/
-shop: convenience
+shop: Lebensmittel
 ---

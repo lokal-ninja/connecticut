@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /jewett-city/mobil-mart/
-shop: convenience
+shop: Lebensmittel
 ---

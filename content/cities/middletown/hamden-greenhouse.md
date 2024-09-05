@@ -1,5 +1,5 @@
 ---
 title: "Hamden Greenhouse"
 url: /middletown/hamden-greenhouse/
-shop: garden centre
+shop: Garten-Center
 ---

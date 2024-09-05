@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /putnam/hallmark/
-shop: gift
+shop: Andenken
 ---

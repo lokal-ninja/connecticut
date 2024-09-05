@@ -1,5 +1,5 @@
 ---
 title: "Romantix"
 url: /bridgeport/romantix/
-shop: erotic
+shop: Erotik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DBCustoms"
 url: /columbia/dbcustoms/
-shop: car repair
+shop: Autowerkstatt
 ---

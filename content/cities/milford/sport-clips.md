@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /milford/sport-clips/
-shop: hairdresser
+shop: Friseur
 ---

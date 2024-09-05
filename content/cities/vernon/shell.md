@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /vernon/shell/
-shop: convenience
+shop: Lebensmittel
 ---

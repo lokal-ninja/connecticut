@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /branford/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

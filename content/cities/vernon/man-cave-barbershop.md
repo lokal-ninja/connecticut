@@ -1,5 +1,5 @@
 ---
 title: "Man Cave Barbershop"
 url: /vernon/man-cave-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giuliana"
 url: /fairfield/giuliana/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fable"
 url: /southington/fable/
-shop: tea
+shop: Tee
 ---

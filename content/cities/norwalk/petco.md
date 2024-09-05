@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /norwalk/petco/
-shop: pet
+shop: Tiere
 ---

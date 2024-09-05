@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /bloomfield/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

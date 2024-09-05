@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /willimantic/edible-arrangements/
-shop: gift
+shop: Andenken
 ---

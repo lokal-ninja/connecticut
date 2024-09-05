@@ -1,5 +1,5 @@
 ---
 title: "Merwin's Art Shop"
 url: /new-haven/merwins-art-shop/
-shop: interior decoration
+shop: Raumausstattung
 ---

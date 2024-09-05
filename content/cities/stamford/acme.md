@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /stamford/acme/
-shop: supermarket
+shop: Supermarkt
 ---

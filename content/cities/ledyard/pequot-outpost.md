@@ -1,5 +1,5 @@
 ---
 title: "Pequot Outpost"
 url: /ledyard/pequot-outpost/
-shop: convenience
+shop: Lebensmittel
 ---

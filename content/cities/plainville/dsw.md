@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /plainville/dsw/
-shop: shoes
+shop: Schuhe
 ---

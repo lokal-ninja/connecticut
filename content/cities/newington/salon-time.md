@@ -1,5 +1,5 @@
 ---
 title: "Salon Time"
 url: /newington/salon-time/
-shop: hairdresser
+shop: Friseur
 ---

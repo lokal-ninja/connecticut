@@ -1,5 +1,5 @@
 ---
 title: "Preston Market"
 url: /preston/preston-market/
-shop: convenience
+shop: Lebensmittel
 ---

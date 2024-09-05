@@ -1,5 +1,5 @@
 ---
 title: "Zig Zag"
 url: /bridgeport/zig-zag/
-shop: convenience
+shop: Lebensmittel
 ---

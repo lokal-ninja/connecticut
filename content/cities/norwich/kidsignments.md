@@ -1,5 +1,5 @@
 ---
 title: "Kidsignments"
 url: /norwich/kidsignments/
-shop: clothes
+shop: Kleidung
 ---

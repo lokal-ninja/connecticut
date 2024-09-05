@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /newington/trek/
-shop: bicycle
+shop: Fahrrad
 ---

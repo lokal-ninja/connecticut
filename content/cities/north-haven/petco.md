@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /north-haven/petco/
-shop: pet
+shop: Tiere
 ---

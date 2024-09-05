@@ -1,5 +1,5 @@
 ---
 title: "Robeks"
 url: /fairfield/robeks/
-shop: beverages
+shop: Getränke
 ---

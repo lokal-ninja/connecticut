@@ -1,5 +1,5 @@
 ---
 title: "Blossom Shop"
 url: /new-haven/blossom-shop/
-shop: florist
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Battison's"
 url: /wethersfield/battisons/
-shop: laundry
+shop: Wäscherei
 ---

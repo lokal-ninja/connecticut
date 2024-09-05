@@ -1,5 +1,5 @@
 ---
 title: "Slavianka"
 url: /stratford/slavianka/
-shop: deli
+shop: Feinkost
 ---

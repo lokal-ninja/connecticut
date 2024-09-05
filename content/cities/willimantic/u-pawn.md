@@ -1,5 +1,5 @@
 ---
 title: "U-Pawn"
 url: /willimantic/u-pawn/
-shop: pawnbroker
+shop: Leiher
 ---

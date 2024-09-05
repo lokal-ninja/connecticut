@@ -1,5 +1,5 @@
 ---
 title: "alltown"
 url: /manchester/alltown/
-shop: convenience
+shop: Lebensmittel
 ---

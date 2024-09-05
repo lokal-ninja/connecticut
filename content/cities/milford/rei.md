@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /milford/rei/
-shop: outdoor
+shop: Outdoor
 ---

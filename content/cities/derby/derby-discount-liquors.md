@@ -1,5 +1,5 @@
 ---
 title: "Derby Discount Liquors"
 url: /derby/derby-discount-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

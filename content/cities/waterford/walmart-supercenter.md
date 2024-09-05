@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /waterford/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "XtraMart"
 url: /manchester/xtramart/
-shop: convenience
+shop: Lebensmittel
 ---

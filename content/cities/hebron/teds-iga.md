@@ -1,5 +1,5 @@
 ---
 title: "Ted's IGA"
 url: /hebron/teds-iga/
-shop: supermarket
+shop: Supermarkt
 ---

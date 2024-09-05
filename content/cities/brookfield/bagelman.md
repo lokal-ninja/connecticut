@@ -1,5 +1,5 @@
 ---
 title: "Bagelman"
 url: /brookfield/bagelman/
-shop: bakery
+shop: Bäckerei
 ---

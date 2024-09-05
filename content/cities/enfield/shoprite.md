@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /enfield/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

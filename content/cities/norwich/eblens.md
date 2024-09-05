@@ -1,5 +1,5 @@
 ---
 title: "Eblens"
 url: /norwich/eblens/
-shop: clothes
+shop: Kleidung
 ---

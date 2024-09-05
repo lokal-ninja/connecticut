@@ -1,5 +1,5 @@
 ---
 title: "Specs"
 url: /fairfield/specs/
-shop: optician
+shop: Optiker
 ---

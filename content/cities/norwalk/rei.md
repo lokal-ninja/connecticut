@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /norwalk/rei/
-shop: outdoor
+shop: Outdoor
 ---

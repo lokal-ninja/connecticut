@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /milford/carters/
-shop: clothes
+shop: Kleidung
 ---

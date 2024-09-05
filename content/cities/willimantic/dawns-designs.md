@@ -1,5 +1,5 @@
 ---
 title: "Dawn's Designs"
 url: /willimantic/dawns-designs/
-shop: beauty
+shop: Kosmetik
 ---

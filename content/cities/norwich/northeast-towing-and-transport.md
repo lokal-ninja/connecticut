@@ -1,5 +1,5 @@
 ---
 title: "Northeast Towing and Transport"
 url: /norwich/northeast-towing-and-transport/
-shop: car repair
+shop: Autowerkstatt
 ---

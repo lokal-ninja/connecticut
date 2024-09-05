@@ -1,5 +1,5 @@
 ---
 title: "E-Six"
 url: /middletown/e-six/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

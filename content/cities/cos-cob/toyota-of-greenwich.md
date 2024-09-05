@@ -1,5 +1,5 @@
 ---
 title: "Toyota of Greenwich"
 url: /cos-cob/toyota-of-greenwich/
-shop: car
+shop: Autohaus
 ---

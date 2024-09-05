@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /torrington/irving/
-shop: convenience
+shop: Lebensmittel
 ---

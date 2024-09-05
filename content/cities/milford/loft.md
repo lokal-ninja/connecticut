@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /milford/loft/
-shop: clothes
+shop: Kleidung
 ---

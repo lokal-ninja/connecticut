@@ -1,5 +1,5 @@
 ---
 title: "ABC Marketing"
 url: /new-haven/abc-marketing/
-shop: copyshop
+shop: Kopieren
 ---

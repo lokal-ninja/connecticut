@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /danbury/dsw/
-shop: shoes
+shop: Schuhe
 ---

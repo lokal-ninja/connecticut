@@ -1,5 +1,5 @@
 ---
 title: "Nardelli's"
 url: /oxford/nardellis/
-shop: deli
+shop: Feinkost
 ---

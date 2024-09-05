@@ -1,5 +1,5 @@
 ---
 title: "Cycleology"
 url: /westport/cycleology/
-shop: bicycle
+shop: Fahrrad
 ---

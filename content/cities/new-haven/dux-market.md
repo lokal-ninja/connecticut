@@ -1,5 +1,5 @@
 ---
 title: "Dux Market"
 url: /new-haven/dux-market/
-shop: convenience
+shop: Lebensmittel
 ---

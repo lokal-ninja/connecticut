@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /newington/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

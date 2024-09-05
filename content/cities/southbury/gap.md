@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /southbury/gap/
-shop: clothes
+shop: Kleidung
 ---

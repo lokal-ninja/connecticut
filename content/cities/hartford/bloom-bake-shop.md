@@ -1,5 +1,5 @@
 ---
 title: "Bloom Bake Shop"
 url: /hartford/bloom-bake-shop/
-shop: bakery
+shop: Bäckerei
 ---

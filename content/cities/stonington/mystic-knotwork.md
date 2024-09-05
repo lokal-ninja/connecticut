@@ -1,5 +1,5 @@
 ---
 title: "Mystic Knotwork"
 url: /stonington/mystic-knotwork/
-shop: gift
+shop: Andenken
 ---
