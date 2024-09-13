@@ -1,5 +1,5 @@
 ---
 title: "Valley Oil"
 url: /willimantic/valley-oil/
-shop: Treibstoff
+shop: fuel
 ---

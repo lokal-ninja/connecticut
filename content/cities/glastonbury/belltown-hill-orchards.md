@@ -1,5 +1,5 @@
 ---
 title: "Belltown Hill Orchards"
 url: /glastonbury/belltown-hill-orchards/
-shop: Hofladen
+shop: farm
 ---

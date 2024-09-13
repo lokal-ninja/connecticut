@@ -1,5 +1,5 @@
 ---
 title: "Choppe Shoppe"
 url: /glastonbury/choppe-shoppe/
-shop: Friseur
+shop: hairdresser
 ---

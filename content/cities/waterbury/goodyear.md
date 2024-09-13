@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /waterbury/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunkin'"
 url: /bristol/dunkin/
-shop: Kaffee
+shop: coffee
 ---

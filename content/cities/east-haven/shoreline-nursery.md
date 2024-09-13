@@ -1,5 +1,5 @@
 ---
 title: "Shoreline Nursery"
 url: /east-haven/shoreline-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

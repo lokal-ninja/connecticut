@@ -1,5 +1,5 @@
 ---
 title: "Mobile Mart"
 url: /bridgeport/mobile-mart/
-shop: Lebensmittel
+shop: convenience
 ---

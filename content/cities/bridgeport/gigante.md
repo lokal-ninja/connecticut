@@ -1,5 +1,5 @@
 ---
 title: "Gigante"
 url: /bridgeport/gigante/
-shop: Lebensmittel
+shop: convenience
 ---

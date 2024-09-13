@@ -1,5 +1,5 @@
 ---
 title: "Curves"
 url: /bridgeport/curves/
-shop: Kleidung
+shop: clothes
 ---

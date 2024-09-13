@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /danbury/food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

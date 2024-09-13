@@ -1,5 +1,5 @@
 ---
 title: "Park City Wireless"
 url: /bridgeport/park-city-wireless/
-shop: Handy
+shop: mobile phone
 ---

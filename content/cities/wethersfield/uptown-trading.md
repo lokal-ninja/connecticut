@@ -1,5 +1,5 @@
 ---
 title: "Uptown Trading"
 url: /wethersfield/uptown-trading/
-shop: Leiher
+shop: pawnbroker
 ---

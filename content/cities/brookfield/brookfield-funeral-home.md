@@ -1,5 +1,5 @@
 ---
 title: "Brookfield Funeral Home"
 url: /brookfield/brookfield-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

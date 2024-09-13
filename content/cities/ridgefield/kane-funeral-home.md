@@ -1,5 +1,5 @@
 ---
 title: "Kane Funeral Home"
 url: /ridgefield/kane-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

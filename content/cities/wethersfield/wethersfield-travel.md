@@ -1,5 +1,5 @@
 ---
 title: "Wethersfield Travel"
 url: /wethersfield/wethersfield-travel/
-shop: Reisebüro
+shop: travel agency
 ---

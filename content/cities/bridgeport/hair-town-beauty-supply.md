@@ -1,5 +1,5 @@
 ---
 title: "Hair Town Beauty Supply"
 url: /bridgeport/hair-town-beauty-supply/
-shop: Kosmetik
+shop: beauty
 ---

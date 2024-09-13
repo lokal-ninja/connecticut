@@ -1,5 +1,5 @@
 ---
 title: "Adriaenz"
 url: /putnam/adriaenz/
-shop: Auktionshaus
+shop: auction house
 ---

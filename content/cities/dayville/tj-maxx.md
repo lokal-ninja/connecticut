@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /dayville/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

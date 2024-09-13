@@ -1,5 +1,5 @@
 ---
 title: "Eblens"
 url: /bridgeport/eblens/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lifestyles"
 url: /new-haven/lifestyles/
-shop: Kleidung
+shop: clothes
 ---

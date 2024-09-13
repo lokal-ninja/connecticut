@@ -1,5 +1,5 @@
 ---
 title: "ReStore"
 url: /vernon/restore/
-shop: Gebrauchtwaren
+shop: charity
 ---

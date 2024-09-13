@@ -1,5 +1,5 @@
 ---
 title: "Bolton Notch Self Storage"
 url: /bolton/bolton-notch-self-storage/
-shop: Mieten
+shop: storage rental
 ---

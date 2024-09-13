@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /fairfield/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

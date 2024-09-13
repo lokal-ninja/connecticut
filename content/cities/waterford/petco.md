@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /waterford/petco/
-shop: Tiere
+shop: pet
 ---

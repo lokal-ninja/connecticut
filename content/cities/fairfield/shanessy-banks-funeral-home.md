@@ -1,5 +1,5 @@
 ---
 title: "Shanessy-Banks Funeral Home"
 url: /fairfield/shanessy-banks-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

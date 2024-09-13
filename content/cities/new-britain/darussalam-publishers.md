@@ -1,5 +1,5 @@
 ---
 title: "Darussalam Publishers"
 url: /new-britain/darussalam-publishers/
-shop: Bücher
+shop: books
 ---

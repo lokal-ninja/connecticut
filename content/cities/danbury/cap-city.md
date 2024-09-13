@@ -1,5 +1,5 @@
 ---
 title: "Cap City"
 url: /danbury/cap-city/
-shop: Autoteile
+shop: car parts
 ---

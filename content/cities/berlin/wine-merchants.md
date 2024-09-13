@@ -1,5 +1,5 @@
 ---
 title: "Wine Merchants"
 url: /berlin/wine-merchants/
-shop: Spirituosen
+shop: alcohol
 ---

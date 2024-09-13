@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /fairfield/shell/
-shop: Lebensmittel
+shop: convenience
 ---

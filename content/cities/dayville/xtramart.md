@@ -1,5 +1,5 @@
 ---
 title: "XtraMart"
 url: /dayville/xtramart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BestWay Citgo"
 url: /bozrah/bestway-citgo/
-shop: Lebensmittel
+shop: convenience
 ---

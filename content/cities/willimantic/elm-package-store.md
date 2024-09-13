@@ -1,5 +1,5 @@
 ---
 title: "Elm Package Store"
 url: /willimantic/elm-package-store/
-shop: Spirituosen
+shop: alcohol
 ---

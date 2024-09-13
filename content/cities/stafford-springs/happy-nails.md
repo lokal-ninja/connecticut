@@ -1,5 +1,5 @@
 ---
 title: "Happy Nails"
 url: /stafford-springs/happy-nails/
-shop: Kosmetik
+shop: beauty
 ---

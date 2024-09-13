@@ -1,5 +1,5 @@
 ---
 title: "Fisher Florist"
 url: /new-london/fisher-florist/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "True Value"
 url: /willimantic/true-value/
-shop: Eisenwaren
+shop: hardware
 ---

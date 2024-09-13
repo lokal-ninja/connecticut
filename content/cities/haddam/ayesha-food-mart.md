@@ -1,5 +1,5 @@
 ---
 title: "Ayesha Food Mart"
 url: /haddam/ayesha-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Vision Shoppe"
 url: /brookfield/the-vision-shoppe/
-shop: Optiker
+shop: optician
 ---

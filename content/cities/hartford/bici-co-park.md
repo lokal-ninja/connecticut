@@ -1,5 +1,5 @@
 ---
 title: "BiCi Co Park"
 url: /hartford/bici-co-park/
-shop: Fahrrad
+shop: bicycle
 ---

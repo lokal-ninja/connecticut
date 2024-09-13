@@ -1,5 +1,5 @@
 ---
 title: "Oriental Groceries"
 url: /windham/oriental-groceries/
-shop: Supermarkt
+shop: supermarket
 ---

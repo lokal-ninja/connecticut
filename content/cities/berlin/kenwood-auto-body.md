@@ -1,5 +1,5 @@
 ---
 title: "Kenwood Auto Body"
 url: /berlin/kenwood-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

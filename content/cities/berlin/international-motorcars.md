@@ -1,5 +1,5 @@
 ---
 title: "International Motorcars"
 url: /berlin/international-motorcars/
-shop: Autowerkstatt
+shop: car repair
 ---

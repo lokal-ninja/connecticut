@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /ansonia/target/
-shop: Warenhaus
+shop: department store
 ---

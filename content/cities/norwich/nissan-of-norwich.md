@@ -1,5 +1,5 @@
 ---
 title: "Nissan of Norwich"
 url: /norwich/nissan-of-norwich/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Isa"
 url: /fairfield/salon-isa/
-shop: Friseur
+shop: hairdresser
 ---

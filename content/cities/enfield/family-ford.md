@@ -1,5 +1,5 @@
 ---
 title: "Family Ford"
 url: /enfield/family-ford/
-shop: Autohaus
+shop: car
 ---

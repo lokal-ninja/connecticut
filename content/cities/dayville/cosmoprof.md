@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /dayville/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

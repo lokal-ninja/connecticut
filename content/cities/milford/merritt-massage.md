@@ -1,5 +1,5 @@
 ---
 title: "Merritt Massage"
 url: /milford/merritt-massage/
-shop: Massage
+shop: massage
 ---

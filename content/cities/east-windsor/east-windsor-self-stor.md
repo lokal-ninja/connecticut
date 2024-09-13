@@ -1,5 +1,5 @@
 ---
 title: "East Windsor Self-Stor"
 url: /east-windsor/east-windsor-self-stor/
-shop: Mieten
+shop: storage rental
 ---

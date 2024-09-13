@@ -1,5 +1,5 @@
 ---
 title: "Fonda"
 url: /bridgeport/fonda/
-shop: Bäckerei
+shop: bakery
 ---

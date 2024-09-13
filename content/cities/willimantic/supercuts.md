@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /willimantic/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /milford/costco/
-shop: Großhandel
+shop: wholesale
 ---

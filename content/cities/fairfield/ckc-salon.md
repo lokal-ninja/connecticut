@@ -1,5 +1,5 @@
 ---
 title: "CKC salon"
 url: /fairfield/ckc-salon/
-shop: Friseur
+shop: hairdresser
 ---

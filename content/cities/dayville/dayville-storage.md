@@ -1,5 +1,5 @@
 ---
 title: "Dayville Storage"
 url: /dayville/dayville-storage/
-shop: Mieten
+shop: storage rental
 ---

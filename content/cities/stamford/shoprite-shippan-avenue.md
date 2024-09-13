@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /stamford/shoprite-shippan-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

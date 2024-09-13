@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /hartford/airgas/
-shop: Gasflaschen
+shop: gas
 ---

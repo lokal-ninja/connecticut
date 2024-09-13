@@ -1,5 +1,5 @@
 ---
 title: "Control/Temp Oil"
 url: /willimantic/control-temp-oil/
-shop: Treibstoff
+shop: fuel
 ---

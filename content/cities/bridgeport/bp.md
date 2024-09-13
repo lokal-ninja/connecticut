@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /bridgeport/bp/
-shop: Autowerkstatt
+shop: car repair
 ---

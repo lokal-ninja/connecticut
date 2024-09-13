@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /torrington/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

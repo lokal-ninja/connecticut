@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /north-haven/big-lots/
-shop: Warenhaus
+shop: department store
 ---

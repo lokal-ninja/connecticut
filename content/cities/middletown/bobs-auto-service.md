@@ -1,5 +1,5 @@
 ---
 title: "Bob's Auto Service"
 url: /middletown/bobs-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

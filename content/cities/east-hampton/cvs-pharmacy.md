@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /east-hampton/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

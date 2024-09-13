@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /brookfield/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

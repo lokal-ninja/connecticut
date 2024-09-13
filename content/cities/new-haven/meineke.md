@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /new-haven/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

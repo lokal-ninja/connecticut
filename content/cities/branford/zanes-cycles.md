@@ -1,5 +1,5 @@
 ---
 title: "Zane's Cycles"
 url: /branford/zanes-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

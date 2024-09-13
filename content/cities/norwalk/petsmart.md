@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /norwalk/petsmart/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maples Self-Storit"
 url: /middletown/maples-self-storit/
-shop: Mieten
+shop: storage rental
 ---

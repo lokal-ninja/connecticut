@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /branford/mattress-firm/
-shop: Betten
+shop: bed
 ---

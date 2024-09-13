@@ -1,5 +1,5 @@
 ---
 title: "Super Star"
 url: /bridgeport/super-star/
-shop: Kosmetik
+shop: beauty
 ---

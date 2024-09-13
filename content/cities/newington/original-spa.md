@@ -1,5 +1,5 @@
 ---
 title: "Original Spa"
 url: /newington/original-spa/
-shop: Massage
+shop: massage
 ---

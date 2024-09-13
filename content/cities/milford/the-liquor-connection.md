@@ -1,5 +1,5 @@
 ---
 title: "The Liquor Connection"
 url: /milford/the-liquor-connection/
-shop: Spirituosen
+shop: alcohol
 ---

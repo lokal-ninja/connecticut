@@ -1,5 +1,5 @@
 ---
 title: "Atticus Market"
 url: /new-haven/atticus-market/
-shop: Lebensmittel
+shop: convenience
 ---

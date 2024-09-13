@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /east-hartford/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

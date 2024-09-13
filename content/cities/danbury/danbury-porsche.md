@@ -1,5 +1,5 @@
 ---
 title: "Danbury Porsche"
 url: /danbury/danbury-porsche/
-shop: Autohaus
+shop: car
 ---

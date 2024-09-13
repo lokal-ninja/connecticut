@@ -1,5 +1,5 @@
 ---
 title: "Amazing Animalz"
 url: /danielson/amazing-animalz/
-shop: Tiersalon
+shop: pet grooming
 ---

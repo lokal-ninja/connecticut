@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /norwalk/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

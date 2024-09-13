@@ -1,5 +1,5 @@
 ---
 title: "Dulin Automotive"
 url: /milford/dulin-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

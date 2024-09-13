@@ -1,5 +1,5 @@
 ---
 title: "Newtown General Store"
 url: /newtown/newtown-general-store/
-shop: Feinkost
+shop: deli
 ---

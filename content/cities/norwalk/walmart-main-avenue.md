@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /norwalk/walmart-main-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

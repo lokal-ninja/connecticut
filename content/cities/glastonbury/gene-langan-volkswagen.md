@@ -1,5 +1,5 @@
 ---
 title: "Gene Langan Volkswagen"
 url: /glastonbury/gene-langan-volkswagen/
-shop: Autohaus
+shop: car
 ---

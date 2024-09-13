@@ -1,5 +1,5 @@
 ---
 title: "Happy Dollar"
 url: /bridgeport/happy-dollar/
-shop: Kramladen
+shop: variety store
 ---

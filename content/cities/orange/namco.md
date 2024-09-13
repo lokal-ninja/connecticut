@@ -1,5 +1,5 @@
 ---
 title: "Namco"
 url: /orange/namco/
-shop: Pool
+shop: swimming pool
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mickey Finn's"
 url: /berlin/mickey-finns/
-shop: Kleidung
+shop: clothes
 ---

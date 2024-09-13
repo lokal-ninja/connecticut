@@ -1,5 +1,5 @@
 ---
 title: "Kickstart Cafe"
 url: /shelton/kickstart-cafe/
-shop: Kaffee
+shop: coffee
 ---

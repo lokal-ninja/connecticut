@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /wethersfield/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

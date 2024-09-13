@@ -1,5 +1,5 @@
 ---
 title: "Terryville Chevrolet"
 url: /terryville/terryville-chevrolet/
-shop: Autohaus
+shop: car
 ---

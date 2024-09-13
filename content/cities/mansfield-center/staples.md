@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /mansfield-center/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

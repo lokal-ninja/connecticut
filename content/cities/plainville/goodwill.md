@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /plainville/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

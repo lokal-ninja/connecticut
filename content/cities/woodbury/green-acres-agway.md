@@ -1,5 +1,5 @@
 ---
 title: "Green Acres Agway"
 url: /woodbury/green-acres-agway/
-shop: Garten-Center
+shop: garden centre
 ---

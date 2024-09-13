@@ -1,5 +1,5 @@
 ---
 title: "NAPA"
 url: /cheshire/napa/
-shop: Autoteile
+shop: car parts
 ---

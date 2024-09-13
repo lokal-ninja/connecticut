@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /meriden/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

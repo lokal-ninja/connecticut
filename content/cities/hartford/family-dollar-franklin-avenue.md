@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /hartford/family-dollar-franklin-avenue/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shaboo Productions"
 url: /willimantic/shaboo-productions/
-shop: Musik
+shop: music
 ---

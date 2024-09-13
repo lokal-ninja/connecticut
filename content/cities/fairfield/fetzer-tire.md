@@ -1,5 +1,5 @@
 ---
 title: "Fetzer Tire"
 url: /fairfield/fetzer-tire/
-shop: Reifen
+shop: tyres
 ---

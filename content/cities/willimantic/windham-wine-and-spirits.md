@@ -1,5 +1,5 @@
 ---
 title: "Windham Wine and Spirits"
 url: /willimantic/windham-wine-and-spirits/
-shop: Spirituosen
+shop: alcohol
 ---

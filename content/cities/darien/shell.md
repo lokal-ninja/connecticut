@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /darien/shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /orange/burlington/
-shop: Warenhaus
+shop: department store
 ---

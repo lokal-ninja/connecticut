@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /willimantic/kohls/
-shop: Warenhaus
+shop: department store
 ---

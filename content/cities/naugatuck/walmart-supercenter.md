@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /naugatuck/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

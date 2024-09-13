@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /vernon/walgreens/
-shop: Drogerie
+shop: chemist
 ---

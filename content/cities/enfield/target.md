@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /enfield/target/
-shop: Warenhaus
+shop: department store
 ---

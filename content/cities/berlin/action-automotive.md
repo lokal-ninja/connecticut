@@ -1,5 +1,5 @@
 ---
 title: "Action Automotive"
 url: /berlin/action-automotive/
-shop: Autohaus
+shop: car
 ---

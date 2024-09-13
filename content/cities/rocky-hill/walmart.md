@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /rocky-hill/walmart/
-shop: Warenhaus
+shop: department store
 ---

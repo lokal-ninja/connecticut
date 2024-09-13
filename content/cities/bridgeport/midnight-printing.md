@@ -1,5 +1,5 @@
 ---
 title: "Midnight Printing"
 url: /bridgeport/midnight-printing/
-shop: Kopieren
+shop: copyshop
 ---

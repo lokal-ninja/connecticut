@@ -1,5 +1,5 @@
 ---
 title: "Noble"
 url: /enfield/noble/
-shop: Lebensmittel
+shop: convenience
 ---

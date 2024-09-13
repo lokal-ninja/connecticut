@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /dayville/michaels/
-shop: Basteln
+shop: craft
 ---

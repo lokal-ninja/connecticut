@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /east-hartford/burlington/
-shop: Warenhaus
+shop: department store
 ---

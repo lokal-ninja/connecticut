@@ -1,5 +1,5 @@
 ---
 title: "CFCF Coffee"
 url: /greenwich/cfcf-coffee/
-shop: Kaffee
+shop: coffee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Azteca Market"
 url: /bridgeport/azteca-market/
-shop: Feinkost
+shop: deli
 ---

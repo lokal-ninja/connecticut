@@ -1,5 +1,5 @@
 ---
 title: "New England Kitchen and Bath"
 url: /glastonbury/new-england-kitchen-and-bath/
-shop: Küchen
+shop: kitchen
 ---

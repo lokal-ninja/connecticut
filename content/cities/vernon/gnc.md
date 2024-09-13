@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /vernon/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

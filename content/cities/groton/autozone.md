@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /groton/autozone/
-shop: Autoteile
+shop: car parts
 ---

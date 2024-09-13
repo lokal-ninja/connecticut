@@ -1,5 +1,5 @@
 ---
 title: "Tropical Deli"
 url: /danbury/tropical-deli/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Swanson Automotive"
 url: /east-haven/swanson-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

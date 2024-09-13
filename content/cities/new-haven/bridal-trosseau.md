@@ -1,5 +1,5 @@
 ---
 title: "Bridal Trosseau"
 url: /new-haven/bridal-trosseau/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Agway"
 url: /manchester/agway/
-shop: Garten-Center
+shop: garden centre
 ---

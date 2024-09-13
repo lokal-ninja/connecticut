@@ -1,5 +1,5 @@
 ---
 title: "Marjolaine"
 url: /new-haven/marjolaine/
-shop: Konditorei
+shop: pastry
 ---

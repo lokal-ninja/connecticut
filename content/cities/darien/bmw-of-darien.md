@@ -1,5 +1,5 @@
 ---
 title: "BMW of Darien"
 url: /darien/bmw-of-darien/
-shop: Autohaus
+shop: car
 ---

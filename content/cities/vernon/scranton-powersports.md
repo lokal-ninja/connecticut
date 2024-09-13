@@ -1,5 +1,5 @@
 ---
 title: "Scranton Powersports"
 url: /vernon/scranton-powersports/
-shop: Autohaus
+shop: car
 ---

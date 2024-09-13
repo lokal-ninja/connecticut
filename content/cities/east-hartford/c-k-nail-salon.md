@@ -1,5 +1,5 @@
 ---
 title: "C K Nail Salon"
 url: /east-hartford/c-k-nail-salon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /norwalk/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

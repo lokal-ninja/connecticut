@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /canton/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

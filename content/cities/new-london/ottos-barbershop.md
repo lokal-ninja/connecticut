@@ -1,5 +1,5 @@
 ---
 title: "Otto's Barbershop"
 url: /new-london/ottos-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

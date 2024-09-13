@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /willimantic/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair Innovators"
 url: /wethersfield/hair-innovators/
-shop: Friseur
+shop: hairdresser
 ---

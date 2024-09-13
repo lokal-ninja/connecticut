@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /stafford/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

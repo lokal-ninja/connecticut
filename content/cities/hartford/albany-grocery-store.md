@@ -1,5 +1,5 @@
 ---
 title: "Albany Grocery Store"
 url: /hartford/albany-grocery-store/
-shop: Supermarkt
+shop: supermarket
 ---

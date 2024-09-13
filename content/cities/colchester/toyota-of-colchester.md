@@ -1,5 +1,5 @@
 ---
 title: "Toyota of Colchester"
 url: /colchester/toyota-of-colchester/
-shop: Autohaus
+shop: car
 ---

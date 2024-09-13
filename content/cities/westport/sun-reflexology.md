@@ -1,5 +1,5 @@
 ---
 title: "Sun Reflexology"
 url: /westport/sun-reflexology/
-shop: Massage
+shop: massage
 ---

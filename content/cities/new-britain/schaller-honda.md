@@ -1,5 +1,5 @@
 ---
 title: "Schaller Honda"
 url: /new-britain/schaller-honda/
-shop: Autohaus
+shop: car
 ---

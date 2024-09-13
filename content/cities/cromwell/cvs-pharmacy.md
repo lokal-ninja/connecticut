@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /cromwell/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

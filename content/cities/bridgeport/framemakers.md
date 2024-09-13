@@ -1,5 +1,5 @@
 ---
 title: "Framemakers"
 url: /bridgeport/framemakers/
-shop: Rahmen
+shop: frame
 ---

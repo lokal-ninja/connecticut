@@ -1,5 +1,5 @@
 ---
 title: "Layla's Market"
 url: /bridgeport/laylas-market/
-shop: Lebensmittel
+shop: convenience
 ---

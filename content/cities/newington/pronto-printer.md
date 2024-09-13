@@ -1,5 +1,5 @@
 ---
 title: "Pronto Printer"
 url: /newington/pronto-printer/
-shop: Kopieren
+shop: copyshop
 ---

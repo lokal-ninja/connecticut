@@ -1,5 +1,5 @@
 ---
 title: "Equipment Repair"
 url: /meriden/equipment-repair/
-shop: Allgemein
+shop: shop
 ---

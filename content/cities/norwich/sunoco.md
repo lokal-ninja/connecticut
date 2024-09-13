@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /norwich/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

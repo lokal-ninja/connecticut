@@ -1,5 +1,5 @@
 ---
 title: "Price Chopper"
 url: /putnam/price-chopper/
-shop: Supermarkt
+shop: supermarket
 ---

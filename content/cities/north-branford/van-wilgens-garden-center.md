@@ -1,5 +1,5 @@
 ---
 title: "Van Wilgen's Garden Center"
 url: /north-branford/van-wilgens-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

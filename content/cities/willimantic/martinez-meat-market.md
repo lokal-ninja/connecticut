@@ -1,5 +1,5 @@
 ---
 title: "Martinez Meat Market"
 url: /willimantic/martinez-meat-market/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /bridgeport/carquest/
-shop: Autoteile
+shop: car parts
 ---

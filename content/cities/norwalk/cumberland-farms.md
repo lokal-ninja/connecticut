@@ -1,5 +1,5 @@
 ---
 title: "Cumberland Farms"
 url: /norwalk/cumberland-farms/
-shop: Lebensmittel
+shop: convenience
 ---

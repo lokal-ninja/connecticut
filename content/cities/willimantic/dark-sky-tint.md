@@ -1,5 +1,5 @@
 ---
 title: "Dark Sky Tint"
 url: /willimantic/dark-sky-tint/
-shop: Autowerkstatt
+shop: car repair
 ---

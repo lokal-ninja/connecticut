@@ -1,5 +1,5 @@
 ---
 title: "Chapman's Bicycle"
 url: /orange/chapmans-bicycle/
-shop: Fahrrad
+shop: bicycle
 ---

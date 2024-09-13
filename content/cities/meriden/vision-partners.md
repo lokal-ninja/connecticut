@@ -1,5 +1,5 @@
 ---
 title: "Vision Partners"
 url: /meriden/vision-partners/
-shop: Optiker
+shop: optician
 ---

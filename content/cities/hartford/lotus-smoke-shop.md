@@ -1,5 +1,5 @@
 ---
 title: "Lotus Smoke Shop"
 url: /hartford/lotus-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

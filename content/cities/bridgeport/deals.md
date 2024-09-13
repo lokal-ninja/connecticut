@@ -1,5 +1,5 @@
 ---
 title: "Deals"
 url: /bridgeport/deals/
-shop: Kramladen
+shop: variety store
 ---

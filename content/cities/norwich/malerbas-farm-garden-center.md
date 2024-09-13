@@ -1,5 +1,5 @@
 ---
 title: "Malerba's Farm Garden Center"
 url: /norwich/malerbas-farm-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

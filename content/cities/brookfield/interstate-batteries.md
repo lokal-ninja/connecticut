@@ -1,5 +1,5 @@
 ---
 title: "Interstate Batteries"
 url: /brookfield/interstate-batteries/
-shop: Autoteile
+shop: car parts
 ---

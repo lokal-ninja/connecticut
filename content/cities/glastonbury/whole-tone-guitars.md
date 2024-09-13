@@ -1,5 +1,5 @@
 ---
 title: "Whole Tone Guitars"
 url: /glastonbury/whole-tone-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

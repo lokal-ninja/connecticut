@@ -1,5 +1,5 @@
 ---
 title: "Unique Jewelry"
 url: /hartford/unique-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

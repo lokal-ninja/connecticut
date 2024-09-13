@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /orange/savers/
-shop: Gebrauchtwaren
+shop: charity
 ---

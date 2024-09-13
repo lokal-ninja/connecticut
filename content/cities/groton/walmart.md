@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /groton/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

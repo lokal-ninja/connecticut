@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /norwalk/verizon/
-shop: Handy
+shop: mobile phone
 ---

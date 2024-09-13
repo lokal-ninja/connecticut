@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /sherman/iga/
-shop: Supermarkt
+shop: supermarket
 ---

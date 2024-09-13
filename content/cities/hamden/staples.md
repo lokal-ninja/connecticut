@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /hamden/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

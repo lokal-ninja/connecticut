@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /vernon/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Middletown Market"
 url: /middletown/middletown-market/
-shop: Lebensmittel
+shop: convenience
 ---

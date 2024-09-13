@@ -1,5 +1,5 @@
 ---
 title: "Glastonbury Jewelers"
 url: /glastonbury/glastonbury-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

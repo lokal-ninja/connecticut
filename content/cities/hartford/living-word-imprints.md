@@ -1,5 +1,5 @@
 ---
 title: "Living Word Imprints"
 url: /hartford/living-word-imprints/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /newington/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

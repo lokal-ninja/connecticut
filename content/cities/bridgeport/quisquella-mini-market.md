@@ -1,5 +1,5 @@
 ---
 title: "Quisquella Mini Market"
 url: /bridgeport/quisquella-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cumberland Farms"
 url: /waterford/cumberland-farms/
-shop: Lebensmittel
+shop: convenience
 ---

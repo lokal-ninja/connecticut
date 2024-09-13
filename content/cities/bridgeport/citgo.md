@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /bridgeport/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CarDinale"
 url: /bridgeport/cardinale/
-shop: Autowerkstatt
+shop: car repair
 ---

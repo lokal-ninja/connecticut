@@ -1,5 +1,5 @@
 ---
 title: "Roescal"
 url: /bridgeport/roescal/
-shop: Lebensmittel
+shop: convenience
 ---

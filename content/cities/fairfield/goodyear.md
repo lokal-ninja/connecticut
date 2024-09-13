@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /fairfield/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

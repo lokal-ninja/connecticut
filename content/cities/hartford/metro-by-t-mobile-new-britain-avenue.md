@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /hartford/metro-by-t-mobile-new-britain-avenue/
-shop: Handy
+shop: mobile phone
 ---

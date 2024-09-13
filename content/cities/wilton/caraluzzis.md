@@ -1,5 +1,5 @@
 ---
 title: "Caraluzzi's"
 url: /wilton/caraluzzis/
-shop: Supermarkt
+shop: supermarket
 ---

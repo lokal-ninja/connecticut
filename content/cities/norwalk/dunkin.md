@@ -1,5 +1,5 @@
 ---
 title: "Dunkin'"
 url: /norwalk/dunkin/
-shop: Kaffee
+shop: coffee
 ---

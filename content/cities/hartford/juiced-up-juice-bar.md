@@ -1,5 +1,5 @@
 ---
 title: "Juiced Up Juice Bar"
 url: /hartford/juiced-up-juice-bar/
-shop: Bioladen
+shop: health food
 ---

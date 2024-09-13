@@ -1,5 +1,5 @@
 ---
 title: "Lakeview Auto"
 url: /berlin/lakeview-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vision Center LTD."
 url: /shelton/vision-center-ltd/
-shop: Optiker
+shop: optician
 ---

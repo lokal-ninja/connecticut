@@ -1,5 +1,5 @@
 ---
 title: "Wings Over Water"
 url: /fairfield/wings-over-water/
-shop: Lebensmittel
+shop: convenience
 ---

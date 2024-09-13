@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /enfield/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

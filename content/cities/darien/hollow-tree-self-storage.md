@@ -1,5 +1,5 @@
 ---
 title: "Hollow Tree Self Storage"
 url: /darien/hollow-tree-self-storage/
-shop: Mieten
+shop: storage rental
 ---

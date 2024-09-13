@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /riverside/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

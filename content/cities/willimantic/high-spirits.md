@@ -1,5 +1,5 @@
 ---
 title: "High Spirits"
 url: /willimantic/high-spirits/
-shop: Spirituosen
+shop: alcohol
 ---

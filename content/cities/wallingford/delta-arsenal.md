@@ -1,5 +1,5 @@
 ---
 title: "Delta Arsenal"
 url: /wallingford/delta-arsenal/
-shop: Waffen
+shop: weapons
 ---

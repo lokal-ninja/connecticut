@@ -1,5 +1,5 @@
 ---
 title: "Simply Gorgeous Hair Boutique"
 url: /new-london/simply-gorgeous-hair-boutique/
-shop: Friseur
+shop: hairdresser
 ---

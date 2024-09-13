@@ -1,5 +1,5 @@
 ---
 title: "WinBath"
 url: /shelton/winbath/
-shop: Küchen
+shop: kitchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Audio Store"
 url: /newington/the-audio-store/
-shop: Hifi
+shop: hifi
 ---

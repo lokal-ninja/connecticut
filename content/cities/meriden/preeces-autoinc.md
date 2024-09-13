@@ -1,5 +1,5 @@
 ---
 title: "Preece's AutoInc."
 url: /meriden/preeces-autoinc/
-shop: Autowerkstatt
+shop: car repair
 ---

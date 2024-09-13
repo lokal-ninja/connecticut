@@ -1,5 +1,5 @@
 ---
 title: "Black Orchid Jewelers"
 url: /north-stonington/black-orchid-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

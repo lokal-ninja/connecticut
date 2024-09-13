@@ -1,5 +1,5 @@
 ---
 title: "Unity Beauty Supply"
 url: /bridgeport/unity-beauty-supply/
-shop: Kosmetik
+shop: beauty
 ---

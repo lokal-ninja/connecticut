@@ -1,5 +1,5 @@
 ---
 title: "Bacon Funeral Home"
 url: /willimantic/bacon-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

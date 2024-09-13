@@ -1,5 +1,5 @@
 ---
 title: "Olenders"
 url: /vernon/olenders/
-shop: Autowerkstatt
+shop: car repair
 ---

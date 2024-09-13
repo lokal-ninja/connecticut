@@ -1,5 +1,5 @@
 ---
 title: "Butler Equipment"
 url: /west-hartford/butler-equipment/
-shop: Platzpflege
+shop: groundskeeping
 ---

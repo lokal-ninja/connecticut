@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /bridgeport/edible-arrangements/
-shop: Andenken
+shop: gift
 ---

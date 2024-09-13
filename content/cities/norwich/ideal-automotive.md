@@ -1,5 +1,5 @@
 ---
 title: "Ideal Automotive"
 url: /norwich/ideal-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fox Hollow Enterprises"
 url: /lisbon/fox-hollow-enterprises/
-shop: Autowerkstatt
+shop: car repair
 ---

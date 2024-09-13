@@ -1,5 +1,5 @@
 ---
 title: "Crawford cigar shop"
 url: /vernon/crawford-cigar-shop/
-shop: Tabak
+shop: tobacco
 ---

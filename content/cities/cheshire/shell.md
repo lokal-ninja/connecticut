@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /cheshire/shell/
-shop: Lebensmittel
+shop: convenience
 ---

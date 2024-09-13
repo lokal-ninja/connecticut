@@ -1,5 +1,5 @@
 ---
 title: "Geissler's Supermarket"
 url: /granby/geisslers-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

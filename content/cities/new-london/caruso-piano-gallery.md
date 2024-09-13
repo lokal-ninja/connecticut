@@ -1,5 +1,5 @@
 ---
 title: "Caruso Piano Gallery"
 url: /new-london/caruso-piano-gallery/
-shop: Instrumente
+shop: musical instrument
 ---

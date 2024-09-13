@@ -1,5 +1,5 @@
 ---
 title: "Ocean State Job Lot"
 url: /seymour/ocean-state-job-lot/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fulton-Theroux Funeral Service"
 url: /niantic/fulton-theroux-funeral-service/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /milford/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

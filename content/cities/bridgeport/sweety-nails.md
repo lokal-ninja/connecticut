@@ -1,5 +1,5 @@
 ---
 title: "Sweety Nails"
 url: /bridgeport/sweety-nails/
-shop: Kosmetik
+shop: beauty
 ---

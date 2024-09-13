@@ -1,5 +1,5 @@
 ---
 title: "Pedal Power"
 url: /willimantic/pedal-power/
-shop: Fahrrad
+shop: bicycle
 ---

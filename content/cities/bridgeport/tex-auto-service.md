@@ -1,5 +1,5 @@
 ---
 title: "Tex Auto Service"
 url: /bridgeport/tex-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

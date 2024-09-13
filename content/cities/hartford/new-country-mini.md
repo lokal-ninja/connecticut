@@ -1,5 +1,5 @@
 ---
 title: "New Country MINI"
 url: /hartford/new-country-mini/
-shop: Autohaus
+shop: car
 ---

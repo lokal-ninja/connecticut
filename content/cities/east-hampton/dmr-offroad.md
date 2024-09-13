@@ -1,5 +1,5 @@
 ---
 title: "DMR Offroad"
 url: /east-hampton/dmr-offroad/
-shop: Autowerkstatt
+shop: car repair
 ---

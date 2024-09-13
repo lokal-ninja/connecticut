@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /wethersfield/rainbow/
-shop: Kleidung
+shop: clothes
 ---

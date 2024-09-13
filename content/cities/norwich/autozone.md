@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /norwich/autozone/
-shop: Autoteile
+shop: car parts
 ---

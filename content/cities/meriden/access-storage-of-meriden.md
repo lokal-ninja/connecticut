@@ -1,5 +1,5 @@
 ---
 title: "Access Storage of Meriden"
 url: /meriden/access-storage-of-meriden/
-shop: Mieten
+shop: storage rental
 ---

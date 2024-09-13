@@ -1,5 +1,5 @@
 ---
 title: "Black Bridge Motors"
 url: /norwalk/black-bridge-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

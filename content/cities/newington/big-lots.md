@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /newington/big-lots/
-shop: Warenhaus
+shop: department store
 ---

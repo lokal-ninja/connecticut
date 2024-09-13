@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /norwalk/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joseph's Jewelers"
 url: /danielson/josephs-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

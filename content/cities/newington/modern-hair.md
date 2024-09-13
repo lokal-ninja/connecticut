@@ -1,5 +1,5 @@
 ---
 title: "Modern Hair"
 url: /newington/modern-hair/
-shop: Kosmetik
+shop: beauty
 ---

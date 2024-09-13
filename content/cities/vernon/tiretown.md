@@ -1,5 +1,5 @@
 ---
 title: "TireTown"
 url: /vernon/tiretown/
-shop: Autowerkstatt
+shop: car repair
 ---

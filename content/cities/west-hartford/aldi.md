@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /west-hartford/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

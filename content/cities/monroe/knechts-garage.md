@@ -1,5 +1,5 @@
 ---
 title: "Knecht's Garage"
 url: /monroe/knechts-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

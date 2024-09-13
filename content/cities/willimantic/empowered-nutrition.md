@@ -1,5 +1,5 @@
 ---
 title: "Empowered Nutrition"
 url: /willimantic/empowered-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /norwalk/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

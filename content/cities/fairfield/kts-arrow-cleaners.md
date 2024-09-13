@@ -1,5 +1,5 @@
 ---
 title: "KTS Arrow Cleaners"
 url: /fairfield/kts-arrow-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

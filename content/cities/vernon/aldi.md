@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /vernon/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

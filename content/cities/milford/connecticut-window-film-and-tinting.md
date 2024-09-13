@@ -1,5 +1,5 @@
 ---
 title: "Connecticut Window Film And Tinting"
 url: /milford/connecticut-window-film-and-tinting/
-shop: Autowerkstatt
+shop: car repair
 ---
