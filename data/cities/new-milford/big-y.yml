@@ -4,8 +4,8 @@ latitude: 41.57399
 longitude: -73.41974
 postcode: "06776"
 city: New Milford
-street: "Kent Road"
-housenumber: 1
-phone: "+1-860-355-2628"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.bigy.com/rs/store-locator/1-kent-road/56"
+street: Kent Road
+housenumber: "1"
+phone: +1-860-355-2628
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.bigy.com/rs/store-locator/1-kent-road/56

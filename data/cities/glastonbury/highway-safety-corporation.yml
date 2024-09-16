@@ -1,11 +1,11 @@
 id: 947138771
-type: way
+type: node
 latitude: 41.71145
 longitude: -72.58232
 postcode: "06033"
 city: Glastonbury
-street: "Commerce Street"
-housenumber: 239
-phone: "+1 860 633 9445"
+street: Commerce Street
+housenumber: "239"
+phone: +1 860 633 9445
 opening_hours: ""
-website: "http://www.highwaysafety.net"
+website: http://www.highwaysafety.net

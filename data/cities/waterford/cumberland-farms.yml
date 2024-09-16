@@ -1,11 +1,11 @@
 id: 922751568
-type: way
+type: node
 latitude: 41.42486
 longitude: -72.10962
 postcode: "06375"
 city: Waterford
-street: "Norwich Road"
-housenumber: 47
+street: Norwich Road
+housenumber: "47"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

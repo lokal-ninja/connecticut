@@ -1,11 +1,11 @@
 id: 952644596
-type: way
+type: node
 latitude: 41.76919
 longitude: -72.60551
 postcode: "06118"
 city: East Hartford
-street: "Silver Lane"
-housenumber: 940
+street: Silver Lane
+housenumber: "940"
 phone: ""
 opening_hours: ""
 website: ""

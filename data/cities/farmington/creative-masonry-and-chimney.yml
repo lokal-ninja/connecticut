@@ -1,11 +1,11 @@
 id: 886806453
-type: way
+type: node
 latitude: 41.71626
 longitude: -72.86155
 postcode: "06032"
 city: Farmington
-street: "New Britain Avenue"
-housenumber: 1451
-phone: "+1 860 225 9178"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://creativemasonryct.com"
+street: New Britain Avenue
+housenumber: "1451"
+phone: +1 860 225 9178
+opening_hours: Mo-Fr 08:00-17:00
+website: https://creativemasonryct.com

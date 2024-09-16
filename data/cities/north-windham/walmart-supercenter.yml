@@ -1,11 +1,11 @@
 id: 205152773
-type: way
+type: node
 latitude: 41.74178
 longitude: -72.17404
 postcode: "06256"
 city: North Windham
-street: "Boston Post Road"
-housenumber: 474
-phone: "+1 860-456-4399"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2022/north-windham-ct/whats-new"
+street: Boston Post Road
+housenumber: "474"
+phone: +1 860-456-4399
+opening_hours: 24/7
+website: https://www.walmart.com/store/2022/north-windham-ct/whats-new

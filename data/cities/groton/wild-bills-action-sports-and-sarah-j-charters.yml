@@ -1,11 +1,11 @@
 id: 1050488208
-type: way
+type: node
 latitude: 41.32383
 longitude: -71.99324
 postcode: "06340"
 city: Groton
-street: "Marsh Road"
-housenumber: 93
-phone: "+1-860-536-6648"
-opening_hours: "Mo-Su 07:00-17:00"
-website: "http://www.wildbillsactionsports.com/"
+street: Marsh Road
+housenumber: "93"
+phone: +1-860-536-6648
+opening_hours: Mo-Su 07:00-17:00
+website: http://www.wildbillsactionsports.com/

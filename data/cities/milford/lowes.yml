@@ -1,11 +1,11 @@
 id: 173653868
-type: way
+type: node
 latitude: 41.23368
 longitude: -73.02224
 postcode: "06460"
 city: Milford
-street: "Old Gate Lane"
-housenumber: 295
-phone: "+1 203-701-3150"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ct-milford/2658"
+street: Old Gate Lane
+housenumber: "295"
+phone: +1 203-701-3150
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ct-milford/2658

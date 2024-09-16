@@ -1,11 +1,11 @@
 id: 889095701
-type: way
+type: node
 latitude: 41.79806
 longitude: -71.909
 postcode: "06234"
 city: Brooklyn
-street: "Providence Road"
-housenumber: 488
-phone: "+1 860 774 3049"
+street: Providence Road
+housenumber: "488"
+phone: +1 860 774 3049
 opening_hours: ""
-website: "https://www.facebook.com/bsdiscountwineandspirits"
+website: https://www.facebook.com/bsdiscountwineandspirits

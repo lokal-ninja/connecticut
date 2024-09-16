@@ -1,11 +1,11 @@
 id: 660905793
-type: way
+type: node
 latitude: 41.44986
 longitude: -72.47744
 postcode: "06438"
 city: Haddam
-street: "Saybrook Road"
-housenumber: 1565
+street: Saybrook Road
+housenumber: "1565"
 phone: ""
 opening_hours: ""
 website: ""

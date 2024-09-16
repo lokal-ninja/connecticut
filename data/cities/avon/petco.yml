@@ -1,11 +1,11 @@
 id: 30956416
-type: way
+type: node
 latitude: 41.81599
 longitude: -72.86871
-postcode: "06001-3504"
+postcode: 06001-3504
 city: Avon
-street: "West Avon Road"
-housenumber: 9
-phone: "+1 860-404-8880"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-18:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ct/avon/pet-supplies-avon-ct-1813.html"
+street: West Avon Road
+housenumber: "9"
+phone: +1 860-404-8880
+opening_hours: Mo-We 09:00-20:00; Th 09:00-18:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ct/avon/pet-supplies-avon-ct-1813.html

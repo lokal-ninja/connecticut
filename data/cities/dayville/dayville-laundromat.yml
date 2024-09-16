@@ -1,11 +1,11 @@
 id: 889300779
-type: way
+type: node
 latitude: 41.84595
 longitude: -71.88744
 postcode: "06241"
 city: Dayville
-street: "Hartford Pike"
-housenumber: 470
-phone: "+1 860 779 2777"
+street: Hartford Pike
+housenumber: "470"
+phone: +1 860 779 2777
 opening_hours: ""
-website: "https://dayvillelaundry.com"
+website: https://dayvillelaundry.com

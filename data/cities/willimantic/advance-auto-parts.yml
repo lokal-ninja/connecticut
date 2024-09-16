@@ -1,11 +1,11 @@
 id: 830601876
-type: way
+type: node
 latitude: 41.71745
 longitude: -72.23582
 postcode: "06226"
 city: Willimantic
-street: "Capitol Drive"
-housenumber: 113
+street: Capitol Drive
+housenumber: "113"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ct/willimantic/113-capitol-dr"
+website: https://stores.advanceautoparts.com/ct/willimantic/113-capitol-dr

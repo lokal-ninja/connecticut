@@ -1,11 +1,11 @@
 id: 839959054
-type: way
+type: node
 latitude: 41.4795
 longitude: -73.2092
 postcode: "06488"
 city: Southbury
-street: "Main Street North"
-housenumber: 100
+street: Main Street North
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

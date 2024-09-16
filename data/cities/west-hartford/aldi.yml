@@ -1,11 +1,11 @@
 id: 186187246
-type: way
+type: node
 latitude: 41.73922
 longitude: -72.72056
-postcode: "06110-1326"
+postcode: 06110-1326
 city: West Hartford
-street: "New Park Avenue"
-housenumber: 511
-phone: "+1 844-473-1069"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ct/west-hartford/511-new-park-avenue"
+street: New Park Avenue
+housenumber: "511"
+phone: +1 844-473-1069
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ct/west-hartford/511-new-park-avenue

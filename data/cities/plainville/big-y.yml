@@ -1,11 +1,11 @@
 id: 245732950
-type: way
+type: node
 latitude: 41.67691
 longitude: -72.83951
 postcode: "06062"
 city: Plainville
-street: "New Britain Avenue"
-housenumber: 275
-phone: "+860 747 5724"
+street: New Britain Avenue
+housenumber: "275"
+phone: +860 747 5724
 opening_hours: ""
-website: "https://www.bigy.com/"
+website: https://www.bigy.com/

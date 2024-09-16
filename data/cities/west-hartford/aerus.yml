@@ -4,8 +4,8 @@ latitude: 41.75925
 longitude: -72.7428
 postcode: "06107"
 city: West Hartford
-street: "South Main Street"
-housenumber: 37
-phone: "+1-860-236-4251"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.hartfordvacuumcleaners.com/"
+street: South Main Street
+housenumber: "37"
+phone: +1-860-236-4251
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.hartfordvacuumcleaners.com/

@@ -1,11 +1,11 @@
 id: 948494394
-type: way
+type: node
 latitude: 41.71312
 longitude: -72.61134
 postcode: "06033"
 city: Glastonbury
-street: "Welles Street"
-housenumber: 138
-phone: "+1 860 633 3669"
+street: Welles Street
+housenumber: "138"
+phone: +1 860 633 3669
 opening_hours: ""
-website: "https://www.rileyandscranton.com"
+website: https://www.rileyandscranton.com

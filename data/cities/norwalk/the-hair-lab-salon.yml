@@ -4,8 +4,9 @@ latitude: 41.10309
 longitude: -73.40448
 postcode: "06855"
 city: Norwalk
-street: "East Avenue"
-housenumber: 234
-phone: "+1-203-831-9345"
-opening_hours: "Su,Mo 10:00-16:00; Tu 10:00-19:00; We 09:00-17:00; Th 10:00-20:00; Fr 09:00-19:00; Sa 08:00-16:00"
-website: "https://www.thehairlabsalon.com/"
+street: East Avenue
+housenumber: "234"
+phone: +1-203-831-9345
+opening_hours: Su,Mo 10:00-16:00; Tu 10:00-19:00; We 09:00-17:00; Th 10:00-20:00;
+    Fr 09:00-19:00; Sa 08:00-16:00
+website: https://www.thehairlabsalon.com/

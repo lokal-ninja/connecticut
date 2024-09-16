@@ -1,11 +1,11 @@
 id: 43106873
-type: way
+type: node
 latitude: 41.37512
 longitude: -72.15958
 postcode: "06385"
 city: Waterford
-street: "Cross Road"
-housenumber: 123
+street: Cross Road
+housenumber: "123"
 phone: ""
 opening_hours: ""
-website: "https://www.regmovies.com/Theatres/Theatre-Folder/Regal-Waterford-9-702"
+website: https://www.regmovies.com/Theatres/Theatre-Folder/Regal-Waterford-9-702

@@ -1,11 +1,11 @@
 id: 681588670
-type: way
+type: node
 latitude: 41.57233
 longitude: -72.64184
 postcode: "06480"
 city: Portland
-street: "Main Street"
-housenumber: 162
+street: Main Street
+housenumber: "162"
 phone: ""
 opening_hours: ""
 website: ""

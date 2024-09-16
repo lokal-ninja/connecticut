@@ -1,11 +1,11 @@
 id: 386397965
-type: way
+type: node
 latitude: 41.26456
 longitude: -73.13489
 postcode: "06484"
 city: Shelton
-street: "Bridgeport Avenue"
-housenumber: 875
-phone: "+1 203-225-9224"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.shoprite.com/sm/planning/rsid/398"
+street: Bridgeport Avenue
+housenumber: "875"
+phone: +1 203-225-9224
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.shoprite.com/sm/planning/rsid/398

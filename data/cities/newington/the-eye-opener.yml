@@ -4,8 +4,8 @@ latitude: 41.69837
 longitude: -72.72313
 postcode: "06111"
 city: Newington
-street: "Center Court"
-housenumber: 15
-phone: "+1 860 666 5862"
-opening_hours: "Mo-Fr 12:00-20:00; Sa 11:00-18:00; Su 12:00-17:00"
-website: "http://eyeopenercomics.com"
+street: Center Court
+housenumber: "15"
+phone: +1 860 666 5862
+opening_hours: Mo-Fr 12:00-20:00; Sa 11:00-18:00; Su 12:00-17:00
+website: http://eyeopenercomics.com

@@ -1,11 +1,11 @@
 id: 161810656
-type: way
+type: node
 latitude: 41.76811
 longitude: -72.69361
 postcode: "06105"
 city: Hartford
-street: "Farmington Avenue"
-housenumber: 180
-phone: "+1 860 522 1155"
+street: Farmington Avenue
+housenumber: "180"
+phone: +1 860 522 1155
 opening_hours: ""
-website: "https://www.ahernfuneralhome.com/"
+website: https://www.ahernfuneralhome.com/

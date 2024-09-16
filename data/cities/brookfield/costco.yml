@@ -1,11 +1,11 @@
 id: 74719713
-type: way
+type: node
 latitude: 41.44152
 longitude: -73.40679
 postcode: "06804"
 city: Brookfield
-street: "Federal Road"
-housenumber: 200
-phone: "+1 203-740-7623"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/brookfield-ct-304.html"
+street: Federal Road
+housenumber: "200"
+phone: +1 203-740-7623
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/brookfield-ct-304.html

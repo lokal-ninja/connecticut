@@ -1,11 +1,11 @@
 id: 545367661
-type: way
+type: node
 latitude: 41.6331
 longitude: -72.76358
 postcode: "06037"
 city: Berlin
-street: "Farmington Avenue"
-housenumber: 928
+street: Farmington Avenue
+housenumber: "928"
 phone: ""
 opening_hours: ""
 website: ""

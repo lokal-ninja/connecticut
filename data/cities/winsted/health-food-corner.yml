@@ -4,8 +4,8 @@ latitude: 41.92118
 longitude: -73.07056
 postcode: "06098"
 city: Winsted
-street: "Main Street"
-housenumber: 390
-phone: "+1-860-738-9222"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-17:00; Su 11:00-15:00"
+street: Main Street
+housenumber: "390"
+phone: +1-860-738-9222
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-17:00; Su 11:00-15:00
 website: ""

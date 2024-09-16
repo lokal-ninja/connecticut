@@ -1,11 +1,11 @@
 id: 873103417
-type: way
+type: node
 latitude: 41.6789
 longitude: -71.91566
 postcode: "06374"
 city: Plainfield
-street: "Norwich Road"
-housenumber: 615
+street: Norwich Road
+housenumber: "615"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ct/plainfield/20485"
+website: https://www.dollargeneral.com/store-directory/ct/plainfield/20485

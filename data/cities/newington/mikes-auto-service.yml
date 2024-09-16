@@ -1,11 +1,11 @@
 id: 963810744
-type: way
+type: node
 latitude: 41.65498
 longitude: -72.72836
 postcode: "06111"
 city: Newington
-street: "Pane Road"
-housenumber: 54
+street: Pane Road
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

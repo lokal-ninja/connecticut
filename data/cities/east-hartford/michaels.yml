@@ -4,8 +4,8 @@ latitude: 41.72774
 longitude: -72.61983
 postcode: "06118"
 city: East Hartford
-street: "Main Street"
-housenumber: 5
-phone: "+1 860-266-1341"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ct/east-hartford/1288"
+street: Main Street
+housenumber: "5"
+phone: +1 860-266-1341
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ct/east-hartford/1288

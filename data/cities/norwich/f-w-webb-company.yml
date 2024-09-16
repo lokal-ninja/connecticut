@@ -1,11 +1,11 @@
 id: 931058200
-type: way
+type: node
 latitude: 41.5462
 longitude: -72.09674
 postcode: "06360"
 city: Norwich
-street: "New London Turnpike"
-housenumber: 33
-phone: "+1 860 383 1690"
+street: New London Turnpike
+housenumber: "33"
+phone: +1 860 383 1690
 opening_hours: ""
-website: "https://www.fwwebb.com/locations/branch.php?st=CT&city=Norwich"
+website: https://www.fwwebb.com/locations/branch.php?st=CT&city=Norwich

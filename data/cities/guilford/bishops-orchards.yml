@@ -1,11 +1,11 @@
 id: 376866787
-type: way
+type: node
 latitude: 41.29025
 longitude: -72.69456
 postcode: "06437"
 city: Guilford
-street: "Boston Post Road"
-housenumber: 1355
+street: Boston Post Road
+housenumber: "1355"
 phone: ""
 opening_hours: ""
 website: ""

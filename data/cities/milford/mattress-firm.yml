@@ -1,11 +1,11 @@
 id: 208094791
-type: way
+type: node
 latitude: 41.24642
 longitude: -73.02778
 postcode: "06460"
 city: Milford
-street: "Boston Post Road"
-housenumber: 1596
-phone: "+1 203-783-1945"
+street: Boston Post Road
+housenumber: "1596"
+phone: +1 203-783-1945
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/ct/milford/158009/"
+website: https://www.mattressfirm.com/en-us/stores/ct/milford/158009/

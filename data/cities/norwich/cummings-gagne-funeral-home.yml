@@ -1,11 +1,11 @@
 id: 907926788
-type: way
+type: node
 latitude: 41.52597
 longitude: -72.07041
 postcode: "06360"
 city: Norwich
-street: "Cliff Street"
-housenumber: 82
-phone: "+1 860 887 4285"
+street: Cliff Street
+housenumber: "82"
+phone: +1 860 887 4285
 opening_hours: ""
-website: "https://www.cummings-gagnefh.com"
+website: https://www.cummings-gagnefh.com

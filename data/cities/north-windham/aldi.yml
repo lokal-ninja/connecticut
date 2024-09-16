@@ -1,11 +1,11 @@
 id: 209378983
-type: way
+type: node
 latitude: 41.73875
 longitude: -72.17895
-postcode: "06256-1008"
+postcode: 06256-1008
 city: North Windham
-street: "Boston Post Road"
-housenumber: 332
-phone: "+1 833-473-7048"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ct/north-windham/332-boston-post-road"
+street: Boston Post Road
+housenumber: "332"
+phone: +1 833-473-7048
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ct/north-windham/332-boston-post-road

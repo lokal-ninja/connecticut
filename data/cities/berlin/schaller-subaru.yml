@@ -1,11 +1,11 @@
 id: 315053760
-type: way
+type: node
 latitude: 41.62891
 longitude: -72.74477
 postcode: "06037"
 city: Berlin
-street: "Frontage Road"
-housenumber: 34
+street: Frontage Road
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 889095706
-type: way
+type: node
 latitude: 41.7985
 longitude: -71.90673
 postcode: "06234"
 city: Brooklyn
-street: "Providence Road"
-housenumber: 512
-phone: "+1 860 261 2891"
+street: Providence Road
+housenumber: "512"
+phone: +1 860 261 2891
 opening_hours: ""
-website: "https://www.checkvachonchevy.com"
+website: https://www.checkvachonchevy.com

@@ -4,8 +4,8 @@ latitude: 41.28842
 longitude: -72.67714
 postcode: "06437"
 city: Guilford
-street: "Boston Post Road"
-housenumber: 830
-phone: "203 453 3267"
-opening_hours: "07:00-22:00"
-website: "http://www.bigy.com/Locations/locationinfo/~55"
+street: Boston Post Road
+housenumber: "830"
+phone: 203 453 3267
+opening_hours: 07:00-22:00
+website: http://www.bigy.com/Locations/locationinfo/~55

@@ -1,11 +1,11 @@
 id: 327493906
-type: way
+type: node
 latitude: 41.56701
 longitude: -72.1291
 postcode: "06254"
 city: Franklin
-street: "New Park Avenue"
-housenumber: 3
-phone: "+1 860 889 2651"
+street: New Park Avenue
+housenumber: "3"
+phone: +1 860 889 2651
 opening_hours: ""
-website: "https://www.holmgrensubaru.com/"
+website: https://www.holmgrensubaru.com/

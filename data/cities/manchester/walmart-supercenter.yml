@@ -1,11 +1,11 @@
 id: 41908379
-type: way
+type: node
 latitude: 41.80589
 longitude: -72.53795
 postcode: "06042"
 city: Manchester
-street: "Buckland Hills Drive"
-housenumber: 420
-phone: "+1 860-644-5100"
-opening_hours: "PH open"
-website: "https://www.walmart.com/store/1891/manchester-ct/whats-new"
+street: Buckland Hills Drive
+housenumber: "420"
+phone: +1 860-644-5100
+opening_hours: PH open
+website: https://www.walmart.com/store/1891/manchester-ct/whats-new

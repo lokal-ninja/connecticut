@@ -1,11 +1,11 @@
 id: 953248012
-type: way
+type: node
 latitude: 41.69687
 longitude: -72.90413
 postcode: "06010"
 city: Bristol
-street: "Farmington Avenue"
-housenumber: 1182
+street: Farmington Avenue
+housenumber: "1182"
 phone: ""
 opening_hours: ""
 website: ""

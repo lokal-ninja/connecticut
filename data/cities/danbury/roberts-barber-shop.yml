@@ -1,11 +1,11 @@
 id: 851732071
-type: way
+type: node
 latitude: 41.38764
 longitude: -73.49539
 postcode: "06811"
 city: Danbury
-street: "Mill Plain Road"
-housenumber: 18
+street: Mill Plain Road
+housenumber: "18"
 phone: "+12037469987"
-opening_hours: "We 08:00-18:00; Th 08:00-19:00; Fr 08:00-18:00; Sa-Mon off; Tu 08:00-19:00"
+opening_hours: We 08:00-18:00; Th 08:00-19:00; Fr 08:00-18:00; Sa-Mon off; Tu 08:00-19:00
 website: ""

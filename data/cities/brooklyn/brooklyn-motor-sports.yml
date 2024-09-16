@@ -1,11 +1,11 @@
 id: 889095699
-type: way
+type: node
 latitude: 41.7976
 longitude: -71.90964
 postcode: "06234"
 city: Brooklyn
-street: "Providence Road"
-housenumber: 476
-phone: "+1 860 774 3557"
+street: Providence Road
+housenumber: "476"
+phone: +1 860 774 3557
 opening_hours: ""
-website: "https://www.youworkyoudrivect.com"
+website: https://www.youworkyoudrivect.com

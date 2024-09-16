@@ -4,8 +4,8 @@ latitude: 41.27522
 longitude: -72.99036
 postcode: "06477"
 city: Orange
-street: "Boston Post Road"
-housenumber: 116
-phone: "+1 203 2984232"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
+street: Boston Post Road
+housenumber: "116"
+phone: +1 203 2984232
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
 website: ""

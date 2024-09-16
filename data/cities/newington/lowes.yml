@@ -1,11 +1,11 @@
 id: 696540833
-type: way
+type: node
 latitude: 41.65945
 longitude: -72.72142
 postcode: "06111"
 city: Newington
-street: "Berlin Turnpike"
-housenumber: 3270
-phone: "+1 860-667-7003"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ct-newington/0623"
+street: Berlin Turnpike
+housenumber: "3270"
+phone: +1 860-667-7003
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ct-newington/0623

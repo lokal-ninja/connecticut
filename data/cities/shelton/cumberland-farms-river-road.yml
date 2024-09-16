@@ -1,11 +1,11 @@
 id: 893132868
-type: way
+type: node
 latitude: 41.28977
 longitude: -73.07631
 postcode: "06484"
 city: Shelton
-street: "River Road"
-housenumber: 464
+street: River Road
+housenumber: "464"
 phone: ""
 opening_hours: ""
 website: ""

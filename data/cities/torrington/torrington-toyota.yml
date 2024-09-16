@@ -1,11 +1,11 @@
 id: 699141471
-type: way
+type: node
 latitude: 41.81853
 longitude: -73.08832
 postcode: "06790"
 city: Torrington
-street: "East Main Street"
-housenumber: 1472
-phone: "+1-860-482-9496"
+street: East Main Street
+housenumber: "1472"
+phone: +1-860-482-9496
 opening_hours: ""
-website: "https://www.torringtontoyota.com/"
+website: https://www.torringtontoyota.com/

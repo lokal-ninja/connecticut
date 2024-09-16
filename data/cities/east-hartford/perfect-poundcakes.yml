@@ -1,11 +1,11 @@
 id: 965798653
-type: way
+type: node
 latitude: 41.77525
 longitude: -72.62995
 postcode: "06108"
 city: East Hartford
-street: "Burnside Avenue"
-housenumber: 221
+street: Burnside Avenue
+housenumber: "221"
 phone: "+18608342229"
 opening_hours: ""
-website: "https://perfectpoundcakesllc.com/"
+website: https://perfectpoundcakesllc.com/

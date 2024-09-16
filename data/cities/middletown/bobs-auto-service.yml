@@ -1,11 +1,11 @@
 id: 292019290
-type: way
+type: node
 latitude: 41.56549
 longitude: -72.65324
 postcode: "06457"
 city: Middletown
-street: "Main Street"
-housenumber: 711
+street: Main Street
+housenumber: "711"
 phone: ""
 opening_hours: ""
 website: ""

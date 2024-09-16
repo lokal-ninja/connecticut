@@ -1,11 +1,11 @@
 id: 893157927
-type: way
+type: node
 latitude: 41.79898
 longitude: -72.37156
 postcode: "06238"
 city: Coventry
-street: "Boston Turnpike"
-housenumber: 1630
-phone: "+1 860 742 5389"
+street: Boston Turnpike
+housenumber: "1630"
+phone: +1 860 742 5389
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1630+boston+tpke-coventry-ct-06238/id=11919"
+website: https://www.walgreens.com/locator/walgreens-1630+boston+tpke-coventry-ct-06238/id=11919

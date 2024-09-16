@@ -1,11 +1,11 @@
 id: 353928318
-type: way
+type: node
 latitude: 41.28292
 longitude: -72.59815
 postcode: "06443"
 city: Madison
-street: "Bradley Road"
-housenumber: 85
+street: Bradley Road
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

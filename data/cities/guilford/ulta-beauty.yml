@@ -4,8 +4,8 @@ latitude: 41.3
 longitude: -72.70704
 postcode: "06437"
 city: Guilford
-street: "Boston Post Road"
-housenumber: 1919
-phone: "+1 203-453-0544"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/guilford-commons-ct-1074"
+street: Boston Post Road
+housenumber: "1919"
+phone: +1 203-453-0544
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/guilford-commons-ct-1074

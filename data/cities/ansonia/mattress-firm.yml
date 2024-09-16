@@ -1,11 +1,11 @@
 id: 390180848
-type: way
+type: node
 latitude: 41.33849
 longitude: -73.07762
 postcode: "06401"
 city: Ansonia
-street: "Main Street"
-housenumber: 495
-phone: "+1 203-732-1751"
+street: Main Street
+housenumber: "495"
+phone: +1 203-732-1751
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/ct/ansonia/158012/"
+website: https://www.mattressfirm.com/en-us/stores/ct/ansonia/158012/

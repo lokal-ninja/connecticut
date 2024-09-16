@@ -1,11 +1,11 @@
 id: 502990119
-type: way
+type: node
 latitude: 41.01753
 longitude: -73.63923
 postcode: "06830"
 city: Greenwich
-street: "Hamilton Avenue"
-housenumber: 199
+street: Hamilton Avenue
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

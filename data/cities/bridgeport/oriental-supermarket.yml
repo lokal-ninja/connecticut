@@ -1,11 +1,11 @@
 id: 208884978
-type: way
+type: node
 latitude: 41.18099
 longitude: -73.2009
 postcode: "06604"
 city: Bridgeport
-street: "Coleman Street"
-housenumber: 320
+street: Coleman Street
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

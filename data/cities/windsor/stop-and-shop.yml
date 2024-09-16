@@ -1,11 +1,11 @@
 id: 888324386
-type: way
+type: node
 latitude: 41.893
 longitude: -72.65283
 postcode: "06095"
 city: Windsor
-street: "Kennedy Road"
-housenumber: 1095
-phone: "+1 860-688-0860"
+street: Kennedy Road
+housenumber: "1095"
+phone: +1 860-688-0860
 opening_hours: ""
-website: "https://stores.stopandshop.com/ct/windsor/1095-kennedy-road"
+website: https://stores.stopandshop.com/ct/windsor/1095-kennedy-road

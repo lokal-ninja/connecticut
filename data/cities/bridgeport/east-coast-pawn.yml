@@ -1,11 +1,11 @@
 id: 207408915
-type: way
+type: node
 latitude: 41.20362
 longitude: -73.18743
 postcode: "06610"
 city: Bridgeport
-street: "Glenwood Avenue"
-housenumber: 76
+street: Glenwood Avenue
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

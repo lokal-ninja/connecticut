@@ -1,11 +1,11 @@
 id: 291969574
-type: way
+type: node
 latitude: 41.49551
 longitude: -72.55799
 postcode: "06441"
 city: Higganum
-street: "Killingworth Road"
-housenumber: 18
-phone: "860-345-2315"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-17:00"
-website: "https://hiway.online/"
+street: Killingworth Road
+housenumber: "18"
+phone: 860-345-2315
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-17:00
+website: https://hiway.online/

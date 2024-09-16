@@ -4,8 +4,8 @@ latitude: 41.22681
 longitude: -73.06995
 postcode: "06460"
 city: Milford
-street: "Boston Post Road"
-housenumber: 415
-phone: "203-951-9588"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.connexpress.com/"
+street: Boston Post Road
+housenumber: "415"
+phone: 203-951-9588
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.connexpress.com/

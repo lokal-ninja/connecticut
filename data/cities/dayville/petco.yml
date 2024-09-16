@@ -1,11 +1,11 @@
 id: 509700780
-type: way
+type: node
 latitude: 41.84219
 longitude: -71.88123
 postcode: "06241"
 city: Dayville
-street: "Killingly Commons Drive"
-housenumber: 1086
-phone: "+1 860-779-7905"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ct/dayville/pet-supplies-dayville-ct-3703.html"
+street: Killingly Commons Drive
+housenumber: "1086"
+phone: +1 860-779-7905
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ct/dayville/pet-supplies-dayville-ct-3703.html

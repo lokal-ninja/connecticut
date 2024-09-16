@@ -1,11 +1,11 @@
 id: 205869210
-type: way
+type: node
 latitude: 41.13782
 longitude: -73.255
 postcode: "06824"
 city: Fairfield
-street: "Reef Road"
-housenumber: 257
-phone: "+1 203 2590812"
-opening_hours: "24/7"
+street: Reef Road
+housenumber: "257"
+phone: +1 203 2590812
+opening_hours: 24/7
 website: ""

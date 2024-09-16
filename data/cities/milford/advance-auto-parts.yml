@@ -1,11 +1,11 @@
 id: 208094784
-type: way
+type: node
 latitude: 41.24159
 longitude: -73.03291
 postcode: "06461"
 city: Milford
-street: "Boston Post Road"
-housenumber: 1422
+street: Boston Post Road
+housenumber: "1422"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ct/milford/1422-boston-post-rd"
+website: https://stores.advanceautoparts.com/ct/milford/1422-boston-post-rd

@@ -1,11 +1,11 @@
 id: 319639942
-type: way
+type: node
 latitude: 41.13545
 longitude: -73.42419
 postcode: "06851"
 city: Norwalk
-street: "Main Avenue"
-housenumber: 300
+street: Main Avenue
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ct/norwalk/oil-change-ge1609.html"
+website: https://store.vioc.com/ct/norwalk/oil-change-ge1609.html

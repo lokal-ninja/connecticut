@@ -1,11 +1,11 @@
 id: 953654725
-type: way
+type: node
 latitude: 41.6705
 longitude: -72.77656
 postcode: "06051"
 city: New Britain
-street: "East Main Street"
-housenumber: 265
+street: East Main Street
+housenumber: "265"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ct/newbritain/oil-change-ae1423.html"
+website: https://store.vioc.com/ct/newbritain/oil-change-ae1423.html

@@ -1,11 +1,11 @@
 id: 358967599
-type: way
+type: node
 latitude: 41.32152
 longitude: -72.87975
 postcode: "06513"
 city: New Haven
-street: "Foxon Boulevard"
-housenumber: 115
-phone: "+1 203-468-3068"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ct-new-haven/0593"
+street: Foxon Boulevard
+housenumber: "115"
+phone: +1 203-468-3068
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ct-new-haven/0593

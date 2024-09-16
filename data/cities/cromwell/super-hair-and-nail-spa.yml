@@ -1,11 +1,11 @@
 id: 823379671
-type: way
+type: node
 latitude: 41.60099
 longitude: -72.67669
 postcode: "06416"
 city: Cromwell
-street: "Shunpike Road"
-housenumber: 25
+street: Shunpike Road
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

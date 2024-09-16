@@ -1,11 +1,11 @@
 id: 458813162
-type: way
+type: node
 latitude: 41.63816
 longitude: -72.86848
 postcode: "06489"
 city: Southington
-street: "Interstate Park Drive"
-housenumber: 89
-phone: "+1 860-621-6770"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/southington/ct/southington/06489/6208"
+street: Interstate Park Drive
+housenumber: "89"
+phone: +1 860-621-6770
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/southington/ct/southington/06489/6208

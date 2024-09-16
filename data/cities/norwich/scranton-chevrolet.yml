@@ -1,11 +1,11 @@
 id: 1028444035
-type: way
+type: node
 latitude: 41.49634
 longitude: -72.0978
 postcode: "06360"
 city: Norwich
-street: "West Thames Street"
-housenumber: 774
+street: West Thames Street
+housenumber: "774"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 263737924
-type: way
+type: node
 latitude: 41.37122
 longitude: -72.15387
 postcode: "06385"
 city: Waterford
-street: "Parkway North"
-housenumber: 155
-phone: "+1 860-447-3646"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2331-waterford-ct"
+street: Parkway North
+housenumber: "155"
+phone: +1 860-447-3646
+opening_hours: 24/7
+website: https://www.walmart.com/store/2331-waterford-ct

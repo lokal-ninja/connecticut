@@ -4,8 +4,8 @@ latitude: 41.69835
 longitude: -72.72438
 postcode: "06111"
 city: Newington
-street: "Main Street"
-housenumber: 985
-phone: "+1 860 667 6084"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-17:00"
-website: "http://www.mojosolarstudio.com"
+street: Main Street
+housenumber: "985"
+phone: +1 860 667 6084
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-17:00
+website: http://www.mojosolarstudio.com

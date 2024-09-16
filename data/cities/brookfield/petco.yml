@@ -1,11 +1,11 @@
 id: 306955167
-type: way
+type: node
 latitude: 41.44027
 longitude: -73.40539
 postcode: "06804"
 city: Brookfield
-street: "Federal Road"
-housenumber: 169
-phone: "+1 203-775-3337"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ct/brookfield/pet-supplies-brookfield-ct-784.html"
+street: Federal Road
+housenumber: "169"
+phone: +1 203-775-3337
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/ct/brookfield/pet-supplies-brookfield-ct-784.html

@@ -1,11 +1,11 @@
 id: 961727105
-type: way
+type: node
 latitude: 41.60449
 longitude: -72.75301
 postcode: "06037"
 city: Berlin
-street: "Meadow Lane"
-housenumber: 206
+street: Meadow Lane
+housenumber: "206"
 phone: ""
 opening_hours: ""
 website: ""

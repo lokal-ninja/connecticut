@@ -1,11 +1,11 @@
 id: 945256450
-type: way
+type: node
 latitude: 41.4499
 longitude: -72.10583
 postcode: "06382"
 city: Uncasville
-street: "Norwich-New London Turnpike"
-housenumber: 887
-phone: "+1-860-848-086"
-opening_hours: "Mo-Fr 10:00-20:00; Sa, Su 10:00-18:00"
-website: "https://www.shopbotanist.com/"
+street: Norwich-New London Turnpike
+housenumber: "887"
+phone: +1-860-848-086
+opening_hours: Mo-Fr 10:00-20:00; Sa, Su 10:00-18:00
+website: https://www.shopbotanist.com/

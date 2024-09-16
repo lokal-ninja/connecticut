@@ -1,11 +1,11 @@
 id: 279893116
-type: way
+type: node
 latitude: 41.4942
 longitude: -72.8114
 postcode: "06492"
 city: Wallingford
-street: "North Colony Road"
-housenumber: 1083
-phone: "+1 203-269-1211"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Wallingford/CT/Wallingford/06492/6217"
+street: North Colony Road
+housenumber: "1083"
+phone: +1 203-269-1211
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Wallingford/CT/Wallingford/06492/6217

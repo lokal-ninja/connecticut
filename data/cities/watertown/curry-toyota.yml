@@ -1,11 +1,11 @@
 id: 699141470
-type: way
+type: node
 latitude: 41.56924
 longitude: -73.09923
 postcode: "06795"
 city: Watertown
-street: "Straits Turnpike"
-housenumber: 832
-phone: "+1-203-758-8261"
+street: Straits Turnpike
+housenumber: "832"
+phone: +1-203-758-8261
 opening_hours: ""
-website: "https://www.currytoyotact.com/"
+website: https://www.currytoyotact.com/

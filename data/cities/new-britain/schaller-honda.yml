@@ -1,11 +1,11 @@
 id: 545587023
-type: way
+type: node
 latitude: 41.64884
 longitude: -72.77097
 postcode: "06051"
 city: New Britain
-street: "Veterans Drive"
-housenumber: 1
+street: Veterans Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

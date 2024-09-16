@@ -1,11 +1,11 @@
 id: 624460282
-type: way
+type: node
 latitude: 41.37992
 longitude: -72.70646
 postcode: "06437"
 city: Guilford
-street: "Durham Road"
-housenumber: 3424
+street: Durham Road
+housenumber: "3424"
 phone: ""
 opening_hours: ""
 website: ""

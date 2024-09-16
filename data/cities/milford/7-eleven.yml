@@ -1,11 +1,11 @@
 id: 209615036
-type: way
+type: node
 latitude: 41.22894
 longitude: -73.06648
 postcode: "06460"
 city: Milford
-street: "Boston Post Road"
-housenumber: 517
-phone: "+1 203-878-7271"
+street: Boston Post Road
+housenumber: "517"
+phone: +1 203-878-7271
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ct/milford/517-boston-post-rd-24840"
+website: https://www.7-eleven.com/locations/ct/milford/517-boston-post-rd-24840

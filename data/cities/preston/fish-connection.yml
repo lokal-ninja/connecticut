@@ -1,11 +1,11 @@
 id: 919785993
-type: way
+type: node
 latitude: 41.47583
 longitude: -72.06461
 postcode: "06365"
 city: Preston
-street: "Route 12"
-housenumber: 127
-phone: "+1 860 885 1739"
+street: Route 12
+housenumber: "127"
+phone: +1 860 885 1739
 opening_hours: ""
-website: "https://www.facebook.com/thefishconnection"
+website: https://www.facebook.com/thefishconnection

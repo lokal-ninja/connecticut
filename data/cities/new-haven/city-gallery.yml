@@ -4,8 +4,8 @@ latitude: 41.31592
 longitude: -72.9095
 postcode: "06511"
 city: New Haven
-street: "State Street"
-housenumber: 994
-phone: "(203) 782-2489"
+street: State Street
+housenumber: "994"
+phone: (203) 782-2489
 opening_hours: ""
-website: "http://www.city-gallery.org/"
+website: http://www.city-gallery.org/

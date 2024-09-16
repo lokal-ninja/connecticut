@@ -1,11 +1,11 @@
 id: 699141475
-type: way
+type: node
 latitude: 41.42488
 longitude: -73.41868
 postcode: "06810"
 city: Danbury
-street: "Federal Road"
-housenumber: 87
-phone: "+1-203-730-4040"
+street: Federal Road
+housenumber: "87"
+phone: +1-203-730-4040
 opening_hours: ""
-website: "https://www.greentreetoyota.com/"
+website: https://www.greentreetoyota.com/

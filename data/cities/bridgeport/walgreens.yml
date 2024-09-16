@@ -1,11 +1,11 @@
 id: 207133837
-type: way
+type: node
 latitude: 41.17588
 longitude: -73.19802
 postcode: "06604"
 city: Bridgeport
-street: "Park Avenue"
-housenumber: 1000
+street: Park Avenue
+housenumber: "1000"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1000+park+ave-bridgeport-ct-06604/id=9521"
+website: https://www.walgreens.com/locator/walgreens-1000+park+ave-bridgeport-ct-06604/id=9521

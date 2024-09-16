@@ -1,11 +1,11 @@
 id: 259984746
-type: way
+type: node
 latitude: 41.848
 longitude: -71.93511
 postcode: "06259"
 city: Pomfret
-street: "Killingly Road"
-housenumber: 304
-phone: "+1 860 928 4245"
+street: Killingly Road
+housenumber: "304"
+phone: +1 860 928 4245
 opening_hours: ""
-website: "http://www.higginsoil.com"
+website: http://www.higginsoil.com

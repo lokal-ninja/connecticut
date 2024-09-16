@@ -1,11 +1,11 @@
 id: 958248642
-type: way
+type: node
 latitude: 41.66538
 longitude: -72.60317
 postcode: "06073"
 city: Glastonbury
-street: "Main Street"
-housenumber: 862
+street: Main Street
+housenumber: "862"
 phone: ""
 opening_hours: ""
 website: ""

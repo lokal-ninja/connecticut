@@ -1,11 +1,11 @@
 id: 398082156
-type: way
+type: node
 latitude: 41.05528
 longitude: -73.52322
 postcode: "06902"
 city: Stamford
-street: "East Main Street"
-housenumber: 909
-phone: "+1-203-348-3751"
+street: East Main Street
+housenumber: "909"
+phone: +1-203-348-3751
 opening_hours: ""
-website: "https://www.toyotaofstamford.com/"
+website: https://www.toyotaofstamford.com/

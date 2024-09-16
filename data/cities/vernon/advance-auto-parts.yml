@@ -1,11 +1,11 @@
 id: 1020740389
-type: way
+type: node
 latitude: 41.85139
 longitude: -72.48421
 postcode: "06066"
 city: Vernon
-street: "Talcottville Road"
-housenumber: 535
+street: Talcottville Road
+housenumber: "535"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ct/vernon/535-talcottville-rd"
+website: https://stores.advanceautoparts.com/ct/vernon/535-talcottville-rd

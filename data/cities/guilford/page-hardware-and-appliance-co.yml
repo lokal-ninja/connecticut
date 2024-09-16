@@ -1,11 +1,11 @@
 id: 696316598
-type: way
+type: node
 latitude: 41.28141
 longitude: -72.68141
 postcode: "06437"
 city: Guilford
-street: "Boston Street"
-housenumber: 9
-phone: "+1 203-453-5267"
-opening_hours: "Mo-Sa 07:00-18:00; Su 09:00-17:00"
-website: "https://www.pagehardware.com/"
+street: Boston Street
+housenumber: "9"
+phone: +1 203-453-5267
+opening_hours: Mo-Sa 07:00-18:00; Su 09:00-17:00
+website: https://www.pagehardware.com/

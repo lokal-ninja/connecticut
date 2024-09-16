@@ -1,11 +1,11 @@
 id: 391756178
-type: way
+type: node
 latitude: 41.80444
 longitude: -73.13128
 postcode: "06790"
 city: Torrington
-street: "Church Street"
-housenumber: 392
+street: Church Street
+housenumber: "392"
 phone: ""
 opening_hours: ""
 website: ""

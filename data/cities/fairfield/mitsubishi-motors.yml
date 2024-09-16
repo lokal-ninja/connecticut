@@ -1,11 +1,11 @@
 id: 72372975
-type: way
+type: node
 latitude: 41.17651
 longitude: -73.23008
 postcode: "06825"
 city: Fairfield
-street: "Tunix Hill rd"
-housenumber: 421
-phone: "+1 203 3840686"
+street: Tunix Hill rd
+housenumber: "421"
+phone: +1 203 3840686
 opening_hours: ""
-website: "https://fairfieldmitsubishict.com/"
+website: https://fairfieldmitsubishict.com/

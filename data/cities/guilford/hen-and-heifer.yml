@@ -1,11 +1,11 @@
 id: 971843725
-type: way
+type: node
 latitude: 41.2809
 longitude: -72.68283
 postcode: "06437"
 city: Guilford
-street: "Water Street"
-housenumber: 23
+street: Water Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://henandheifer.com/"
+website: https://henandheifer.com/

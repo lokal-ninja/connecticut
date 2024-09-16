@@ -1,11 +1,11 @@
 id: 386112217
-type: way
+type: node
 latitude: 41.29123
 longitude: -73.11379
 postcode: "06484"
 city: Shelton
-street: "Bridgeport Avenue"
-housenumber: 465
-phone: "+1 203-929-1110"
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-20:00"
-website: "https://www.walmart.com/store/2163/shelton-ct/whats-new"
+street: Bridgeport Avenue
+housenumber: "465"
+phone: +1 203-929-1110
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-20:00
+website: https://www.walmart.com/store/2163/shelton-ct/whats-new

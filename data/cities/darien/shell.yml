@@ -1,11 +1,11 @@
 id: 307318634
-type: way
+type: node
 latitude: 41.07918
 longitude: -73.4686
 postcode: "06820"
 city: Darien
-street: "Post Road"
-housenumber: 805
+street: Post Road
+housenumber: "805"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 840564134
-type: way
+type: node
 latitude: 41.40124
 longitude: -73.41679
 postcode: "06810"
 city: Danbury
-street: "Plumtrees Road"
-housenumber: 14
+street: Plumtrees Road
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

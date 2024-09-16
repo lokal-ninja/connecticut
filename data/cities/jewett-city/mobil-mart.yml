@@ -1,11 +1,11 @@
 id: 888019450
-type: way
+type: node
 latitude: 41.60469
 longitude: -71.98345
 postcode: "06351"
 city: Jewett City
-street: "Main Street"
-housenumber: 7
-phone: "+1 860 376 5826"
+street: Main Street
+housenumber: "7"
+phone: +1 860 376 5826
 opening_hours: ""
-website: "https://www.exxon.com/en/find-station/jewettcity-ct-chuckysjewettcity-200310643"
+website: https://www.exxon.com/en/find-station/jewettcity-ct-chuckysjewettcity-200310643

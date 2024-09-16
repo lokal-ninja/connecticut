@@ -1,11 +1,11 @@
 id: 918775364
-type: way
+type: node
 latitude: 41.50219
 longitude: -72.09439
 postcode: "06360"
 city: Norwich
-street: "West Thames Street"
-housenumber: 583
-phone: "+1 860 886 0436"
+street: West Thames Street
+housenumber: "583"
+phone: +1 860 886 0436
 opening_hours: ""
-website: "https://www.facebook.com/JrRoseConsignmentBoutique"
+website: https://www.facebook.com/JrRoseConsignmentBoutique

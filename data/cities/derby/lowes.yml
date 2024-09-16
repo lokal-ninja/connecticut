@@ -1,11 +1,11 @@
 id: 542938164
-type: way
+type: node
 latitude: 41.31494
 longitude: -73.05867
 postcode: "06418"
 city: Derby
-street: "New Haven Avenue"
-housenumber: 496
-phone: "+1 203-446-0080"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ct-derby/2327"
+street: New Haven Avenue
+housenumber: "496"
+phone: +1 203-446-0080
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ct-derby/2327

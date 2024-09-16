@@ -1,11 +1,11 @@
 id: 208082731
-type: way
+type: node
 latitude: 41.25108
 longitude: -73.02289
-postcode: "06460-2718"
+postcode: 06460-2718
 city: Milford
-street: "Boston Post Road"
-housenumber: 1718
-phone: "+1 203-882-8881"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/milford-ct-312.html"
+street: Boston Post Road
+housenumber: "1718"
+phone: +1 203-882-8881
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/milford-ct-312.html

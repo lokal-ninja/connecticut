@@ -4,8 +4,8 @@ latitude: 41.23253
 longitude: -73.15166
 postcode: "06611"
 city: Trumbull
-street: "Hawley Lane"
-housenumber: 100
-phone: "+1 203-386-9149"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Hawley Lane
+housenumber: "100"
+phone: +1 203-386-9149
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

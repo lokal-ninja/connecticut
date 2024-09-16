@@ -1,11 +1,11 @@
 id: 955594013
-type: way
+type: node
 latitude: 41.54068
 longitude: -72.81746
 postcode: "06451"
 city: Meriden
-street: "West Main Street"
-housenumber: 427
+street: West Main Street
+housenumber: "427"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-425+w+main+st-meriden-ct-06451/id=5948"
+website: https://www.walgreens.com/locator/walgreens-425+w+main+st-meriden-ct-06451/id=5948

@@ -1,11 +1,11 @@
 id: 1254205697
-type: way
+type: node
 latitude: 41.99641
 longitude: -72.5756
 postcode: "06082"
 city: Enfield
-street: "Elm Street"
-housenumber: 136
-phone: "+1 860-745-1900"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Enfield/CT/Enfield/06082/6214"
+street: Elm Street
+housenumber: "136"
+phone: +1 860-745-1900
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Enfield/CT/Enfield/06082/6214

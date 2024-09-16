@@ -1,11 +1,11 @@
 id: 30953272
-type: way
+type: node
 latitude: 41.81865
 longitude: -72.8649
 postcode: "06001"
 city: Avon
-street: "West Main Street"
-housenumber: 315
-phone: "+1 860-264-0318"
-opening_hours: "09:00-22:00"
+street: West Main Street
+housenumber: "315"
+phone: +1 860-264-0318
+opening_hours: 09:00-22:00
 website: ""

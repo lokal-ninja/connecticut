@@ -1,11 +1,11 @@
 id: 947420478
-type: way
+type: node
 latitude: 41.71126
 longitude: -72.60576
 postcode: "06033"
 city: Glastonbury
-street: "New London Turnpike"
-housenumber: 160
-phone: "+1 (860) 918-7583"
+street: New London Turnpike
+housenumber: "160"
+phone: +1 (860) 918-7583
 opening_hours: ""
 website: ""

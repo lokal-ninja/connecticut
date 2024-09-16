@@ -1,11 +1,11 @@
 id: 167025636
-type: way
+type: node
 latitude: 41.39067
 longitude: -73.44726
 postcode: "06810"
 city: Danbury
-street: "Main Street"
-housenumber: 75
+street: Main Street
+housenumber: "75"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-75+main+st-danbury-ct-06810/id=3523"
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-75+main+st-danbury-ct-06810/id=3523

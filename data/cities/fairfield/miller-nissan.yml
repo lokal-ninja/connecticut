@@ -1,11 +1,11 @@
 id: 53435626
-type: way
+type: node
 latitude: 41.16714
 longitude: -73.23368
 postcode: "06825"
 city: Fairfield
-street: "Kings Highway East"
-housenumber: 930
+street: Kings Highway East
+housenumber: "930"
 phone: ""
 opening_hours: ""
 website: ""

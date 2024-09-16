@@ -1,11 +1,11 @@
 id: 458807109
-type: way
+type: node
 latitude: 41.61436
 longitude: -72.87289
 postcode: "06489"
 city: Southington
-street: "North Main Street"
-housenumber: 505
+street: North Main Street
+housenumber: "505"
 phone: ""
 opening_hours: ""
 website: ""

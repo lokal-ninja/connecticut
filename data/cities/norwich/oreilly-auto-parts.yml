@@ -1,11 +1,11 @@
 id: 923414731
-type: way
+type: node
 latitude: 41.51897
 longitude: -72.09445
 postcode: "06360"
 city: Norwich
-street: "West Main Street"
-housenumber: 460
-phone: "+1 860 367 8400"
+street: West Main Street
+housenumber: "460"
+phone: +1 860 367 8400
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ct/norwich/autoparts-5245.html"
+website: https://locations.oreillyauto.com/ct/norwich/autoparts-5245.html

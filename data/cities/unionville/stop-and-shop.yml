@@ -1,11 +1,11 @@
 id: 566456742
-type: way
+type: node
 latitude: 41.75694
 longitude: -72.88392
 postcode: "06085"
 city: Unionville
-street: "Farmington Avenue"
-housenumber: 1799
+street: Farmington Avenue
+housenumber: "1799"
 phone: ""
 opening_hours: ""
 website: ""

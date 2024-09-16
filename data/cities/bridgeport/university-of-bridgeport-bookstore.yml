@@ -1,11 +1,11 @@
 id: 295408284
-type: way
+type: node
 latitude: 41.16628
 longitude: -73.19093
 postcode: "06604"
 city: Bridgeport
-street: "Myrtle Avenue"
-housenumber: 225
+street: Myrtle Avenue
+housenumber: "225"
 phone: ""
 opening_hours: ""
 website: ""

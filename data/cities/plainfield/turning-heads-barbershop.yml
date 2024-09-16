@@ -1,11 +1,11 @@
 id: 923025860
-type: way
+type: node
 latitude: 41.6731
 longitude: -71.91512
 postcode: "06374"
 city: Plainfield
-street: "Norwich Road"
-housenumber: 699
-phone: "+1 860 987 2887"
+street: Norwich Road
+housenumber: "699"
+phone: +1 860 987 2887
 opening_hours: ""
-website: "http://turningheadsbarbershopllc.com"
+website: http://turningheadsbarbershopllc.com

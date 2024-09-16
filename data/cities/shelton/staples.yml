@@ -4,8 +4,8 @@ latitude: 41.26607
 longitude: -73.13042
 postcode: "06484"
 city: Shelton
-street: "Armstrong Road"
-housenumber: 3
+street: Armstrong Road
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ct/shelton/3-armstrong-road"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://stores.staples.com/ct/shelton/3-armstrong-road

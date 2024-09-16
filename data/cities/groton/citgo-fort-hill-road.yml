@@ -1,11 +1,11 @@
 id: 1030730849
-type: way
+type: node
 latitude: 41.34734
 longitude: -72.02191
 postcode: "06340"
 city: Groton
-street: "Fort Hill Road"
-housenumber: 182
+street: Fort Hill Road
+housenumber: "182"
 phone: ""
 opening_hours: ""
 website: ""

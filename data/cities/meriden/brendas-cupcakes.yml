@@ -1,11 +1,11 @@
 id: 720453528
-type: way
+type: node
 latitude: 41.52444
 longitude: -72.75792
 postcode: "06450"
 city: Meriden
-street: "Pomeroy Avenue"
-housenumber: 606
-phone: "+1 860 601 1194"
+street: Pomeroy Avenue
+housenumber: "606"
+phone: +1 860 601 1194
 opening_hours: ""
 website: ""

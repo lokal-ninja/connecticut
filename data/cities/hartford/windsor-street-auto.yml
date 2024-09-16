@@ -1,11 +1,11 @@
 id: 914292400
-type: way
+type: node
 latitude: 41.78676
 longitude: -72.6702
 postcode: "06120"
 city: Hartford
-street: "Windsor Street"
-housenumber: 709
-phone: "+1 860 218 2182"
+street: Windsor Street
+housenumber: "709"
+phone: +1 860 218 2182
 opening_hours: ""
-website: "https://www.facebook.com/Windsor-Street-auto-llc-1215854431841569"
+website: https://www.facebook.com/Windsor-Street-auto-llc-1215854431841569

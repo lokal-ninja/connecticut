@@ -1,11 +1,11 @@
 id: 696004349
-type: way
+type: node
 latitude: 41.65651
 longitude: -72.72374
 postcode: "06111"
 city: Newington
-street: "Costello Road"
-housenumber: 56
-phone: "+1 860-436-3630"
+street: Costello Road
+housenumber: "56"
+phone: +1 860-436-3630
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/connecticut/newington/7710000068/"
+website: https://stores.ashleyfurniture.com/store/us/connecticut/newington/7710000068/

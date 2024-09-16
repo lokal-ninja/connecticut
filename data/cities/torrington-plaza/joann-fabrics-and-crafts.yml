@@ -1,11 +1,11 @@
 id: 697902113
-type: way
+type: node
 latitude: 41.79959
 longitude: -73.11905
 postcode: "06790"
 city: Torrington Plaza)
-street: "South Main Street"
-housenumber: 39
-phone: "+1 860-496-0932"
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://stores.joann.com/ct/torrington/2367/"
+street: South Main Street
+housenumber: "39"
+phone: +1 860-496-0932
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-18:00
+website: https://stores.joann.com/ct/torrington/2367/

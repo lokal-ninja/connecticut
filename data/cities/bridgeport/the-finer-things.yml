@@ -1,11 +1,11 @@
 id: 369178950
-type: way
+type: node
 latitude: 41.18392
 longitude: -73.21294
 postcode: "06604"
 city: Bridgeport
-street: "Wood Avenue"
-housenumber: 892
+street: Wood Avenue
+housenumber: "892"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 458818611
-type: way
+type: node
 latitude: 41.64736
 longitude: -72.8731
 postcode: "06489"
 city: Southington
-street: "Queen Street"
-housenumber: 1126
+street: Queen Street
+housenumber: "1126"
 phone: ""
 opening_hours: ""
 website: ""

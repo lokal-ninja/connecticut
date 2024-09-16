@@ -4,8 +4,8 @@ latitude: 41.71303
 longitude: -72.60785
 postcode: "06033"
 city: Glastonbury
-street: "Hebron Avenue"
-housenumber: 41
-phone: "+1 860 430 2887"
-opening_hours: "Mo,Tu,Sa 10:00-19:00; Su 12:00-17:00; We-Fr 10:00-20:00"
-website: "https://www.centerwineandspirits.com"
+street: Hebron Avenue
+housenumber: "41"
+phone: +1 860 430 2887
+opening_hours: Mo,Tu,Sa 10:00-19:00; Su 12:00-17:00; We-Fr 10:00-20:00
+website: https://www.centerwineandspirits.com

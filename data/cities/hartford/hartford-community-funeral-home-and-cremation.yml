@@ -1,11 +1,11 @@
 id: 916535344
-type: way
+type: node
 latitude: 41.7483
 longitude: -72.67952
 postcode: "06114"
 city: Hartford
-street: "Maple Avenue"
-housenumber: 380
-phone: "+1 860 246 0700"
+street: Maple Avenue
+housenumber: "380"
+phone: +1 860 246 0700
 opening_hours: ""
-website: "https://www.hartfordcommunityfh.com"
+website: https://www.hartfordcommunityfh.com

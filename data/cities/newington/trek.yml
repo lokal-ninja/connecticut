@@ -4,8 +4,8 @@ latitude: 41.69782
 longitude: -72.72319
 postcode: "06111"
 city: Newington
-street: "Main Street"
-housenumber: 1030
-phone: "+1 860 667 0857"
-opening_hours: "Mo,Tu,We,Th,Fr 10:00-18:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.trekbikes.com/us/en_US/retail/newington/"
+street: Main Street
+housenumber: "1030"
+phone: +1 860 667 0857
+opening_hours: Mo,Tu,We,Th,Fr 10:00-18:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.trekbikes.com/us/en_US/retail/newington/

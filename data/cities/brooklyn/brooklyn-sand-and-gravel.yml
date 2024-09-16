@@ -1,11 +1,11 @@
 id: 933005139
-type: way
+type: node
 latitude: 41.75466
 longitude: -71.92087
 postcode: "06234"
 city: Brooklyn
-street: "Wauregan Road"
-housenumber: 530
-phone: "+1 860 208 7397"
+street: Wauregan Road
+housenumber: "530"
+phone: +1 860 208 7397
 opening_hours: ""
-website: "https://www.jolleyconcrete.net/sand-and-gravel"
+website: https://www.jolleyconcrete.net/sand-and-gravel

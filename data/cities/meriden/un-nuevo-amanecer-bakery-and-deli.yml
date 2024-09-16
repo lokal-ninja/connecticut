@@ -1,11 +1,11 @@
 id: 284652777
-type: way
+type: node
 latitude: 41.53044
 longitude: -72.78208
 postcode: "06450"
 city: Meriden
-street: "East Main Street"
-housenumber: 641
+street: East Main Street
+housenumber: "641"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 962445139
-type: way
+type: node
 latitude: 41.563
 longitude: -72.5415
 postcode: "06424"
 city: East Hampton
-street: "West High Street"
-housenumber: 259
+street: West High Street
+housenumber: "259"
 phone: ""
 opening_hours: ""
 website: ""

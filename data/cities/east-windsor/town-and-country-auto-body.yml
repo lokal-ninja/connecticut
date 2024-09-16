@@ -1,11 +1,11 @@
 id: 1021553446
-type: way
+type: node
 latitude: 41.93657
 longitude: -72.57325
 postcode: "06088"
 city: East Windsor
-street: "North Road"
-housenumber: 174
+street: North Road
+housenumber: "174"
 phone: ""
 opening_hours: ""
 website: ""

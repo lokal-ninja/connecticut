@@ -1,11 +1,11 @@
 id: 1254180194
-type: way
+type: node
 latitude: 41.7271
 longitude: -72.61994
 postcode: "06033"
 city: Glastonbury
-street: "Putnam Boulevard"
-housenumber: 115
-phone: "+1 860-657-1184"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Glastonbury/CT/Glastonbury/06033/6220"
+street: Putnam Boulevard
+housenumber: "115"
+phone: +1 860-657-1184
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Glastonbury/CT/Glastonbury/06033/6220

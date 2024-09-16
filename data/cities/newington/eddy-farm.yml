@@ -4,8 +4,8 @@ latitude: 41.69359
 longitude: -72.733
 postcode: "06111"
 city: Newington
-street: "Willard Avenue"
-housenumber: 851
+street: Willard Avenue
+housenumber: "851"
 phone: ""
-opening_hours: "Jul-Oct Mo-Fr 10:00-18:00; Jul-Oct Sa,Su 10:00-17:00"
-website: "https://www.eddyfarm.org/"
+opening_hours: Jul-Oct Mo-Fr 10:00-18:00; Jul-Oct Sa,Su 10:00-17:00
+website: https://www.eddyfarm.org/

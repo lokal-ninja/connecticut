@@ -4,8 +4,8 @@ latitude: 41.8413
 longitude: -71.87474
 postcode: "06241"
 city: Dayville
-street: "Hartford Pike"
-housenumber: 730
-phone: "+1 860 774 3543"
+street: Hartford Pike
+housenumber: "730"
+phone: +1 860 774 3543
 opening_hours: ""
-website: "https://www.salvationarmyusa.org/usn/plugins/gdosCenterSearch?query=06241&mode=query_3&limit=40"
+website: https://www.salvationarmyusa.org/usn/plugins/gdosCenterSearch?query=06241&mode=query_3&limit=40

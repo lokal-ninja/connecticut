@@ -1,11 +1,11 @@
 id: 889300786
-type: way
+type: node
 latitude: 41.84608
 longitude: -71.88841
 postcode: "06241"
 city: Dayville
-street: "Hartford Pike"
-housenumber: 439
-phone: "+1 860 779 3888"
+street: Hartford Pike
+housenumber: "439"
+phone: +1 860 779 3888
 opening_hours: ""
-website: "https://xtramart.com/locations/dayville-hartford-tpk"
+website: https://xtramart.com/locations/dayville-hartford-tpk

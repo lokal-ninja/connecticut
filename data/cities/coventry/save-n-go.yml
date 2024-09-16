@@ -1,11 +1,11 @@
 id: 893157931
-type: way
+type: node
 latitude: 41.79795
 longitude: -72.37286
 postcode: "06238"
 city: Coventry
-street: "Boston Turnpike"
-housenumber: 1657
-phone: "+1 860 742 4241"
+street: Boston Turnpike
+housenumber: "1657"
+phone: +1 860 742 4241
 opening_hours: ""
 website: ""

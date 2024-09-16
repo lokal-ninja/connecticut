@@ -1,11 +1,11 @@
 id: 505147158
-type: way
+type: node
 latitude: 41.73768
 longitude: -72.18021
 postcode: "06256"
 city: North Windham
-street: "Boston Post Road"
-housenumber: 320
-phone: "+1 860 423 9304"
+street: Boston Post Road
+housenumber: "320"
+phone: +1 860 423 9304
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ct/north-windham/320-boston-post-road"
+website: https://stores.advanceautoparts.com/ct/north-windham/320-boston-post-road

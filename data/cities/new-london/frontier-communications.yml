@@ -1,11 +1,11 @@
 id: 956428593
-type: way
+type: node
 latitude: 41.35465
 longitude: -72.09682
 postcode: "06320"
 city: New London
-street: "State Street"
-housenumber: 200
-phone: "+1 860 437 0044"
+street: State Street
+housenumber: "200"
+phone: +1 860 437 0044
 opening_hours: ""
-website: "https://frontier.com/corporate/retailstores/connecticut"
+website: https://frontier.com/corporate/retailstores/connecticut

@@ -1,11 +1,11 @@
 id: 923025864
-type: way
+type: node
 latitude: 41.67323
 longitude: -71.91527
 postcode: "06374"
 city: Plainfield
-street: "Norwich Road"
-housenumber: 695
-phone: "+1 860 564 7166"
+street: Norwich Road
+housenumber: "695"
+phone: +1 860 564 7166
 opening_hours: ""
-website: "https://minorsauto.com"
+website: https://minorsauto.com

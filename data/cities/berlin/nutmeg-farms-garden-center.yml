@@ -1,11 +1,11 @@
 id: 547156661
-type: way
+type: node
 latitude: 41.62504
 longitude: -72.74759
 postcode: "06037"
 city: Berlin
-street: "Mill Street"
-housenumber: 168
+street: Mill Street
+housenumber: "168"
 phone: ""
 opening_hours: ""
 website: ""

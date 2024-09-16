@@ -1,11 +1,11 @@
 id: 206145165
-type: way
+type: node
 latitude: 41.1671
 longitude: -73.21575
 postcode: "06605"
 city: Bridgeport
-street: "Railroad Avenue"
-housenumber: 1625
+street: Railroad Avenue
+housenumber: "1625"
 phone: ""
 opening_hours: ""
-website: "http://www.skateparkramps.com"
+website: http://www.skateparkramps.com

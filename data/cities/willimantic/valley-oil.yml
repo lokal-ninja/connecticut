@@ -1,11 +1,11 @@
 id: 830601855
-type: way
+type: node
 latitude: 41.71614
 longitude: -72.23497
 postcode: "06226"
 city: Willimantic
-street: "Columbia Avenue"
-housenumber: 82
+street: Columbia Avenue
+housenumber: "82"
 phone: ""
 opening_hours: ""
-website: "https://hopenergy.com/locations/valley-oil/"
+website: https://hopenergy.com/locations/valley-oil/

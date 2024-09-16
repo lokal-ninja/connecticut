@@ -1,11 +1,11 @@
 id: 831061780
-type: way
+type: node
 latitude: 41.72127
 longitude: -72.20363
 postcode: "06226"
 city: Willimantic
-street: "Jackson Street"
-housenumber: 412
-phone: "+1 (860) 423-5436"
+street: Jackson Street
+housenumber: "412"
+phone: +1 (860) 423-5436
 opening_hours: ""
-website: "https://www.cumberlandfarms.com/stores/ct/willimantic-4679"
+website: https://www.cumberlandfarms.com/stores/ct/willimantic-4679

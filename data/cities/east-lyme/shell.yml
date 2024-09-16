@@ -1,11 +1,11 @@
 id: 548037299
-type: way
+type: node
 latitude: 41.36668
 longitude: -72.21037
 postcode: "06333"
 city: East Lyme
-street: "Boston Post Road"
-housenumber: 113
+street: Boston Post Road
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

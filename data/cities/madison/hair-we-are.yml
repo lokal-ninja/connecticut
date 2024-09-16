@@ -1,11 +1,11 @@
 id: 883110402
-type: way
+type: node
 latitude: 41.28303
 longitude: -72.59332
 postcode: "06443"
 city: Madison
-street: "Wall Street"
-housenumber: 102
+street: Wall Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

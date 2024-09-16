@@ -1,11 +1,11 @@
 id: 182032116
-type: way
+type: node
 latitude: 41.79526
 longitude: -72.54964
 postcode: "06042"
 city: Manchester
-street: "Tolland Turnpike"
-housenumber: 1046
+street: Tolland Turnpike
+housenumber: "1046"
 phone: ""
 opening_hours: ""
 website: ""

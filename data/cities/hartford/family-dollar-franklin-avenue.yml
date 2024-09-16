@@ -1,11 +1,11 @@
 id: 916725709
-type: way
+type: node
 latitude: 41.73736
 longitude: -72.67612
 postcode: "06114"
 city: Hartford
-street: "Franklin Avenue"
-housenumber: 435
-phone: "+1 959 710 5952"
+street: Franklin Avenue
+housenumber: "435"
+phone: +1 959 710 5952
 opening_hours: ""
-website: "https://www.familydollar.com/locations/ct/hartford/25589"
+website: https://www.familydollar.com/locations/ct/hartford/25589

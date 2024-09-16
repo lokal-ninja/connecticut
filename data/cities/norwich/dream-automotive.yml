@@ -1,11 +1,11 @@
 id: 1016051894
-type: way
+type: node
 latitude: 41.50866
 longitude: -72.07577
 postcode: "06360"
 city: Norwich
-street: "Laurel Hill Avenue"
-housenumber: 431
-phone: "+1 860 887 8877"
+street: Laurel Hill Avenue
+housenumber: "431"
+phone: +1 860 887 8877
 opening_hours: ""
-website: "https://dreamautoct.com/"
+website: https://dreamautoct.com/

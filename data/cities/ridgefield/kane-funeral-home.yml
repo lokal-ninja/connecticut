@@ -1,11 +1,11 @@
 id: 216577679
-type: way
+type: node
 latitude: 41.28115
 longitude: -73.5003
 postcode: "06877"
 city: Ridgefield
-street: "Catoonah Street"
-housenumber: 25
+street: Catoonah Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

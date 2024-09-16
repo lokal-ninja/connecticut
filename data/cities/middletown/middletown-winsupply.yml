@@ -1,11 +1,11 @@
 id: 302857464
-type: way
+type: node
 latitude: 41.55867
 longitude: -72.64537
 postcode: "06457"
 city: Middletown
-street: "Dekoven Drive"
-housenumber: 100
+street: Dekoven Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

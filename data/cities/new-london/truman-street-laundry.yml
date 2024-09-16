@@ -1,11 +1,11 @@
 id: 956428466
-type: way
+type: node
 latitude: 41.35134
 longitude: -72.10255
 postcode: "06320"
 city: New London
-street: "Truman Street"
-housenumber: 73
-phone: "+1 860 442 7627"
+street: Truman Street
+housenumber: "73"
+phone: +1 860 442 7627
 opening_hours: ""
-website: "https://truman-street-laundry.business.site"
+website: https://truman-street-laundry.business.site

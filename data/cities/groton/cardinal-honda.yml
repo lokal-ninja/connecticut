@@ -1,11 +1,11 @@
 id: 587869872
-type: way
+type: node
 latitude: 41.37604
 longitude: -72.07543
 postcode: "06340"
 city: Groton
-street: "Route 12"
-housenumber: 531
+street: Route 12
+housenumber: "531"
 phone: ""
 opening_hours: ""
 website: ""

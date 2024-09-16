@@ -1,11 +1,11 @@
 id: 396122195
-type: way
+type: node
 latitude: 41.52921
 longitude: -72.77663
 postcode: "06450"
 city: Meriden
-street: "East Main Street"
-housenumber: 800
+street: East Main Street
+housenumber: "800"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ct/meriden/800-e-main-st"
+website: https://stores.advanceautoparts.com/ct/meriden/800-e-main-st

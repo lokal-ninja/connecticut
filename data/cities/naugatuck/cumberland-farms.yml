@@ -1,11 +1,11 @@
 id: 1274518488
-type: way
+type: node
 latitude: 41.50472
 longitude: -73.04483
 postcode: "06770"
 city: Naugatuck
-street: "North Main Street"
-housenumber: 527
+street: North Main Street
+housenumber: "527"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 626844800
-type: way
+type: node
 latitude: 41.68269
 longitude: -72.94223
 postcode: "06010"
 city: Bristol
-street: "Burlington Avenue"
-housenumber: 10
-phone: "+1 860-589-0202"
-opening_hours: "05:00-20:00"
-website: "https://locations.dunkindonuts.com/en/ct/bristol/10-burlington-ave/353128"
+street: Burlington Avenue
+housenumber: "10"
+phone: +1 860-589-0202
+opening_hours: 05:00-20:00
+website: https://locations.dunkindonuts.com/en/ct/bristol/10-burlington-ave/353128

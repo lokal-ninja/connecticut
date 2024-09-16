@@ -1,11 +1,11 @@
 id: 889077093
-type: way
+type: node
 latitude: 41.79635
 longitude: -71.91533
 postcode: "06234"
 city: Brooklyn
-street: "Providence Road"
-housenumber: 409
-phone: "+1 860 774 9032"
+street: Providence Road
+housenumber: "409"
+phone: +1 860 774 9032
 opening_hours: ""
-website: "https://xtramart.com/locations/brooklyn-providence-road"
+website: https://xtramart.com/locations/brooklyn-providence-road

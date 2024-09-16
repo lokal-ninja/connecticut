@@ -1,11 +1,11 @@
 id: 396107808
-type: way
+type: node
 latitude: 41.13816
 longitude: -73.31018
 postcode: "06880"
 city: Westport
-street: "Post Road East"
-housenumber: 1554
+street: Post Road East
+housenumber: "1554"
 phone: ""
 opening_hours: ""
 website: ""

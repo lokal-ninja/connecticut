@@ -1,11 +1,11 @@
 id: 516692981
-type: way
+type: node
 latitude: 41.72515
 longitude: -73.47635
 postcode: "06757"
 city: Kent
-street: "North Main Street"
-housenumber: 10
-phone: "860-927-4104"
+street: North Main Street
+housenumber: "10"
+phone: 860-927-4104
 opening_hours: ""
 website: ""

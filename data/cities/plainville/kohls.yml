@@ -1,11 +1,11 @@
 id: 41063228
-type: way
+type: node
 latitude: 41.67683
 longitude: -72.84439
 postcode: "06062"
 city: Plainville
-street: "New Britain Avenue"
-housenumber: 200
-phone: "+1 860-747-9667"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ct/plainville-461.shtml"
+street: New Britain Avenue
+housenumber: "200"
+phone: +1 860-747-9667
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/ct/plainville-461.shtml

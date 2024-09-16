@@ -1,11 +1,11 @@
 id: 863117947
-type: way
+type: node
 latitude: 41.95441
 longitude: -72.30933
 postcode: "06076"
 city: Stafford
-street: "West Main Street"
-housenumber: 37
+street: West Main Street
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/stafford-springs-ct-pharmacies/37-west-main-st-stafford-springs-ct-06076/storeid=10605"
+website: https://www.cvs.com/store-locator/stafford-springs-ct-pharmacies/37-west-main-st-stafford-springs-ct-06076/storeid=10605

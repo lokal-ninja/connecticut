@@ -1,11 +1,11 @@
 id: 913713554
-type: way
+type: node
 latitude: 41.78419
 longitude: -72.70131
 postcode: "06112"
 city: Hartford
-street: "Albany Avenue"
-housenumber: 1480
-phone: "+1 860 969 6677"
+street: Albany Avenue
+housenumber: "1480"
+phone: +1 860 969 6677
 opening_hours: ""
 website: ""

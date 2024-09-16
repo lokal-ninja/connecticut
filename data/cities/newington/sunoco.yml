@@ -1,11 +1,11 @@
 id: 696004340
-type: way
+type: node
 latitude: 41.66208
 longitude: -72.72282
 postcode: "06111"
 city: Newington
-street: "Berlin Turnpike"
-housenumber: 3191
+street: Berlin Turnpike
+housenumber: "3191"
 phone: ""
 opening_hours: ""
 website: ""

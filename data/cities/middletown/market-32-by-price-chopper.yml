@@ -1,11 +1,11 @@
 id: 261113601
-type: way
+type: node
 latitude: 41.55331
 longitude: -72.67997
 postcode: "06457"
 city: Middletown
-street: "Washington Street"
-housenumber: 855
-phone: "(860) 740-7700"
-opening_hours: "Mo-Su 06:00-00:00"
-website: "https://stores.pricechopper.com/ll/US/CT/Middletown/855-Washington-Street"
+street: Washington Street
+housenumber: "855"
+phone: (860) 740-7700
+opening_hours: Mo-Su 06:00-00:00
+website: https://stores.pricechopper.com/ll/US/CT/Middletown/855-Washington-Street

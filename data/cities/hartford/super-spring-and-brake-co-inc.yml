@@ -1,11 +1,11 @@
 id: 914292307
-type: way
+type: node
 latitude: 41.78856
 longitude: -72.66969
 postcode: "06120"
 city: Hartford
-street: "Windsor Street"
-housenumber: 767
-phone: "+1 860 249 7774"
+street: Windsor Street
+housenumber: "767"
+phone: +1 860 249 7774
 opening_hours: ""
-website: "https://www.superspringandbrake.com"
+website: https://www.superspringandbrake.com

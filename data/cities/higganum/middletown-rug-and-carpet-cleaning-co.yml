@@ -1,11 +1,11 @@
 id: 337493811
-type: way
+type: node
 latitude: 41.49974
 longitude: -72.56678
 postcode: "06441"
 city: Higganum
-street: "Saybrook Road"
-housenumber: 207
-phone: "+1-860-345-7847"
+street: Saybrook Road
+housenumber: "207"
+phone: +1-860-345-7847
 opening_hours: ""
-website: "https://rugcleaningct.com/"
+website: https://rugcleaningct.com/

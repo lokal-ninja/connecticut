@@ -4,8 +4,8 @@ latitude: 41.69792
 longitude: -72.72213
 postcode: "06111"
 city: Newington
-street: "East Cedar Street"
-housenumber: 33
-phone: "+1 860 666 9813"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00; Jul-Sep: Mo off"
-website: "http://romatailoring.com"
+street: East Cedar Street
+housenumber: "33"
+phone: +1 860 666 9813
+opening_hours: 'Mo-Fr 08:00-18:00; Sa 09:00-16:00; Jul-Sep: Mo off'
+website: http://romatailoring.com

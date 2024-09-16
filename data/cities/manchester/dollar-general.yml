@@ -1,11 +1,11 @@
 id: 893558024
-type: way
+type: node
 latitude: 41.77339
 longitude: -72.53417
 postcode: "06040"
 city: Manchester
-street: "Center Street"
-housenumber: 335
-phone: "+1 860 474 3933"
+street: Center Street
+housenumber: "335"
+phone: +1 860 474 3933
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ct/manchester/21192"
+website: https://www.dollargeneral.com/store-directory/ct/manchester/21192

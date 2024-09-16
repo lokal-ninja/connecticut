@@ -1,11 +1,11 @@
 id: 901869024
-type: way
+type: node
 latitude: 41.53503
 longitude: -72.05407
 postcode: "06360"
 city: Norwich
-street: "North Main Street"
-housenumber: 485
-phone: "+1 800 505 9158"
+street: North Main Street
+housenumber: "485"
+phone: +1 800 505 9158
 opening_hours: ""
-website: "http://providencelacquer.net/our-store-locations"
+website: http://providencelacquer.net/our-store-locations

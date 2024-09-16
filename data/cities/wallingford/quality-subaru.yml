@@ -1,11 +1,11 @@
 id: 284902537
-type: way
+type: node
 latitude: 41.47199
 longitude: -72.81602
 postcode: "06492"
 city: Wallingford
-street: "North Colony Road"
-housenumber: 711
-phone: "(888) 253-1424"
+street: North Colony Road
+housenumber: "711"
+phone: (888) 253-1424
 opening_hours: ""
-website: "https://www.qualitysubaru.com/"
+website: https://www.qualitysubaru.com/

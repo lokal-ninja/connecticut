@@ -1,11 +1,11 @@
 id: 792954169
-type: way
+type: node
 latitude: 41.53727
 longitude: -73.2079
 postcode: "06798"
 city: Woodbury
-street: "Hollow Road"
-housenumber: 15
+street: Hollow Road
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "http://www.woodburyfloraldesign.net/"
+website: http://www.woodburyfloraldesign.net/

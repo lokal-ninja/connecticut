@@ -1,11 +1,11 @@
 id: 830601877
-type: way
+type: node
 latitude: 41.7183
 longitude: -72.23537
 postcode: "06226"
 city: Willimantic
-street: "Main Street"
-housenumber: 1510
+street: Main Street
+housenumber: "1510"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 280520492
-type: way
+type: node
 latitude: 41.52797
 longitude: -72.77529
 postcode: "06450"
 city: Meriden
-street: "East Main Street"
-housenumber: 839
+street: East Main Street
+housenumber: "839"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/meriden-ct-pharmacies/839-east-main-street-meriden-ct-06450/storeid=865"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/meriden-ct-pharmacies/839-east-main-street-meriden-ct-06450/storeid=865

@@ -1,11 +1,11 @@
 id: 963813499
-type: way
+type: node
 latitude: 41.63082
 longitude: -72.73737
 postcode: "06037"
 city: Berlin
-street: "Berlin Turnpike"
-housenumber: 717
+street: Berlin Turnpike
+housenumber: "717"
 phone: ""
 opening_hours: ""
 website: ""

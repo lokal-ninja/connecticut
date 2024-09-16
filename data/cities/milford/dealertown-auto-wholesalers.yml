@@ -1,11 +1,11 @@
 id: 209615018
-type: way
+type: node
 latitude: 41.23017
 longitude: -73.06391
 postcode: "06460"
 city: Milford
-street: "Meadow Street"
-housenumber: 59
-phone: "+1 203 301 4600"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-16:00; Su 11:00-15:00"
-website: "https://www.dealertownct.com/"
+street: Meadow Street
+housenumber: "59"
+phone: +1 203 301 4600
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-16:00; Su 11:00-15:00
+website: https://www.dealertownct.com/

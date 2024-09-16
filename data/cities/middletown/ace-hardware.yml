@@ -2,10 +2,10 @@ id: 5196592229
 type: node
 latitude: 41.5428
 longitude: -72.65117
-postcode: "06457-4215"
+postcode: 06457-4215
 city: Middletown
-street: "South Main Street"
-housenumber: 480
-phone: "+1 860-347-6588"
-opening_hours: "Mo-Fr 08:00-07:00, Sa 08:00-06:00, Su 08:00-05:00"
+street: South Main Street
+housenumber: "480"
+phone: +1 860-347-6588
+opening_hours: Mo-Fr 08:00-07:00, Sa 08:00-06:00, Su 08:00-05:00
 website: ""

@@ -1,11 +1,11 @@
 id: 862398823
-type: way
+type: node
 latitude: 41.15714
 longitude: -73.21915
 postcode: "06605"
 city: Bridgeport
-street: "Ferris Street"
-housenumber: 85
-phone: "+1 203-576-9168"
+street: Ferris Street
+housenumber: "85"
+phone: +1 203-576-9168
 opening_hours: ""
-website: "https://www.bloodroot.com"
+website: https://www.bloodroot.com

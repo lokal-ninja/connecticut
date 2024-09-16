@@ -1,11 +1,11 @@
 id: 915301570
-type: way
+type: node
 latitude: 41.77791
 longitude: -72.68653
 postcode: "06112"
 city: Hartford
-street: "Albany Avenue"
-housenumber: 581
-phone: "+1 860 247 9192"
+street: Albany Avenue
+housenumber: "581"
+phone: +1 860 247 9192
 opening_hours: ""
-website: "https://www.facebook.com/QP-Cleaners-100200361396667"
+website: https://www.facebook.com/QP-Cleaners-100200361396667

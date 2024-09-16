@@ -1,11 +1,11 @@
 id: 245732945
-type: way
+type: node
 latitude: 41.66955
 longitude: -72.86217
 postcode: "06062"
 city: Plainville
-street: "East Street"
-housenumber: 73
-phone: "+860 747 8758"
+street: East Street
+housenumber: "73"
+phone: +860 747 8758
 opening_hours: ""
-website: "https://www.gnazzos.com/"
+website: https://www.gnazzos.com/

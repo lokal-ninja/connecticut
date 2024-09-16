@@ -1,11 +1,11 @@
 id: 207518428
-type: way
+type: node
 latitude: 41.19558
 longitude: -73.19384
 postcode: "06606"
 city: Bridgeport
-street: "North Avenue"
-housenumber: 547
+street: North Avenue
+housenumber: "547"
 phone: ""
 opening_hours: ""
 website: ""

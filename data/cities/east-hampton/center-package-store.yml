@@ -1,11 +1,11 @@
 id: 659874609
-type: way
+type: node
 latitude: 41.57473
 longitude: -72.5018
 postcode: "06424"
 city: East Hampton
-street: "Main Street"
-housenumber: 93
+street: Main Street
+housenumber: "93"
 phone: ""
-opening_hours: "09:00-20:00"
+opening_hours: 09:00-20:00
 website: ""

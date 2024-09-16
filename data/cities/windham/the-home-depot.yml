@@ -1,11 +1,11 @@
 id: 205152771
-type: way
+type: node
 latitude: 41.7416
 longitude: -72.17305
 postcode: "06256"
 city: Windham
-street: "Boston Post Road"
-housenumber: 418
-phone: "+1 860-465-5631"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Windham/CT/North-Windham/06256/6230"
+street: Boston Post Road
+housenumber: "418"
+phone: +1 860-465-5631
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Windham/CT/North-Windham/06256/6230

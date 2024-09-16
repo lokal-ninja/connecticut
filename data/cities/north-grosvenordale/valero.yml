@@ -1,11 +1,11 @@
 id: 887407229
-type: way
+type: node
 latitude: 41.95862
 longitude: -71.88495
 postcode: "06255"
 city: North Grosvenordale
-street: "Riverside Drive"
-housenumber: 440
+street: Riverside Drive
+housenumber: "440"
 phone: ""
 opening_hours: ""
 website: ""

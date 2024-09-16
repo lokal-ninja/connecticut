@@ -1,11 +1,11 @@
 id: 1016062544
-type: way
+type: node
 latitude: 41.5666
 longitude: -72.12853
 postcode: "06254"
 city: Franklin
-street: "Route 32"
-housenumber: 15
+street: Route 32
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

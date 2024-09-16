@@ -1,11 +1,11 @@
 id: 1038958880
-type: way
+type: node
 latitude: 41.83782
 longitude: -72.34611
 postcode: "06084"
 city: Tolland
-street: "Goose Lane"
-housenumber: 343
+street: Goose Lane
+housenumber: "343"
 phone: ""
-opening_hours: "Th-Fr 10:00-18:00; Sa-Su 09:00-18:00"
-website: "https://www.littleriveratlemeks.net/"
+opening_hours: Th-Fr 10:00-18:00; Sa-Su 09:00-18:00
+website: https://www.littleriveratlemeks.net/

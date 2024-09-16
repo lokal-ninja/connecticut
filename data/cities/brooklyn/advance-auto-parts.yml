@@ -1,11 +1,11 @@
 id: 889095698
-type: way
+type: node
 latitude: 41.79699
 longitude: -71.91026
 postcode: "06234"
 city: Brooklyn
-street: "Providence Road"
-housenumber: 465
-phone: "+1 860 774 0436"
+street: Providence Road
+housenumber: "465"
+phone: +1 860 774 0436
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ct/brooklyn/465-providence-road"
+website: https://stores.advanceautoparts.com/ct/brooklyn/465-providence-road

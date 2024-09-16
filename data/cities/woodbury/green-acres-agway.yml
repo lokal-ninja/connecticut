@@ -1,11 +1,11 @@
 id: 555718574
-type: way
+type: node
 latitude: 41.53284
 longitude: -73.20649
 postcode: "06798"
 city: Woodbury
-street: "Main Street South"
-housenumber: 524
+street: Main Street South
+housenumber: "524"
 phone: ""
 opening_hours: ""
-website: "http://www.greenacresbiz.com/"
+website: http://www.greenacresbiz.com/

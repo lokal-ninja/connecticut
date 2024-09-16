@@ -1,11 +1,11 @@
 id: 947138943
-type: way
+type: node
 latitude: 41.70448
 longitude: -72.59285
 postcode: "06033"
 city: Glastonbury
-street: "New London Turnpike"
-housenumber: 816
-phone: "+1-860-633-0261"
+street: New London Turnpike
+housenumber: "816"
+phone: +1-860-633-0261
 opening_hours: ""
-website: "https://www.langanvw.com/"
+website: https://www.langanvw.com/

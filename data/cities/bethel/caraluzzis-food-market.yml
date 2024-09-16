@@ -1,11 +1,11 @@
 id: 377642045
-type: way
+type: node
 latitude: 41.37075
 longitude: -73.4098
 postcode: "06801"
 city: Bethel
-street: "Greenwood Avenue"
-housenumber: 98
+street: Greenwood Avenue
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

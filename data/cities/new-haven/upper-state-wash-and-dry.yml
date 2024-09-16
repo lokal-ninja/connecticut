@@ -4,8 +4,8 @@ latitude: 41.31514
 longitude: -72.91076
 postcode: "06511"
 city: New Haven
-street: "State Street"
-housenumber: 942
-phone: "+1 203 390 5629"
-opening_hours: "Su,Mo,We,Th 08:00-21:00; Tu 09:00-21:00; Sa 08:00-22:00"
+street: State Street
+housenumber: "942"
+phone: +1 203 390 5629
+opening_hours: Su,Mo,We,Th 08:00-21:00; Tu 09:00-21:00; Sa 08:00-22:00
 website: ""

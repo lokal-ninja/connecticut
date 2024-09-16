@@ -4,8 +4,8 @@ latitude: 41.18901
 longitude: -73.19542
 postcode: "06604"
 city: Bridgeport
-street: "Main Street"
-housenumber: 1869
+street: Main Street
+housenumber: "1869"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-15:00; Su off"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-15:00; Su off
 website: ""

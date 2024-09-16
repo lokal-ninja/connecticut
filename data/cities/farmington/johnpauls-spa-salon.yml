@@ -4,8 +4,8 @@ latitude: 41.70667
 longitude: -72.87372
 postcode: "06032"
 city: Farmington
-street: "Spring Ln"
-housenumber: 2
-phone: "+1 860-269-6221"
+street: Spring Ln
+housenumber: "2"
+phone: +1 860-269-6221
 opening_hours: ""
-website: "http://johnpaulsspasalon.com"
+website: http://johnpaulsspasalon.com

@@ -1,11 +1,11 @@
 id: 131511805
-type: way
+type: node
 latitude: 41.16389
 longitude: -73.21733
 postcode: "06606"
 city: Bridgeport
-street: "Fairfield Avenue"
-housenumber: 2145
+street: Fairfield Avenue
+housenumber: "2145"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 31028236
-type: way
+type: node
 latitude: 41.82299
 longitude: -73.06839
 postcode: "06057"
 city: New Hartford
-street: "Litchfield Turnpike"
-housenumber: 1580
-phone: "+1 860-496-8620"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/new-hartford/ct/new-hartford/06057/6218"
+street: Litchfield Turnpike
+housenumber: "1580"
+phone: +1 860-496-8620
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/new-hartford/ct/new-hartford/06057/6218

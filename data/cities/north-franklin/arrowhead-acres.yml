@@ -1,11 +1,11 @@
 id: 960089029
-type: way
+type: node
 latitude: 41.63537
 longitude: -72.16564
 postcode: "06254"
 city: North Franklin
-street: "Pond Road"
-housenumber: 519
+street: Pond Road
+housenumber: "519"
 phone: ""
 opening_hours: ""
 website: ""

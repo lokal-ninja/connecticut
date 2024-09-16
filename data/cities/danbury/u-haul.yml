@@ -1,11 +1,11 @@
 id: 167281473
-type: way
+type: node
 latitude: 41.39061
 longitude: -73.45833
 postcode: "06810"
 city: Danbury
-street: "Division Street"
-housenumber: 75
+street: Division Street
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

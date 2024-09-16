@@ -4,8 +4,8 @@ latitude: 41.98816
 longitude: -72.58222
 postcode: "06082"
 city: Enfield
-street: "Hazard Avenue"
-housenumber: 14
+street: Hazard Avenue
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ct/enfield/14-hazard-ave-suite-23"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://stores.staples.com/ct/enfield/14-hazard-ave-suite-23

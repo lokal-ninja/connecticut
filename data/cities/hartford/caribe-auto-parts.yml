@@ -1,11 +1,11 @@
 id: 884199700
-type: way
+type: node
 latitude: 41.75772
 longitude: -72.68756
 postcode: "06106"
 city: Hartford
-street: "Lawrence Street"
-housenumber: 54
-phone: "+1 860 560 0784"
+street: Lawrence Street
+housenumber: "54"
+phone: +1 860 560 0784
 opening_hours: ""
 website: ""

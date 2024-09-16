@@ -1,11 +1,11 @@
 id: 951325541
-type: way
+type: node
 latitude: 41.67268
 longitude: -72.95527
 postcode: "06010"
 city: Bristol
-street: "Park Street"
-housenumber: 148
+street: Park Street
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1289233574
-type: way
+type: node
 latitude: 41.85259
 longitude: -72.81262
 postcode: "06070"
 city: Simsbury
-street: "Hopmeadow Street"
-housenumber: 404
+street: Hopmeadow Street
+housenumber: "404"
 phone: ""
 opening_hours: ""
 website: ""

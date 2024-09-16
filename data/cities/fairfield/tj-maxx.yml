@@ -1,11 +1,11 @@
 id: 54667467
-type: way
+type: node
 latitude: 41.17815
 longitude: -73.23953
 postcode: "06825"
 city: Fairfield
-street: "Tunxis Hill Cut Off"
-housenumber: 425
-phone: "+1 203 3343341"
-opening_hours: "Mo-Sa 9:30-21:30; Su 11:00-20:00"
-website: "http://www.tjmaxx.com/"
+street: Tunxis Hill Cut Off
+housenumber: "425"
+phone: +1 203 3343341
+opening_hours: Mo-Sa 9:30-21:30; Su 11:00-20:00
+website: http://www.tjmaxx.com/

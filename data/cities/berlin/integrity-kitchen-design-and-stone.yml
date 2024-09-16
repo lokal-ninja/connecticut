@@ -1,11 +1,11 @@
 id: 547156688
-type: way
+type: node
 latitude: 41.62911
 longitude: -72.75868
 postcode: "06037"
 city: Berlin
-street: "Washington Avenue"
-housenumber: 17
+street: Washington Avenue
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

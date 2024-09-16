@@ -1,11 +1,11 @@
 id: 958245432
-type: way
+type: node
 latitude: 41.66538
 longitude: -72.60381
 postcode: "06073"
 city: Glastonbury
-street: "Water Street"
-housenumber: 1
-phone: "+1 860 633 2763"
+street: Water Street
+housenumber: "1"
+phone: +1 860 633 2763
 opening_hours: ""
 website: ""

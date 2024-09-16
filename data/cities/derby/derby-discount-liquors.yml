@@ -1,11 +1,11 @@
 id: 892500942
-type: way
+type: node
 latitude: 41.33021
 longitude: -73.10776
 postcode: "06418"
 city: Derby
-street: "Roosevelt Drive"
-housenumber: 441
+street: Roosevelt Drive
+housenumber: "441"
 phone: ""
 opening_hours: ""
 website: ""

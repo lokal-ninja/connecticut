@@ -1,11 +1,11 @@
 id: 960140215
-type: way
+type: node
 latitude: 41.72465
 longitude: -72.61466
 postcode: "06033"
 city: Glastonbury
-street: "Main Street"
-housenumber: 2958
-phone: "+1 860 657 2730"
+street: Main Street
+housenumber: "2958"
+phone: +1 860 657 2730
 opening_hours: ""
-website: "https://store.vioc.com/ct/glastonbury/oil-change-ae1415.html"
+website: https://store.vioc.com/ct/glastonbury/oil-change-ae1415.html

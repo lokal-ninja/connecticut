@@ -1,11 +1,11 @@
 id: 630310791
-type: way
+type: node
 latitude: 41.60487
 longitude: -72.71253
 postcode: "06416"
 city: Cromwell
-street: "Berlin Road"
-housenumber: 161
-phone: "+1 860-635-0458"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2299/cromwell-ct/whats-new"
+street: Berlin Road
+housenumber: "161"
+phone: +1 860-635-0458
+opening_hours: 24/7
+website: https://www.walmart.com/store/2299/cromwell-ct/whats-new

@@ -1,11 +1,11 @@
 id: 767985913
-type: way
+type: node
 latitude: 41.35401
 longitude: -72.21099
 postcode: "06357"
 city: Niantic
-street: "Flanders Road"
-housenumber: 218
+street: Flanders Road
+housenumber: "218"
 phone: ""
 opening_hours: ""
-website: "https://www.monacofordofniantic.net"
+website: https://www.monacofordofniantic.net

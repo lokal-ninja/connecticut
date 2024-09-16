@@ -1,11 +1,11 @@
 id: 945254411
-type: way
+type: node
 latitude: 41.48533
 longitude: -72.09949
 postcode: "06382"
 city: Montville
-street: "Norwich-New London Turnpike"
-housenumber: 2227
-phone: "+1 860 848 0004"
+street: Norwich-New London Turnpike
+housenumber: "2227"
+phone: +1 860 848 0004
 opening_hours: ""
-website: "https://shantok-store-llc.edan.io/"
+website: https://shantok-store-llc.edan.io/

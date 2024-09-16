@@ -1,11 +1,11 @@
 id: 945256565
-type: way
+type: node
 latitude: 41.48229
 longitude: -72.0998
 postcode: "06382"
 city: Montville
-street: "Norwich-New London Turnpike"
-housenumber: 2090
-phone: "+1 860 367 0500"
+street: Norwich-New London Turnpike
+housenumber: "2090"
+phone: +1 860 367 0500
 opening_hours: ""
-website: "https://www.thamesrivermotorcars.com"
+website: https://www.thamesrivermotorcars.com

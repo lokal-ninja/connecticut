@@ -1,11 +1,11 @@
 id: 1232260903
-type: way
+type: node
 latitude: 41.55533
 longitude: -73.09175
 postcode: "06762"
 city: Middlebury
-street: "Straits Turnpike"
-housenumber: 1680
+street: Straits Turnpike
+housenumber: "1680"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 830601873
-type: way
+type: node
 latitude: 41.71766
 longitude: -72.23632
 postcode: "06226"
 city: Willimantic
-street: "Capitol Drive"
-housenumber: 107
+street: Capitol Drive
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

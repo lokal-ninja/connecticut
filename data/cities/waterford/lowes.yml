@@ -1,11 +1,11 @@
 id: 368238470
-type: way
+type: node
 latitude: 41.37007
 longitude: -72.15961
 postcode: "06385"
 city: Waterford
-street: "Waterford Parkway North"
-housenumber: 167
-phone: "+1 860-701-2000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=2263"
+street: Waterford Parkway North
+housenumber: "167"
+phone: +1 860-701-2000
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=2263

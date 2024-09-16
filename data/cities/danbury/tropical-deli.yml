@@ -1,11 +1,11 @@
 id: 167025633
-type: way
+type: node
 latitude: 41.38891
 longitude: -73.47055
 postcode: "06810"
 city: Danbury
-street: "Lake Avenue"
-housenumber: 79
+street: Lake Avenue
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

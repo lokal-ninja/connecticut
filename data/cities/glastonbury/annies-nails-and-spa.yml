@@ -1,11 +1,11 @@
 id: 958247417
-type: way
+type: node
 latitude: 41.66609
 longitude: -72.60334
 postcode: "06073"
 city: Glastonbury
-street: "Main Street"
-housenumber: 879
-phone: "+1 860 633 6378"
+street: Main Street
+housenumber: "879"
+phone: +1 860 633 6378
 opening_hours: ""
 website: ""

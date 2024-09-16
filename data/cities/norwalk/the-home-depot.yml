@@ -1,11 +1,11 @@
 id: 397817264
-type: way
+type: node
 latitude: 41.09785
 longitude: -73.44737
 postcode: "06854"
 city: Norwalk
-street: "Connecticut Avenue"
-housenumber: 600
-phone: "+1 203-854-9111"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Norwalk/CT/Norwalk/06854/6204"
+street: Connecticut Avenue
+housenumber: "600"
+phone: +1 203-854-9111
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Norwalk/CT/Norwalk/06854/6204

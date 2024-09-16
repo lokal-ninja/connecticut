@@ -1,11 +1,11 @@
 id: 951735636
-type: way
+type: node
 latitude: 41.72173
 longitude: -72.61532
 postcode: "06033"
 city: Glastonbury
-street: "Main Street"
-housenumber: 2875
-phone: "+1 860 633 2931"
+street: Main Street
+housenumber: "2875"
+phone: +1 860 633 2931
 opening_hours: ""
-website: "https://www.cumberlandfarms.com/stores/ct/glastonbury-4741"
+website: https://www.cumberlandfarms.com/stores/ct/glastonbury-4741

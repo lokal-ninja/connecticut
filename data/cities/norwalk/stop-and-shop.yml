@@ -1,11 +1,11 @@
 id: 42712983
-type: way
+type: node
 latitude: 41.10011
 longitude: -73.4392
 postcode: "06854"
 city: Norwalk
-street: "Connecticut Avenue"
-housenumber: 385
+street: Connecticut Avenue
+housenumber: "385"
 phone: ""
 opening_hours: ""
 website: ""

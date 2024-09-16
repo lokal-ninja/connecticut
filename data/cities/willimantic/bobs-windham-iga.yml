@@ -1,11 +1,11 @@
 id: 884282801
-type: way
+type: node
 latitude: 41.70458
 longitude: -72.19342
 postcode: "06226"
 city: Willimantic
-street: "Windham Road"
-housenumber: 422
-phone: "+1 860-423-3056"
+street: Windham Road
+housenumber: "422"
+phone: +1 860-423-3056
 opening_hours: ""
-website: "https://www.windhamiga.com"
+website: https://www.windhamiga.com

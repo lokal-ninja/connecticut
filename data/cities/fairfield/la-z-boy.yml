@@ -1,11 +1,11 @@
 id: 208082772
-type: way
+type: node
 latitude: 41.24987
 longitude: -73.02307
 postcode: "06460"
 city: Fairfield
-street: "Boston Post Road"
-housenumber: 1750
+street: Boston Post Road
+housenumber: "1750"
 phone: ""
 opening_hours: ""
 website: ""

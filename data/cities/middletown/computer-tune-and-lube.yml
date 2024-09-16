@@ -1,11 +1,11 @@
 id: 280540433
-type: way
+type: node
 latitude: 41.55412
 longitude: -72.68511
 postcode: "06457"
 city: Middletown
-street: "Washington Street"
-housenumber: 966
-phone: "860-346-1999"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-16:00"
-website: "https://www.computertuneandlube.com/Middletown-auto-repair-shop-location.html"
+street: Washington Street
+housenumber: "966"
+phone: 860-346-1999
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-16:00
+website: https://www.computertuneandlube.com/Middletown-auto-repair-shop-location.html

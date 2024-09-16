@@ -1,11 +1,11 @@
 id: 849284560
-type: way
+type: node
 latitude: 41.69199
 longitude: -72.76066
 postcode: "06051"
 city: New Britain
-street: "East Street"
-housenumber: 1450
+street: East Street
+housenumber: "1450"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ct/new-britain/15241"
+website: https://www.dollargeneral.com/store-directory/ct/new-britain/15241

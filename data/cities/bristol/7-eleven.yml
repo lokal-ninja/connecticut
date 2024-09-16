@@ -1,11 +1,11 @@
 id: 625492085
-type: way
+type: node
 latitude: 41.67
 longitude: -72.93589
 postcode: "06010"
 city: Bristol
-street: "Riverside Avenue"
-housenumber: 200
+street: Riverside Avenue
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

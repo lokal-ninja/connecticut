@@ -1,11 +1,11 @@
 id: 727076911
-type: way
+type: node
 latitude: 41.26599
 longitude: -72.87414
 postcode: "06512"
 city: East Haven
-street: "Coe Avenue"
-housenumber: 650
+street: Coe Avenue
+housenumber: "650"
 phone: ""
 opening_hours: ""
 website: ""

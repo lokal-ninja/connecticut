@@ -1,11 +1,11 @@
 id: 208809901
-type: way
+type: node
 latitude: 41.1938
 longitude: -73.16073
 postcode: "06610"
 city: Bridgeport
-street: "Boston Avenue"
-housenumber: 1805
+street: Boston Avenue
+housenumber: "1805"
 phone: ""
 opening_hours: ""
 website: ""

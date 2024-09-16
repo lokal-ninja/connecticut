@@ -1,11 +1,11 @@
 id: 74712426
-type: way
+type: node
 latitude: 41.41743
 longitude: -73.41754
 postcode: "06810"
 city: Danbury
-street: "International Drive"
-housenumber: 2
-phone: "+1 203-798-9699"
+street: International Drive
+housenumber: "2"
+phone: +1 203-798-9699
 opening_hours: ""
-website: "http://stores.bestbuy.com/331/"
+website: http://stores.bestbuy.com/331/

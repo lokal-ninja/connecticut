@@ -1,11 +1,11 @@
 id: 649249682
-type: way
+type: node
 latitude: 41.487
 longitude: -72.90559
 postcode: "06410"
 city: Cheshire
-street: "South Main Street"
-housenumber: 615
+street: South Main Street
+housenumber: "615"
 phone: ""
 opening_hours: ""
 website: ""

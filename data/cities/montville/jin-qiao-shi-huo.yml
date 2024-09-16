@@ -1,11 +1,11 @@
 id: 945257678
-type: way
+type: node
 latitude: 41.48751
 longitude: -72.10036
 postcode: "06382"
 city: Montville
-street: "Norwich-New London Turnpike"
-housenumber: 2310
-phone: "+1 860 848 6690"
+street: Norwich-New London Turnpike
+housenumber: "2310"
+phone: +1 860 848 6690
 opening_hours: ""
 website: ""

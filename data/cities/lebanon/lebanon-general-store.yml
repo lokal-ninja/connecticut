@@ -1,11 +1,11 @@
 id: 707961839
-type: way
+type: node
 latitude: 41.63473
 longitude: -72.21284
 postcode: "06249"
 city: Lebanon
-street: "West Town Street"
-housenumber: 199
+street: West Town Street
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

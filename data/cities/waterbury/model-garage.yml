@@ -1,11 +1,11 @@
 id: 287651738
-type: way
+type: node
 latitude: 41.56064
 longitude: -73.05246
 postcode: "06702"
 city: Waterbury
-street: "Thomaston Avenue"
-housenumber: 110
+street: Thomaston Avenue
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

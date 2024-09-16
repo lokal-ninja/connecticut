@@ -1,11 +1,11 @@
 id: 838641159
-type: way
+type: node
 latitude: 41.73721
 longitude: -72.18081
 postcode: "06256"
 city: North Windham
-street: "Boston Post Road"
-housenumber: 292
+street: Boston Post Road
+housenumber: "292"
 phone: ""
 opening_hours: ""
 website: ""

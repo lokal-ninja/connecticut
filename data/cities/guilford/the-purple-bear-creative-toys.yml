@@ -1,11 +1,11 @@
 id: 724196196
-type: way
+type: node
 latitude: 41.28206
 longitude: -72.68238
 postcode: "06437"
 city: Guilford
-street: "Whitfield Street"
-housenumber: 63
+street: Whitfield Street
+housenumber: "63"
 phone: ""
 opening_hours: ""
-website: "https://www.thepurplebeartoys.com/"
+website: https://www.thepurplebeartoys.com/

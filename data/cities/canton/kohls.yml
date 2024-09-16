@@ -1,11 +1,11 @@
 id: 30952097
-type: way
+type: node
 latitude: 41.82366
 longitude: -72.88618
 postcode: "06019"
 city: Canton
-street: "Albany Turnpike"
-housenumber: 104
-phone: "+1 860-693-2549"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ct/canton-661.shtml"
+street: Albany Turnpike
+housenumber: "104"
+phone: +1 860-693-2549
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ct/canton-661.shtml

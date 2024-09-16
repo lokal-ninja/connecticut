@@ -1,11 +1,11 @@
 id: 208094779
-type: way
+type: node
 latitude: 41.24337
 longitude: -73.02973
 postcode: "06460"
 city: Milford
-street: "Boston Post Road"
-housenumber: 1503
+street: Boston Post Road
+housenumber: "1503"
 phone: ""
 opening_hours: ""
 website: ""

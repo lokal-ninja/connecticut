@@ -4,8 +4,8 @@ latitude: 41.31185
 longitude: -72.93101
 postcode: "06511"
 city: New Haven
-street: "Broadway"
-housenumber: 65
+street: Broadway
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.apple.com/retail/newhaven/"
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.apple.com/retail/newhaven/

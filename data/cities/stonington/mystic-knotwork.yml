@@ -1,11 +1,11 @@
 id: 947551647
-type: way
+type: node
 latitude: 41.35364
 longitude: -71.96807
 postcode: "06378"
 city: Stonington
-street: "Cottrell Street"
-housenumber: 25
+street: Cottrell Street
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 13:00-17:00"
-website: "https://mysticknotwork.com/"
+opening_hours: Mo-Sa 10:00-18:00; Su 13:00-17:00
+website: https://mysticknotwork.com/

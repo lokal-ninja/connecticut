@@ -1,11 +1,11 @@
 id: 1311188955
-type: way
+type: node
 latitude: 41.53389
 longitude: -72.65634
 postcode: "06457"
 city: Middletown
-street: "Highland Avenue"
-housenumber: 550
+street: Highland Avenue
+housenumber: "550"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 959645218
-type: way
+type: node
 latitude: 41.72715
 longitude: -72.61686
 postcode: "06033"
 city: Glastonbury
-street: "Main Street"
-housenumber: 3041
-phone: "+1 860 336 7464"
+street: Main Street
+housenumber: "3041"
+phone: +1 860 336 7464
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ct/glastonbury/3041-main-st-32960"
+website: https://www.7-eleven.com/locations/ct/glastonbury/3041-main-st-32960

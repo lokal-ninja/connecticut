@@ -1,11 +1,11 @@
 id: 951735682
-type: way
+type: node
 latitude: 41.72125
 longitude: -72.62394
 postcode: "06033"
 city: Glastonbury
-street: "Glastonbury Boulevard"
-housenumber: 205
-phone: "+1 845 651 3811"
+street: Glastonbury Boulevard
+housenumber: "205"
+phone: +1 845 651 3811
 opening_hours: ""
-website: "https://phenixsalonsuites.com/locations-detail/?id=297"
+website: https://phenixsalonsuites.com/locations-detail/?id=297

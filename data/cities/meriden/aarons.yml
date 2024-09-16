@@ -1,11 +1,11 @@
 id: 955590339
-type: way
+type: node
 latitude: 41.53973
 longitude: -72.82103
 postcode: "06451"
 city: Meriden
-street: "West Main Street"
-housenumber: 500
+street: West Main Street
+housenumber: "500"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-17:00; Su closed"
-website: "https://locations.aarons.com/us/ct/meriden/508-w-main-st"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-17:00; Su closed
+website: https://locations.aarons.com/us/ct/meriden/508-w-main-st

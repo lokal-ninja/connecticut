@@ -1,11 +1,11 @@
 id: 246316401
-type: way
+type: node
 latitude: 41.29056
 longitude: -72.44234
 postcode: "06498"
 city: Westbrook
-street: "Flat Rock Place"
-housenumber: 80
-phone: "+1-860-388-6991"
+street: Flat Rock Place
+housenumber: "80"
+phone: +1-860-388-6991
 opening_hours: ""
-website: "https://www.westbrooktoyota.com/"
+website: https://www.westbrooktoyota.com/

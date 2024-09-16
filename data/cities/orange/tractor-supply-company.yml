@@ -1,11 +1,11 @@
 id: 411854793
-type: way
+type: node
 latitude: 41.26535
 longitude: -72.99841
 postcode: "06477"
 city: Orange
-street: "Indian River Road"
-housenumber: 253
-phone: "+1 203-795-0663"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Indian River Road
+housenumber: "253"
+phone: +1 203-795-0663
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 387041394
-type: way
+type: node
 latitude: 41.27866
 longitude: -72.86889
 postcode: "06512"
 city: East Haven
-street: "Hemingway AvenueTrolley Square"
-housenumber: 370
+street: Hemingway AvenueTrolley Square
+housenumber: "370"
 phone: ""
 opening_hours: ""
 website: ""

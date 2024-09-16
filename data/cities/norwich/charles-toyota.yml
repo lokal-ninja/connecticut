@@ -1,11 +1,11 @@
 id: 699141473
-type: way
+type: node
 latitude: 41.50364
 longitude: -72.09149
 postcode: "06360"
 city: Norwich
-street: "West Thames Street"
-housenumber: 500
-phone: "+1-860-889-8375"
+street: West Thames Street
+housenumber: "500"
+phone: +1-860-889-8375
 opening_hours: ""
-website: "https://www.charlestoyota.com/"
+website: https://www.charlestoyota.com/

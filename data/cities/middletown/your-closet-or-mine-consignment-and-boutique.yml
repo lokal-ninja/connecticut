@@ -1,11 +1,11 @@
 id: 300589932
-type: way
+type: node
 latitude: 41.55539
 longitude: -72.66988
 postcode: "06457"
 city: Middletown
-street: "Washington Street"
-housenumber: 541
+street: Washington Street
+housenumber: "541"
 phone: ""
 opening_hours: ""
 website: ""

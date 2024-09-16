@@ -1,11 +1,11 @@
 id: 889077094
-type: way
+type: node
 latitude: 41.79703
 longitude: -71.9178
 postcode: "06234"
 city: Brooklyn
-street: "Providence Road"
-housenumber: 392
-phone: "+1 860 774 5472"
+street: Providence Road
+housenumber: "392"
+phone: +1 860 774 5472
 opening_hours: ""
-website: "https://www.napaonline.com/en/ct/brooklyn/store/24168"
+website: https://www.napaonline.com/en/ct/brooklyn/store/24168

@@ -1,11 +1,11 @@
 id: 1017906214
-type: way
+type: node
 latitude: 41.70265
 longitude: -72.70264
 postcode: "06109"
 city: Wethersfield
-street: "Berlin Turnpike"
-housenumber: 1884
+street: Berlin Turnpike
+housenumber: "1884"
 phone: ""
 opening_hours: ""
 website: ""

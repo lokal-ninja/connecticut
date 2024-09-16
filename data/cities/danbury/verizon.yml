@@ -1,11 +1,11 @@
 id: 551499515
-type: way
+type: node
 latitude: 41.40628
 longitude: -73.41864
 postcode: "06810"
 city: Danbury
-street: "Newtown Road"
-housenumber: 68
+street: Newtown Road
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

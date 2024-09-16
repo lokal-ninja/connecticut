@@ -1,11 +1,11 @@
 id: 630282072
-type: way
+type: node
 latitude: 41.37401
 longitude: -72.9183
 postcode: "06514"
 city: Hamden
-street: "Dixwell Avenue"
-housenumber: 2300
-phone: "+1 203-230-0285"
-opening_hours: "Mo-Su 07:00-24:00"
-website: "https://www.walmart.com/store/3545/hamden-ct/whats-new"
+street: Dixwell Avenue
+housenumber: "2300"
+phone: +1 203-230-0285
+opening_hours: Mo-Su 07:00-24:00
+website: https://www.walmart.com/store/3545/hamden-ct/whats-new

@@ -1,11 +1,11 @@
 id: 938617246
-type: way
+type: node
 latitude: 41.67954
 longitude: -71.9179
 postcode: "06374"
 city: Plainfield
-street: "Babcock Avenue"
-housenumber: 10
-phone: "+1 860 564 0330"
+street: Babcock Avenue
+housenumber: "10"
+phone: +1 860 564 0330
 opening_hours: ""
-website: "https://www.sistersllc.org"
+website: https://www.sistersllc.org

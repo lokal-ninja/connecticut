@@ -1,11 +1,11 @@
 id: 601126596
-type: way
+type: node
 latitude: 41.34788
 longitude: -72.05378
 postcode: "06340"
 city: Groton
-street: "Long Hill Road"
-housenumber: 757
-phone: "+1 860-449-1108"
+street: Long Hill Road
+housenumber: "757"
+phone: +1 860-449-1108
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/ct/groton/160005/"
+website: https://www.mattressfirm.com/en-us/stores/ct/groton/160005/

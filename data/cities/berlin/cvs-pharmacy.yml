@@ -1,11 +1,11 @@
 id: 545372851
-type: way
+type: node
 latitude: 41.63129
 longitude: -72.75948
 postcode: "06037"
 city: Berlin
-street: "Farmington Avenue"
-housenumber: 1055
+street: Farmington Avenue
+housenumber: "1055"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/kensington-ct-pharmacies/1055-farmington-avenue-kensington-ct-06037/storeid=2119"
+website: https://www.cvs.com/store-locator/kensington-ct-pharmacies/1055-farmington-avenue-kensington-ct-06037/storeid=2119

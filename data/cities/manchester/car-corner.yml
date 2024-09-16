@@ -1,11 +1,11 @@
 id: 893576958
-type: way
+type: node
 latitude: 41.77291
 longitude: -72.53355
 postcode: "06040"
 city: Manchester
-street: "Center Street"
-housenumber: 323
-phone: "+1 860 647 7972"
+street: Center Street
+housenumber: "323"
+phone: +1 860 647 7972
 opening_hours: ""
-website: "https://www.carcornerretailsales.com"
+website: https://www.carcornerretailsales.com

@@ -1,11 +1,11 @@
 id: 857932476
-type: way
+type: node
 latitude: 41.55705
 longitude: -73.41633
-postcode: "06776-3413"
+postcode: 06776-3413
 city: New Milford
-street: "Danbury Road"
-housenumber: 125
-phone: "+1 833-473-7058"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ct/new-milford/125-danbury-road"
+street: Danbury Road
+housenumber: "125"
+phone: +1 833-473-7058
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ct/new-milford/125-danbury-road

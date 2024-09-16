@@ -1,11 +1,11 @@
 id: 830601852
-type: way
+type: node
 latitude: 41.71676
 longitude: -72.23445
 postcode: "06226"
 city: Willimantic
-street: "Columbia Avenue"
-housenumber: 69
-phone: "+1 (860) 450-0451"
+street: Columbia Avenue
+housenumber: "69"
+phone: +1 (860) 450-0451
 opening_hours: ""
 website: ""

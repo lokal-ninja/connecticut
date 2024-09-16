@@ -4,8 +4,8 @@ latitude: 41.66754
 longitude: -72.78026
 postcode: "06051"
 city: New Britain
-street: "Bank Street"
-housenumber: 39
-phone: "+1-860-249-3990"
-opening_hours: "Th 15:00-18:00, Sa 11:00-14:00"
-website: "https://www.bikenb.org/"
+street: Bank Street
+housenumber: "39"
+phone: +1-860-249-3990
+opening_hours: Th 15:00-18:00, Sa 11:00-14:00
+website: https://www.bikenb.org/

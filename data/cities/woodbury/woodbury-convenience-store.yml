@@ -1,11 +1,11 @@
 id: 790876140
-type: way
+type: node
 latitude: 41.54544
 longitude: -73.20823
 postcode: "06798"
 city: Woodbury
-street: "Main Street South"
-housenumber: 167
+street: Main Street South
+housenumber: "167"
 phone: ""
 opening_hours: ""
 website: ""

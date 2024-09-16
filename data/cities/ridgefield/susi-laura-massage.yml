@@ -1,11 +1,11 @@
 id: 164025697
-type: way
+type: node
 latitude: 41.2835
 longitude: -73.4969
 postcode: "06877"
 city: Ridgefield
-street: "Prospect Street"
-housenumber: 20
+street: Prospect Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

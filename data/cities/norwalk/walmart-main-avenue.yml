@@ -1,11 +1,11 @@
 id: 42724904
-type: way
+type: node
 latitude: 41.15859
 longitude: -73.41803
 postcode: "06851"
 city: Norwalk
-street: "Main Avenue"
-housenumber: 650
-phone: "+1 203-846-4514"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/2954-norwalk-ct"
+street: Main Avenue
+housenumber: "650"
+phone: +1 203-846-4514
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/2954-norwalk-ct

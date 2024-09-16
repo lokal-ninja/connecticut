@@ -1,11 +1,11 @@
 id: 831020224
-type: way
+type: node
 latitude: 41.71434
 longitude: -72.20603
 postcode: "06226"
 city: Willimantic
-street: "Jackson Street"
-housenumber: 165
+street: Jackson Street
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

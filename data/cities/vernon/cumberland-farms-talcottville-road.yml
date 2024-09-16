@@ -1,11 +1,11 @@
 id: 950236382
-type: way
+type: node
 latitude: 41.84107
 longitude: -72.49032
 postcode: "06066"
 city: Vernon
-street: "Talcottville Road"
-housenumber: 333
+street: Talcottville Road
+housenumber: "333"
 phone: ""
 opening_hours: ""
 website: ""

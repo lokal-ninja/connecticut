@@ -4,8 +4,9 @@ latitude: 41.81561
 longitude: -71.88256
 postcode: "06239"
 city: Killingly
-street: "North Street"
-housenumber: 141
+street: North Street
+housenumber: "141"
 phone: ""
-opening_hours: "We-Su 10:00-17:00; Apr-May We-Su 10:00-17:30; Nov-Feb We-Su 10:00-16:30; PH off"
-website: "https://www.logees.com/"
+opening_hours: We-Su 10:00-17:00; Apr-May We-Su 10:00-17:30; Nov-Feb We-Su 10:00-16:30;
+    PH off
+website: https://www.logees.com/

@@ -1,11 +1,11 @@
 id: 952495603
-type: way
+type: node
 latitude: 41.72026
 longitude: -72.28407
 postcode: "06237"
 city: Columbia
-street: "Route 6"
-housenumber: 234
+street: Route 6
+housenumber: "234"
 phone: ""
 opening_hours: ""
 website: ""

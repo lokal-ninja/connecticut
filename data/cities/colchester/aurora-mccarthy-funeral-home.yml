@@ -1,11 +1,11 @@
 id: 586140553
-type: way
+type: node
 latitude: 41.57942
 longitude: -72.34445
 postcode: "06415"
 city: Colchester
-street: "Old Hartford Road"
-housenumber: 167
+street: Old Hartford Road
+housenumber: "167"
 phone: ""
 opening_hours: ""
 website: ""

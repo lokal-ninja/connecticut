@@ -1,11 +1,11 @@
 id: 42991340
-type: way
+type: node
 latitude: 41.19966
 longitude: -73.12861
 postcode: "06614"
 city: Stratford
-street: "Barnum Avenue Cutoff"
-housenumber: 800
-phone: "+1 203-377-1166"
-opening_hours: "08:00-23:00"
-website: "https://stores.burlington.com/ct/stratford/22"
+street: Barnum Avenue Cutoff
+housenumber: "800"
+phone: +1 203-377-1166
+opening_hours: 08:00-23:00
+website: https://stores.burlington.com/ct/stratford/22

@@ -1,11 +1,11 @@
 id: 945255402
-type: way
+type: node
 latitude: 41.4848
 longitude: -72.09915
 postcode: "06382"
 city: Montville
-street: "Norwich-New London Turnpike"
-housenumber: 2178
-phone: "+1 860 367 9146"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ct/uncasville/2178-norwich-new-london-32641"
+street: Norwich-New London Turnpike
+housenumber: "2178"
+phone: +1 860 367 9146
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ct/uncasville/2178-norwich-new-london-32641

@@ -1,11 +1,11 @@
 id: 208082783
-type: way
+type: node
 latitude: 41.25465
 longitude: -73.01698
 postcode: "06477"
 city: Orange
-street: "Boston Post Road"
-housenumber: 515
+street: Boston Post Road
+housenumber: "515"
 phone: ""
 opening_hours: ""
 website: ""

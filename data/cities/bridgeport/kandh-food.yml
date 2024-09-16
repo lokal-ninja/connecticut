@@ -1,11 +1,11 @@
 id: 206380425
-type: way
+type: node
 latitude: 41.17338
 longitude: -73.20918
 postcode: "06605"
 city: Bridgeport
-street: "Fairfield Avenue"
-housenumber: 1309
-phone: "+1 203 3861313"
+street: Fairfield Avenue
+housenumber: "1309"
+phone: +1 203 3861313
 opening_hours: ""
 website: ""

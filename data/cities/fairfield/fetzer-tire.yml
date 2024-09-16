@@ -1,11 +1,11 @@
 id: 210004168
-type: way
+type: node
 latitude: 41.13775
 longitude: -73.29613
 postcode: "06890"
 city: Fairfield
-street: "Post Road"
-housenumber: 3651
+street: Post Road
+housenumber: "3651"
 phone: ""
 opening_hours: ""
 website: ""

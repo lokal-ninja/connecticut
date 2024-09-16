@@ -4,8 +4,8 @@ latitude: 41.35457
 longitude: -72.09662
 postcode: "06320"
 city: New London
-street: "State Street"
-housenumber: 190
-phone: "+1 860 444 7777"
+street: State Street
+housenumber: "190"
+phone: +1 860 444 7777
 opening_hours: ""
-website: "https://www.vagaro.com/bravado"
+website: https://www.vagaro.com/bravado

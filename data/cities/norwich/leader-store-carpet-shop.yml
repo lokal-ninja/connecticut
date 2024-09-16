@@ -1,11 +1,11 @@
 id: 899949676
-type: way
+type: node
 latitude: 41.53502
 longitude: -72.05632
 postcode: "06360"
 city: Norwich
-street: "Central Avenue"
-housenumber: 254
-phone: "+1 860 887 1666"
+street: Central Avenue
+housenumber: "254"
+phone: +1 860 887 1666
 opening_hours: ""
-website: "https://www.leaderfurniturestore.com"
+website: https://www.leaderfurniturestore.com

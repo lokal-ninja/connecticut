@@ -1,11 +1,11 @@
 id: 930387126
-type: way
+type: node
 latitude: 41.37474
 longitude: -72.13983
 postcode: "06385"
 city: Waterford
-street: "Dayton Place"
-housenumber: 1
-phone: "+1 860 442 4470"
+street: Dayton Place
+housenumber: "1"
+phone: +1 860 442 4470
 opening_hours: ""
-website: "https://stores.jared.com/ct/waterford/1-dayton-place.html"
+website: https://stores.jared.com/ct/waterford/1-dayton-place.html

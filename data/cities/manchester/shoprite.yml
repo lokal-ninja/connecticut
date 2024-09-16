@@ -1,11 +1,11 @@
 id: 729202521
-type: way
+type: node
 latitude: 41.76566
 longitude: -72.56931
 postcode: "06040"
 city: Manchester
-street: "Spencer Street"
-housenumber: 214
-phone: "+1 860-645-3240"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.shoprite.com/sm/planning/rsid/330"
+street: Spencer Street
+housenumber: "214"
+phone: +1 860-645-3240
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.shoprite.com/sm/planning/rsid/330

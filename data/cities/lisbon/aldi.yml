@@ -1,11 +1,11 @@
 id: 940901540
-type: way
+type: node
 latitude: 41.58567
 longitude: -71.99409
-postcode: "06351-3253"
+postcode: 06351-3253
 city: Lisbon
-street: "River Road"
-housenumber: 175
-phone: "+1 833-473-7045"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ct/lisbon/175-river-road"
+street: River Road
+housenumber: "175"
+phone: +1 833-473-7045
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ct/lisbon/175-river-road

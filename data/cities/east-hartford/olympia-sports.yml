@@ -4,8 +4,8 @@ latitude: 41.7275
 longitude: -72.61977
 postcode: "06118"
 city: East Hartford
-street: "Main Street"
-housenumber: 5
-phone: "+1 860 206 3976"
+street: Main Street
+housenumber: "5"
+phone: +1 860 206 3976
 opening_hours: ""
-website: "https://www.olympiasports.net"
+website: https://www.olympiasports.net

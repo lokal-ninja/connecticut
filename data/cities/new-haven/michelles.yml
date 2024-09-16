@@ -4,8 +4,8 @@ latitude: 41.31559
 longitude: -72.91005
 postcode: "06511"
 city: New Haven
-street: "State Street"
-housenumber: 972
-phone: "(203) 498-8271"
-opening_hours: "We-Sa 08:00-15:00 || Friday evenings by appointment"
-website: "http://michellesnewhaven.com/"
+street: State Street
+housenumber: "972"
+phone: (203) 498-8271
+opening_hours: We-Sa 08:00-15:00 || "Friday evenings by appointment"
+website: http://michellesnewhaven.com/

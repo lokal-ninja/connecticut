@@ -1,11 +1,11 @@
 id: 1040709473
-type: way
+type: node
 latitude: 41.57999
 longitude: -72.32678
 postcode: "06415"
 city: Colchester
-street: "Lebanon Avenue"
-housenumber: 199
+street: Lebanon Avenue
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

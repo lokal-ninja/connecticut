@@ -1,11 +1,11 @@
 id: 885380856
-type: way
+type: node
 latitude: 41.76988
 longitude: -72.69332
 postcode: "06105"
 city: Hartford
-street: "Asylum Avenue"
-housenumber: 855
-phone: "+1 860 702 0000"
+street: Asylum Avenue
+housenumber: "855"
+phone: +1 860 702 0000
 opening_hours: ""
-website: "https://easternusa.salvationarmy.org/southern-new-england/hartford-worship-centers"
+website: https://easternusa.salvationarmy.org/southern-new-england/hartford-worship-centers

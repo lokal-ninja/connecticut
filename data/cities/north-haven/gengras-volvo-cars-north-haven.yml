@@ -1,11 +1,11 @@
 id: 403786052
-type: way
+type: node
 latitude: 41.40933
 longitude: -72.8455
 postcode: "06473"
 city: North Haven
-street: "Washington Avenue"
-housenumber: 375
+street: Washington Avenue
+housenumber: "375"
 phone: ""
 opening_hours: ""
 website: ""

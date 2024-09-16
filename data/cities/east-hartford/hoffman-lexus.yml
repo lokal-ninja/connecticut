@@ -1,11 +1,11 @@
 id: 470727614
-type: way
+type: node
 latitude: 41.77029
 longitude: -72.65959
 postcode: "06108"
 city: East Hartford
-street: "Connecticut Boulevard"
-housenumber: 750
+street: Connecticut Boulevard
+housenumber: "750"
 phone: ""
 opening_hours: ""
 website: ""

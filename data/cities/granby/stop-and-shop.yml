@@ -1,11 +1,11 @@
 id: 144921168
-type: way
+type: node
 latitude: 41.9355
 longitude: -72.78907
 postcode: "06035"
 city: Granby
-street: "Salmon Brook Street"
-housenumber: 120
+street: Salmon Brook Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

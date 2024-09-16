@@ -1,11 +1,11 @@
 id: 700983759
-type: way
+type: node
 latitude: 41.3517
 longitude: -73.08124
 postcode: "06401"
 city: Ansonia
-street: "North Main Street"
-housenumber: 131
-phone: "+1-203-734-1836"
+street: North Main Street
+housenumber: "131"
+phone: +1-203-734-1836
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 253813409
-type: way
+type: node
 latitude: 41.80682
 longitude: -72.55327
-postcode: "06040;06042"
+postcode: 06040;06042
 city: Manchester
-street: "Buckland Hills Drive"
-housenumber: 80
-phone: "+1 860-644-5588"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/manchester-ct/ct/manchester/06042/6207"
+street: Buckland Hills Drive
+housenumber: "80"
+phone: +1 860-644-5588
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/manchester-ct/ct/manchester/06042/6207

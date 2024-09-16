@@ -1,11 +1,11 @@
 id: 948494115
-type: way
+type: node
 latitude: 41.71465
 longitude: -72.60508
 postcode: "06033"
 city: Glastonbury
-street: "New London Turnpike"
-housenumber: 97
-phone: "+1 860 633 1065"
+street: New London Turnpike
+housenumber: "97"
+phone: +1 860 633 1065
 opening_hours: ""
-website: "https://www.sklaveryappliance.com"
+website: https://www.sklaveryappliance.com

@@ -1,11 +1,11 @@
 id: 886868890
-type: way
+type: node
 latitude: 41.71661
 longitude: -72.19706
 postcode: "06226"
 city: Willimantic
-street: "Boston Post Road"
-housenumber: 18
-phone: "+1 860 450 0509"
+street: Boston Post Road
+housenumber: "18"
+phone: +1 860 450 0509
 opening_hours: ""
-website: "https://www.exxon.com/en/find-station/200317906"
+website: https://www.exxon.com/en/find-station/200317906

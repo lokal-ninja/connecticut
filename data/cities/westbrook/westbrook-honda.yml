@@ -1,11 +1,11 @@
 id: 343518281
-type: way
+type: node
 latitude: 41.28979
 longitude: -72.44565
 postcode: "06498"
 city: Westbrook
-street: "Flat Rock Place"
-housenumber: 1
-phone: "(888) 823-4412"
+street: Flat Rock Place
+housenumber: "1"
+phone: (888) 823-4412
 opening_hours: ""
-website: "https://www.westbrookhonda.com/"
+website: https://www.westbrookhonda.com/

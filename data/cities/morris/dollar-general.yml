@@ -1,11 +1,11 @@
 id: 865404667
-type: way
+type: node
 latitude: 41.68381
 longitude: -73.20128
 postcode: "06763"
 city: Morris
-street: "West Street"
-housenumber: 16
-phone: "+1 860 600 0770"
+street: West Street
+housenumber: "16"
+phone: +1 860 600 0770
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ct/morris/18260"
+website: https://www.dollargeneral.com/store-directory/ct/morris/18260

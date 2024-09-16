@@ -1,11 +1,11 @@
 id: 1020149358
-type: way
+type: node
 latitude: 41.50407
 longitude: -72.98212
 postcode: "06712"
 city: Prospect
-street: "Union City Road"
-housenumber: 14
+street: Union City Road
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ct/prospect/18206"
+website: https://www.dollargeneral.com/store-directory/ct/prospect/18206

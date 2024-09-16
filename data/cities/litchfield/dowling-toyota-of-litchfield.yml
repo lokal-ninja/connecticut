@@ -1,11 +1,11 @@
 id: 699141472
-type: way
+type: node
 latitude: 41.73611
 longitude: -73.21543
 postcode: "06759"
 city: Litchfield
-street: "Bantam Road"
-housenumber: 451
-phone: "+1-860-567-0815"
+street: Bantam Road
+housenumber: "451"
+phone: +1-860-567-0815
 opening_hours: ""
-website: "https://www.dowlingtoyota.com/"
+website: https://www.dowlingtoyota.com/

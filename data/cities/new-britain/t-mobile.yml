@@ -1,11 +1,11 @@
 id: 1044578466
-type: way
+type: node
 latitude: 41.67044
 longitude: -72.7779
 postcode: "06051"
 city: New Britain
-street: "East Main Street"
-housenumber: 165
+street: East Main Street
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

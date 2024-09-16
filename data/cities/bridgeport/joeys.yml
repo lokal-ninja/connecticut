@@ -1,11 +1,11 @@
 id: 131428265
-type: way
+type: node
 latitude: 41.189
 longitude: -73.2175
 postcode: "06604"
 city: Bridgeport
-street: "Capitol Avenue"
-housenumber: 1598
+street: Capitol Avenue
+housenumber: "1598"
 phone: ""
 opening_hours: ""
 website: ""

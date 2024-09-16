@@ -1,11 +1,11 @@
 id: 190144933
-type: way
+type: node
 latitude: 41.56811
 longitude: -72.32633
 postcode: "06415"
 city: Colchester
-street: "South Main Street"
-housenumber: 359
+street: South Main Street
+housenumber: "359"
 phone: ""
 opening_hours: ""
 website: ""

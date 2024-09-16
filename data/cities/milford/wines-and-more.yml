@@ -1,11 +1,11 @@
 id: 369002300
-type: way
+type: node
 latitude: 41.23604
 longitude: -73.01891
 postcode: "06460"
 city: Milford
-street: "Eastern Steel Road"
-housenumber: 5
+street: Eastern Steel Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

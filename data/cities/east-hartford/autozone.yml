@@ -4,8 +4,8 @@ latitude: 41.72811
 longitude: -72.61581
 postcode: "06118"
 city: East Hartford
-street: "Main Street"
-housenumber: 12
-phone: "+1 860 200 9188"
+street: Main Street
+housenumber: "12"
+phone: +1 860 200 9188
 opening_hours: ""
-website: "https://www.autozone.com/locations/ct/east-hartford/12-main-st.html"
+website: https://www.autozone.com/locations/ct/east-hartford/12-main-st.html

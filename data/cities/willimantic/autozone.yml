@@ -1,11 +1,11 @@
 id: 556859755
-type: way
+type: node
 latitude: 41.71505
 longitude: -72.23017
 postcode: "06226"
 city: Willimantic
-street: "Main Street"
-housenumber: 1326
-phone: "+1 860 456 5629"
+street: Main Street
+housenumber: "1326"
+phone: +1 860 456 5629
 opening_hours: ""
-website: "https://www.autozone.com/locations/ct/willimantic/1326-main-st.html"
+website: https://www.autozone.com/locations/ct/willimantic/1326-main-st.html

@@ -1,11 +1,11 @@
 id: 696004365
-type: way
+type: node
 latitude: 41.64419
 longitude: -72.7289
 postcode: "06037"
 city: Berlin
-street: "Berlin Turnpike"
-housenumber: 245
-phone: "+1 860-828-1083"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ct/berlin-1448.shtml"
+street: Berlin Turnpike
+housenumber: "245"
+phone: +1 860-828-1083
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ct/berlin-1448.shtml

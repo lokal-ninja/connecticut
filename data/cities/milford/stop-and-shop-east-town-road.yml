@@ -1,11 +1,11 @@
 id: 206186618
-type: way
+type: node
 latitude: 41.23733
 longitude: -73.02988
 postcode: "06460"
 city: Milford
-street: "East Town Road"
-housenumber: 1360
+street: East Town Road
+housenumber: "1360"
 phone: ""
 opening_hours: ""
 website: ""

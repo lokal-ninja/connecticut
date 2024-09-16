@@ -1,11 +1,11 @@
 id: 884010515
-type: way
+type: node
 latitude: 41.70969
 longitude: -72.21704
 postcode: "06226"
 city: Willimantic
-street: "Pleasant Street"
-housenumber: 316
+street: Pleasant Street
+housenumber: "316"
 phone: ""
 opening_hours: ""
-website: "https://easternusa.salvationarmy.org/southern-new-england/willimantic"
+website: https://easternusa.salvationarmy.org/southern-new-england/willimantic

@@ -1,11 +1,11 @@
 id: 893157930
-type: way
+type: node
 latitude: 41.79802
 longitude: -72.36868
 postcode: "06238"
 city: Coventry
-street: "Main Street"
-housenumber: 3514
-phone: "+1 860 742 3543"
+street: Main Street
+housenumber: "3514"
+phone: +1 860 742 3543
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/cvs-pharmacy-address/3514+Main+St-Coventry-CT-06238/storeid=2220"
+website: https://www.cvs.com/store-locator/cvs-pharmacy-address/3514+Main+St-Coventry-CT-06238/storeid=2220

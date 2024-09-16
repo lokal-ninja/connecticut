@@ -1,11 +1,11 @@
 id: 792912371
-type: way
+type: node
 latitude: 41.60464
 longitude: -72.70687
 postcode: "06416"
 city: Cromwell
-street: "Berlin Road"
-housenumber: 123
+street: Berlin Road
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

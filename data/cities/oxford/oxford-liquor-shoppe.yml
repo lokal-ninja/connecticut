@@ -1,11 +1,11 @@
 id: 893114355
-type: way
+type: node
 latitude: 41.40137
 longitude: -73.09042
 postcode: "06478"
 city: Oxford
-street: "Oxford Road"
-housenumber: 19
+street: Oxford Road
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

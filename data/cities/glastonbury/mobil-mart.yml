@@ -1,11 +1,11 @@
 id: 959645980
-type: way
+type: node
 latitude: 41.72577
 longitude: -72.61618
 postcode: "06033"
 city: Glastonbury
-street: "Main Street"
-housenumber: 2997
-phone: "+1 203 660 7620"
+street: Main Street
+housenumber: "2997"
+phone: +1 203 660 7620
 opening_hours: ""
-website: "https://www.exxon.com/en/find-station/glastonbury-ct-glastonburymainstreet-200321376"
+website: https://www.exxon.com/en/find-station/glastonbury-ct-glastonburymainstreet-200321376

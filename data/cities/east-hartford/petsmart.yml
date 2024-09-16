@@ -4,8 +4,8 @@ latitude: 41.72726
 longitude: -72.61971
 postcode: "06118"
 city: East Hartford
-street: "Main Street"
-housenumber: 5
-phone: "+1 860-895-1816"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ct/east-hartford-store1572.html"
+street: Main Street
+housenumber: "5"
+phone: +1 860-895-1816
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ct/east-hartford-store1572.html

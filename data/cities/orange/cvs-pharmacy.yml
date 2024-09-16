@@ -1,11 +1,11 @@
 id: 203951079
-type: way
+type: node
 latitude: 41.26717
 longitude: -73.00158
 postcode: "06477"
 city: Orange
-street: "Boston Post Road"
-housenumber: 279
+street: Boston Post Road
+housenumber: "279"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/orange-ct-pharmacies/279-boston-post-rd-orange-ct-06477/storeid=2097"
+website: https://www.cvs.com/store-locator/orange-ct-pharmacies/279-boston-post-rd-orange-ct-06477/storeid=2097

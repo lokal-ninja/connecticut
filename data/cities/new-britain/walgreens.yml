@@ -1,11 +1,11 @@
 id: 953650854
-type: way
+type: node
 latitude: 41.68377
 longitude: -72.76784
 postcode: "06053"
 city: New Britain
-street: "Stanley Street"
-housenumber: 1350
+street: Stanley Street
+housenumber: "1350"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1350+stanley+st-new+britain-ct-06053/id=18243"
+website: https://www.walgreens.com/locator/walgreens-1350+stanley+st-new+britain-ct-06053/id=18243

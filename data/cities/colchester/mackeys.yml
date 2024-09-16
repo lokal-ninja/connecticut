@@ -1,11 +1,11 @@
 id: 1040709936
-type: way
+type: node
 latitude: 41.57221
 longitude: -72.33635
 postcode: "06415"
 city: Colchester
-street: "Linwood Avenue"
-housenumber: 132
+street: Linwood Avenue
+housenumber: "132"
 phone: ""
 opening_hours: ""
 website: ""

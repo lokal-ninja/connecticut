@@ -1,11 +1,11 @@
 id: 848957622
-type: way
+type: node
 latitude: 41.57922
 longitude: -73.49629
 postcode: "06784"
 city: Sherman
-street: "Route 39 North"
-housenumber: 2
+street: Route 39 North
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

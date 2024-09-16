@@ -1,11 +1,11 @@
 id: 750684721
-type: way
+type: node
 latitude: 41.57226
 longitude: -72.66014
 postcode: "06457"
 city: Middletown
-street: "Johnson Street"
-housenumber: 161
+street: Johnson Street
+housenumber: "161"
 phone: ""
 opening_hours: ""
 website: ""

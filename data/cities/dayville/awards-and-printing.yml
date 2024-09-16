@@ -1,11 +1,11 @@
 id: 899325476
-type: way
+type: node
 latitude: 41.83496
 longitude: -71.87819
 postcode: "06241"
 city: Dayville
-street: "North Main Street"
-housenumber: 1011
-phone: "+1 860 774 8800"
+street: North Main Street
+housenumber: "1011"
+phone: +1 860 774 8800
 opening_hours: ""
-website: "https://www.awardsandprinting.com"
+website: https://www.awardsandprinting.com

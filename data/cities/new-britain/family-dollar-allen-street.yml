@@ -1,11 +1,11 @@
 id: 1044578465
-type: way
+type: node
 latitude: 41.68245
 longitude: -72.77748
 postcode: "06051"
 city: New Britain
-street: "Allen Street"
-housenumber: 289
+street: Allen Street
+housenumber: "289"
 phone: ""
 opening_hours: ""
 website: ""

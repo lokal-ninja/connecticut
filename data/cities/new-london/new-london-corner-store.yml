@@ -1,11 +1,11 @@
 id: 956428605
-type: way
+type: node
 latitude: 41.35397
 longitude: -72.09374
 postcode: "06320"
 city: New London
-street: "Bank Street"
-housenumber: 2
+street: Bank Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/NewLondonSmokeShopCT"
+website: https://www.facebook.com/NewLondonSmokeShopCT

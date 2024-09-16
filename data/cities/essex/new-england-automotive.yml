@@ -4,8 +4,8 @@ latitude: 41.34842
 longitude: -72.42714
 postcode: "06442"
 city: Essex
-street: "Main Street"
-housenumber: 6
-phone: "+1 8603919359"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: Main Street
+housenumber: "6"
+phone: +1 8603919359
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

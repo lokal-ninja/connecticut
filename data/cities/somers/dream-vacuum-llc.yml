@@ -4,8 +4,8 @@ latitude: 41.98336
 longitude: -72.49779
 postcode: "06071"
 city: Somers
-street: "Main Street"
-housenumber: 12
-phone: "+1-860-749-9011"
-opening_hours: "Mo-Fr 08:00-16:30; Sa 09:00-12:30"
-website: "https://dreamvacuums.com"
+street: Main Street
+housenumber: "12"
+phone: +1-860-749-9011
+opening_hours: Mo-Fr 08:00-16:30; Sa 09:00-12:30
+website: https://dreamvacuums.com

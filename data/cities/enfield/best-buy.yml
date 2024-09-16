@@ -1,11 +1,11 @@
 id: 1308318273
-type: way
+type: node
 latitude: 41.99976
 longitude: -72.58398
 postcode: "06082"
 city: Enfield
-street: "Elm Street"
-housenumber: 95
-phone: "+1 860-741-2002"
+street: Elm Street
+housenumber: "95"
+phone: +1 860-741-2002
 opening_hours: ""
-website: "https://stores.bestbuy.com/ct/enfield/95-elm-st-1026.html"
+website: https://stores.bestbuy.com/ct/enfield/95-elm-st-1026.html

@@ -1,11 +1,11 @@
 id: 699141465
-type: way
+type: node
 latitude: 41.81252
 longitude: -72.51442
-postcode: "06040;06042"
+postcode: 06040;06042
 city: Manchester
-street: "Tolland Turnpike"
-housenumber: 179
-phone: "+1-860-646-4321"
+street: Tolland Turnpike
+housenumber: "179"
+phone: +1-860-646-4321
 opening_hours: ""
-website: "https://www.lynchtoyota.com/"
+website: https://www.lynchtoyota.com/

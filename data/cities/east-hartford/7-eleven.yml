@@ -1,11 +1,11 @@
 id: 894813987
-type: way
+type: node
 latitude: 41.74287
 longitude: -72.63228
 postcode: "06118"
 city: East Hartford
-street: "Main Street"
-housenumber: 298
-phone: "+1 860 569 3805"
+street: Main Street
+housenumber: "298"
+phone: +1 860 569 3805
 opening_hours: ""
 website: ""

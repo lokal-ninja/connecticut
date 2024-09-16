@@ -1,11 +1,11 @@
 id: 926064562
-type: way
+type: node
 latitude: 41.59293
 longitude: -72.02049
 postcode: "06351"
 city: Lisbon
-street: "South Burnham Highway"
-housenumber: 117
-phone: "+1 860 376 1700"
+street: South Burnham Highway
+housenumber: "117"
+phone: +1 860 376 1700
 opening_hours: ""
-website: "https://www.facebook.com/stillysauto"
+website: https://www.facebook.com/stillysauto

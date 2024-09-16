@@ -1,11 +1,11 @@
 id: 151940410
-type: way
+type: node
 latitude: 41.8167
 longitude: -72.71124
 postcode: "06002"
 city: Bloomfield
-street: "Cottage Grove Road"
-housenumber: 271
-phone: "+1 860-286-1003"
-opening_hours: "Mo-Th 08:00-23:00; Fr-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/ct/bloomfield/475"
+street: Cottage Grove Road
+housenumber: "271"
+phone: +1 860-286-1003
+opening_hours: Mo-Th 08:00-23:00; Fr-Sa 09:00-23:00; Su 09:00-22:00
+website: https://stores.burlington.com/ct/bloomfield/475

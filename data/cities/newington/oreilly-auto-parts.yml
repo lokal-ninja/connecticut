@@ -1,11 +1,11 @@
 id: 810900900
-type: way
+type: node
 latitude: 41.65377
 longitude: -72.72753
 postcode: "06111"
 city: Newington
-street: "Berlin Turnpike"
-housenumber: 3443
+street: Berlin Turnpike
+housenumber: "3443"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ct/newington/autoparts-5488.html"
+website: https://locations.oreillyauto.com/ct/newington/autoparts-5488.html

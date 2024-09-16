@@ -1,11 +1,11 @@
 id: 886325619
-type: way
+type: node
 latitude: 41.50214
 longitude: -72.97957
 postcode: "06712"
 city: Prospect
-street: "New Haven Road"
-housenumber: 2
-phone: "+1 203 758 4846"
+street: New Haven Road
+housenumber: "2"
+phone: +1 203 758 4846
 opening_hours: ""
-website: "https://www.exxon.com/en/find-station/prospect-ct-prospecthavenmobil-200316791"
+website: https://www.exxon.com/en/find-station/prospect-ct-prospecthavenmobil-200316791

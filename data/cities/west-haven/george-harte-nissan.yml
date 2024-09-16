@@ -1,11 +1,11 @@
 id: 338542513
-type: way
+type: node
 latitude: 41.30715
 longitude: -72.96797
 postcode: "06516"
 city: West Haven
-street: "Derby Avenue"
-housenumber: 426
-phone: "+1 203 208 3278"
+street: Derby Avenue
+housenumber: "426"
+phone: +1 203 208 3278
 opening_hours: ""
-website: "https://www.georgehartenissan.com/"
+website: https://www.georgehartenissan.com/

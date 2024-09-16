@@ -1,11 +1,11 @@
 id: 717794452
-type: way
+type: node
 latitude: 41.75128
 longitude: -72.67452
 postcode: "06114"
 city: Hartford
-street: "Wethersfield Avenue"
-housenumber: 165
+street: Wethersfield Avenue
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

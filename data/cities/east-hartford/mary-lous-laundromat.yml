@@ -1,11 +1,11 @@
 id: 965794303
-type: way
+type: node
 latitude: 41.77761
 longitude: -72.62795
 postcode: "06108"
 city: East Hartford
-street: "Tolland Street"
-housenumber: 144
+street: Tolland Street
+housenumber: "144"
 phone: "+18602899322"
 opening_hours: ""
 website: ""

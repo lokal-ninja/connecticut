@@ -1,11 +1,11 @@
 id: 953238613
-type: way
+type: node
 latitude: 41.66627
 longitude: -72.86683
 postcode: "06062"
 city: Plainville
-street: "Whiting Street"
-housenumber: 98
-phone: "+1-860-324-1168"
+street: Whiting Street
+housenumber: "98"
+phone: +1-860-324-1168
 opening_hours: ""
 website: ""

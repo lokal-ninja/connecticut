@@ -1,11 +1,11 @@
 id: 956427857
-type: way
+type: node
 latitude: 41.35036
 longitude: -72.0993
 postcode: "06320"
 city: New London
-street: "Bank Street"
-housenumber: 410
-phone: "+1 855 975 7064"
+street: Bank Street
+housenumber: "410"
+phone: +1 855 975 7064
 opening_hours: ""
-website: "https://hopenergy.com/locations/ddlc-energy"
+website: https://hopenergy.com/locations/ddlc-energy

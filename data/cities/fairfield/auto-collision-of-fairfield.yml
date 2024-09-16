@@ -1,11 +1,11 @@
 id: 206204739
-type: way
+type: node
 latitude: 41.16454
 longitude: -73.23202
 postcode: "06825"
 city: Fairfield
-street: "Commerce Drive"
-housenumber: 520
+street: Commerce Drive
+housenumber: "520"
 phone: ""
 opening_hours: ""
 website: ""

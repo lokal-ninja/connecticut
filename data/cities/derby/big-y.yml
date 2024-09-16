@@ -1,11 +1,11 @@
 id: 543122793
-type: way
+type: node
 latitude: 41.31321
 longitude: -73.05161
 postcode: "06418"
 city: Derby
-street: "New Haven Ave"
-housenumber: 656
+street: New Haven Ave
+housenumber: "656"
 phone: ""
 opening_hours: ""
 website: ""

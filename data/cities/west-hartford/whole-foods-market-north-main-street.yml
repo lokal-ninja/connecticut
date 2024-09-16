@@ -1,11 +1,11 @@
 id: 58321279
-type: way
+type: node
 latitude: 41.78454
 longitude: -72.74565
 postcode: "06117"
 city: West Hartford
-street: "North Main Street"
-housenumber: 340
-phone: "+1 860-523-7174"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/bishopscorner"
+street: North Main Street
+housenumber: "340"
+phone: +1 860-523-7174
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/bishopscorner

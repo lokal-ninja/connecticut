@@ -1,11 +1,11 @@
 id: 206954348
-type: way
+type: node
 latitude: 41.19393
 longitude: -73.19759
 postcode: "06606"
 city: Bridgeport
-street: "Porter Street"
-housenumber: 120
+street: Porter Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

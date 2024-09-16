@@ -1,11 +1,11 @@
 id: 914292296
-type: way
+type: node
 latitude: 41.78758
 longitude: -72.67006
 postcode: "06120"
 city: Hartford
-street: "Windsor Street"
-housenumber: 741
-phone: "+1 860 522 1104"
+street: Windsor Street
+housenumber: "741"
+phone: +1 860 522 1104
 opening_hours: ""
-website: "https://www.chuckandeddies.com"
+website: https://www.chuckandeddies.com

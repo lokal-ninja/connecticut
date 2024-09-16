@@ -1,11 +1,11 @@
 id: 151976525
-type: way
+type: node
 latitude: 41.81608
 longitude: -72.71632
 postcode: "06002"
 city: Bloomfield
-street: "Cottage Grove Road"
-housenumber: 331
+street: Cottage Grove Road
+housenumber: "331"
 phone: ""
 opening_hours: ""
 website: ""

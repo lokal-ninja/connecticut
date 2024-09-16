@@ -1,11 +1,11 @@
 id: 899583427
-type: way
+type: node
 latitude: 41.83963
 longitude: -71.87671
 postcode: "06241"
 city: Dayville
-street: "North Main Street"
-housenumber: 1075
-phone: "+1 860 932 2332"
+street: North Main Street
+housenumber: "1075"
+phone: +1 860 932 2332
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ct/dayville/14524"
+website: https://www.dollargeneral.com/store-directory/ct/dayville/14524

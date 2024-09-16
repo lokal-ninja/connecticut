@@ -1,11 +1,11 @@
 id: 899585517
-type: way
+type: node
 latitude: 41.83899
 longitude: -71.87318
 postcode: "06241"
 city: Dayville
-street: "Hartford Pike"
-housenumber: 753
-phone: "+1 860 932 2270"
+street: Hartford Pike
+housenumber: "753"
+phone: +1 860 932 2270
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ct/killingly/autoparts-5244.html"
+website: https://locations.oreillyauto.com/ct/killingly/autoparts-5244.html

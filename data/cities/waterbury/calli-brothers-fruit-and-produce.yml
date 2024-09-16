@@ -1,11 +1,11 @@
 id: 946599273
-type: way
+type: node
 latitude: 41.55551
 longitude: -73.04828
 postcode: "06702"
 city: Waterbury
-street: "Freight Street"
-housenumber: 67
+street: Freight Street
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

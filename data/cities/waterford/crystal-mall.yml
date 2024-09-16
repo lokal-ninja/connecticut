@@ -1,11 +1,11 @@
 id: 244975930
-type: way
+type: node
 latitude: 41.37508
 longitude: -72.14566
 postcode: "06385"
 city: Waterford
-street: "Hartford Turnpike"
-housenumber: 850
+street: Hartford Turnpike
+housenumber: "850"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.simon.com/mall/crystal-mall"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.simon.com/mall/crystal-mall

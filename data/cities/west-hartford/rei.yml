@@ -4,8 +4,8 @@ latitude: 41.72613
 longitude: -72.75722
 postcode: "06110"
 city: West Hartford
-street: "New Britain Avenue"
-housenumber: 1417
-phone: "+1-860-313-0128"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.rei.com/stores/west-hartford"
+street: New Britain Avenue
+housenumber: "1417"
+phone: +1-860-313-0128
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.rei.com/stores/west-hartford

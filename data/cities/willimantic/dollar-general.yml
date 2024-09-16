@@ -1,11 +1,11 @@
 id: 1148096578
-type: way
+type: node
 latitude: 41.71722
 longitude: -72.23255
 postcode: "06226"
 city: Willimantic
-street: "Main Street"
-housenumber: 1415
+street: Main Street
+housenumber: "1415"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ct/willimantic/24092"
+website: https://www.dollargeneral.com/store-directory/ct/willimantic/24092

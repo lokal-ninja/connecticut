@@ -1,11 +1,11 @@
 id: 876472373
-type: way
+type: node
 latitude: 41.34241
 longitude: -72.11971
 postcode: "06385"
 city: Waterford
-street: "Boston Post Road"
-housenumber: 75
+street: Boston Post Road
+housenumber: "75"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ct/waterford/21601"
+website: https://www.dollargeneral.com/store-directory/ct/waterford/21601

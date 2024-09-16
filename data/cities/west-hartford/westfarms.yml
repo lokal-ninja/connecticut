@@ -1,11 +1,11 @@
 id: 30429268
-type: way
+type: node
 latitude: 41.72463
 longitude: -72.76151
 postcode: "06032"
 city: West Hartford
-street: "New Britain Avenue"
-housenumber: 1500
+street: New Britain Avenue
+housenumber: "1500"
 phone: ""
 opening_hours: ""
 website: ""

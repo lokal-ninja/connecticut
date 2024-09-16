@@ -4,8 +4,8 @@ latitude: 41.0215
 longitude: -73.62611
 postcode: "06830"
 city: Greenwich
-street: "Railroad Avenue"
-housenumber: 14
-phone: "+1 203-485-0500"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 11:00-16:00"
-website: "https://signaturecycles.com"
+street: Railroad Avenue
+housenumber: "14"
+phone: +1 203-485-0500
+opening_hours: Tu-Fr 10:00-18:00; Sa 11:00-16:00
+website: https://signaturecycles.com

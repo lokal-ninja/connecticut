@@ -1,11 +1,11 @@
 id: 845507654
-type: way
+type: node
 latitude: 41.71774
 longitude: -72.76225
 postcode: "06110"
 city: West Hartford
-street: "New Britain Avenue"
-housenumber: 1593
-phone: "+1 860 313 0405"
+street: New Britain Avenue
+housenumber: "1593"
+phone: +1 860 313 0405
 opening_hours: ""
-website: "https://stores.sleepnumber.com/ct/west-hartford/1593-new-britain-ave.html"
+website: https://stores.sleepnumber.com/ct/west-hartford/1593-new-britain-ave.html

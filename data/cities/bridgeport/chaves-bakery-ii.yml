@@ -1,11 +1,11 @@
 id: 206380380
-type: way
+type: node
 latitude: 41.16999
 longitude: -73.20949
 postcode: "06605"
 city: Bridgeport
-street: "State Street"
-housenumber: 1365
+street: State Street
+housenumber: "1365"
 phone: ""
 opening_hours: ""
 website: ""

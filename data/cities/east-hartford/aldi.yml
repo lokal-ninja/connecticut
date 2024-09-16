@@ -1,11 +1,11 @@
 id: 950248701
-type: way
+type: node
 latitude: 41.76381
 longitude: -72.60918
-postcode: "06118-1229"
+postcode: 06118-1229
 city: East Hartford
-street: "Silver Lane"
-housenumber: 801
-phone: "+1 833-473-7047"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ct/east-hartford/801-silver-lane"
+street: Silver Lane
+housenumber: "801"
+phone: +1 833-473-7047
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ct/east-hartford/801-silver-lane

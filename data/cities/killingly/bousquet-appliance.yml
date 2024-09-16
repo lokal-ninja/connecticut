@@ -1,11 +1,11 @@
 id: 932255127
-type: way
+type: node
 latitude: 41.82171
 longitude: -71.87765
 postcode: "06239"
 city: Killingly
-street: "North Main Street"
-housenumber: 774
+street: North Main Street
+housenumber: "774"
 phone: ""
 opening_hours: ""
-website: "https://www.bousquetsappliance.com"
+website: https://www.bousquetsappliance.com

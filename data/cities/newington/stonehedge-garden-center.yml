@@ -1,11 +1,11 @@
 id: 963810509
-type: way
+type: node
 latitude: 41.66655
 longitude: -72.72625
 postcode: "06111"
 city: Newington
-street: "Willard Avenue"
-housenumber: 1632
+street: Willard Avenue
+housenumber: "1632"
 phone: ""
 opening_hours: ""
 website: ""

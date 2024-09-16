@@ -4,8 +4,8 @@ latitude: 41.77974
 longitude: -72.61057
 postcode: "06108"
 city: East Hartford
-street: "School Street"
-housenumber: 10
-phone: "+1 860-221-3031"
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-21:00"
-website: "https://www.dollartree.com/locations/ct/east-hartford/1972/"
+street: School Street
+housenumber: "10"
+phone: +1 860-221-3031
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-21:00
+website: https://www.dollartree.com/locations/ct/east-hartford/1972/

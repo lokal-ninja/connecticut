@@ -4,8 +4,8 @@ latitude: 41.26445
 longitude: -73.00366
 postcode: "06477"
 city: Orange
-street: "Boston Post Road"
-housenumber: 320
+street: Boston Post Road
+housenumber: "320"
 phone: ""
 opening_hours: ""
-website: "https://consignit.com/"
+website: https://consignit.com/

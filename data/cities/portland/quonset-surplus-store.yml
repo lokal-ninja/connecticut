@@ -1,11 +1,11 @@
 id: 889466474
-type: way
+type: node
 latitude: 41.57049
 longitude: -72.63566
 postcode: "06480"
 city: Portland
-street: "Pickering Street"
-housenumber: 11
+street: Pickering Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 933357700
-type: way
+type: node
 latitude: 41.74548
 longitude: -71.91074
 postcode: "06387"
 city: Plainfield
-street: "North Chestnut Street"
-housenumber: 8
-phone: "+1 860 774 6674"
+street: North Chestnut Street
+housenumber: "8"
+phone: +1 860 774 6674
 opening_hours: ""
 website: ""

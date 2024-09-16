@@ -1,11 +1,11 @@
 id: 889466471
-type: way
+type: node
 latitude: 41.57061
 longitude: -72.63513
 postcode: "06480"
 city: Portland
-street: "Marlborough Street"
-housenumber: 131
+street: Marlborough Street
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

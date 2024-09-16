@@ -1,11 +1,11 @@
 id: 893576943
-type: way
+type: node
 latitude: 41.77384
 longitude: -72.53417
 postcode: "06040"
 city: Manchester
-street: "Broad Street"
-housenumber: 410
-phone: "+1 860 649 2885"
+street: Broad Street
+housenumber: "410"
+phone: +1 860 649 2885
 opening_hours: ""
-website: "https://www.autozone.com/locations/ct/manchester/410-broad-st.html"
+website: https://www.autozone.com/locations/ct/manchester/410-broad-st.html

@@ -1,11 +1,11 @@
 id: 146204404
-type: way
+type: node
 latitude: 41.81381
 longitude: -72.71653
 postcode: "06002"
 city: Bloomfield
-street: "Cottage Grove Road"
-housenumber: 325
-phone: "+1 860-502-1068"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ct-bloomfield/1665"
+street: Cottage Grove Road
+housenumber: "325"
+phone: +1 860-502-1068
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ct-bloomfield/1665

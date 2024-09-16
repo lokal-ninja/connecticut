@@ -1,11 +1,11 @@
 id: 696004363
-type: way
+type: node
 latitude: 41.64316
 longitude: -72.72798
 postcode: "06037"
 city: Berlin
-street: "Berlin Turnpike"
-housenumber: 259
-phone: "+1 860-357-6287"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ct/berlin/5072"
+street: Berlin Turnpike
+housenumber: "259"
+phone: +1 860-357-6287
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ct/berlin/5072

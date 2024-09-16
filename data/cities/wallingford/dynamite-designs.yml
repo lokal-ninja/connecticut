@@ -4,8 +4,9 @@ latitude: 41.50046
 longitude: -72.81149
 postcode: "06492"
 city: Wallingford
-street: "North Colony Road"
-housenumber: 1157
-phone: "+1 203 269 4337"
-opening_hours: "Mo 11:00-18:00; Tu-Th 11:00-20:00; Fr 11:00-18:00; Sa 10:00-17:00; Su 11:00-16:00"
-website: "http://onlinedynamiteboutique.com"
+street: North Colony Road
+housenumber: "1157"
+phone: +1 203 269 4337
+opening_hours: Mo 11:00-18:00; Tu-Th 11:00-20:00; Fr 11:00-18:00; Sa 10:00-17:00;
+    Su 11:00-16:00
+website: http://onlinedynamiteboutique.com

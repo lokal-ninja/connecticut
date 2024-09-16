@@ -1,11 +1,11 @@
 id: 206380471
-type: way
+type: node
 latitude: 41.17088
 longitude: -73.20859
 postcode: "06605"
 city: Bridgeport
-street: "State Street"
-housenumber: 1300
+street: State Street
+housenumber: "1300"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ct/bridgeport/1300-state-st.html"
+website: https://www.autozone.com/locations/ct/bridgeport/1300-state-st.html

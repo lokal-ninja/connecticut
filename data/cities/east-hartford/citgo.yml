@@ -1,11 +1,11 @@
 id: 1216363044
-type: way
+type: node
 latitude: 41.77402
 longitude: -72.63656
 postcode: "06108"
 city: East Hartford
-street: "Burnside Avenue"
-housenumber: 75
+street: Burnside Avenue
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

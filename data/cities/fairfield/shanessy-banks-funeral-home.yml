@@ -1,11 +1,11 @@
 id: 368854610
-type: way
+type: node
 latitude: 41.14031
 longitude: -73.25718
 postcode: "06824"
 city: Fairfield
-street: "Reef Road"
-housenumber: 50
+street: Reef Road
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

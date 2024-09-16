@@ -4,8 +4,8 @@ latitude: 41.73389
 longitude: -72.20218
 postcode: "06226"
 city: Willimantic
-street: "Storrs Road"
-housenumber: 95
-phone: "+1 860-456-4700"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ct/willimantic-165.shtml"
+street: Storrs Road
+housenumber: "95"
+phone: +1 860-456-4700
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ct/willimantic-165.shtml

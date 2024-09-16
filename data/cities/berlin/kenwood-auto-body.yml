@@ -1,11 +1,11 @@
 id: 545586007
-type: way
+type: node
 latitude: 41.6275
 longitude: -72.75303
 postcode: "06037"
 city: Berlin
-street: "Massirio Drive"
-housenumber: 161
+street: Massirio Drive
+housenumber: "161"
 phone: ""
 opening_hours: ""
 website: ""

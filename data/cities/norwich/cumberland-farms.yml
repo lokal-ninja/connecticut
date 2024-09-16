@@ -1,11 +1,11 @@
 id: 1016051948
-type: way
+type: node
 latitude: 41.50958
 longitude: -72.0747
 postcode: "06360"
 city: Norwich
-street: "Laurel Hill Avenue"
-housenumber: 412
+street: Laurel Hill Avenue
+housenumber: "412"
 phone: ""
 opening_hours: ""
 website: ""

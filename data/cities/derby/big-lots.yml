@@ -4,8 +4,8 @@ latitude: 41.3133
 longitude: -73.05587
 postcode: "06418"
 city: Derby
-street: "New Haven Avenue"
-housenumber: 600
-phone: "+1 203-732-8105"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ct/derby/600-new-haven-ave"
+street: New Haven Avenue
+housenumber: "600"
+phone: +1 203-732-8105
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ct/derby/600-new-haven-ave

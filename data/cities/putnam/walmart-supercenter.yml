@@ -1,11 +1,11 @@
 id: 570551204
-type: way
+type: node
 latitude: 41.92402
 longitude: -71.88946
 postcode: "06260"
 city: Putnam
-street: "School Street"
-housenumber: 625
-phone: "+1 860-928-3999"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1980/putnam-ct/whats-new"
+street: School Street
+housenumber: "625"
+phone: +1 860-928-3999
+opening_hours: 24/7
+website: https://www.walmart.com/store/1980/putnam-ct/whats-new

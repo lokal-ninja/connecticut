@@ -1,11 +1,11 @@
 id: 284902540
-type: way
+type: node
 latitude: 41.47066
 longitude: -72.8165
 postcode: "06492"
 city: Wallingford
-street: "North Colony Road"
-housenumber: 620
+street: North Colony Road
+housenumber: "620"
 phone: ""
 opening_hours: ""
 website: ""

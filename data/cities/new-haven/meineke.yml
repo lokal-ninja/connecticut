@@ -1,11 +1,11 @@
 id: 338073762
-type: way
+type: node
 latitude: 41.32959
 longitude: -72.96917
 postcode: "06515"
 city: New Haven
-street: "Whalley Avenue"
-housenumber: 1175
+street: Whalley Avenue
+housenumber: "1175"
 phone: ""
 opening_hours: ""
 website: ""

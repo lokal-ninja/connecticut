@@ -1,11 +1,11 @@
 id: 390180859
-type: way
+type: node
 latitude: 41.3379
 longitude: -73.07588
 postcode: "06401"
 city: Ansonia
-street: "Main Street"
-housenumber: 404
+street: Main Street
+housenumber: "404"
 phone: ""
 opening_hours: ""
 website: ""

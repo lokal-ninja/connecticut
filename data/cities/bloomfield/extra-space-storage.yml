@@ -1,11 +1,11 @@
 id: 562559935
-type: way
+type: node
 latitude: 41.81522
 longitude: -72.69869
 postcode: "06002"
 city: Bloomfield
-street: "Douglas Street"
-housenumber: 2
-phone: "+1 860 509 4241"
+street: Douglas Street
+housenumber: "2"
+phone: +1 860 509 4241
 opening_hours: ""
-website: "https://www.extraspace.com/storage/facilities/us/connecticut/bloomfield/1000001346"
+website: https://www.extraspace.com/storage/facilities/us/connecticut/bloomfield/1000001346

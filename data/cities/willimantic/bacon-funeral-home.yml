@@ -1,11 +1,11 @@
 id: 871214905
-type: way
+type: node
 latitude: 41.71535
 longitude: -72.20813
 postcode: "06226"
 city: Willimantic
-street: "Prospect Street"
-housenumber: 71
-phone: "+1 860 423 1234"
+street: Prospect Street
+housenumber: "71"
+phone: +1 860 423 1234
 opening_hours: ""
-website: "https://www.baconfh.com"
+website: https://www.baconfh.com

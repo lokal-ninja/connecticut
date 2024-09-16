@@ -1,11 +1,11 @@
 id: 925337402
-type: way
+type: node
 latitude: 41.24982
 longitude: -73.30186
 postcode: "06612"
 city: Easton
-street: "Center Road"
-housenumber: 299
+street: Center Road
+housenumber: "299"
 phone: ""
 opening_hours: ""
 website: ""

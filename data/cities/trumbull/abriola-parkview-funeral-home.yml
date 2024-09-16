@@ -1,11 +1,11 @@
 id: 641017130
-type: way
+type: node
 latitude: 41.23678
 longitude: -73.1789
 postcode: "06611"
 city: Trumbull
-street: "White Plains Road"
-housenumber: 419
-phone: "+1 203 3731013"
+street: White Plains Road
+housenumber: "419"
+phone: +1 203 3731013
 opening_hours: ""
-website: "https://abriola.com/"
+website: https://abriola.com/

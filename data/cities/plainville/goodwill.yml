@@ -1,11 +1,11 @@
 id: 868123499
-type: way
+type: node
 latitude: 41.67562
 longitude: -72.83826
 postcode: "06062"
 city: Plainville
-street: "New Britain Avenue"
-housenumber: 349
-phone: "+1 860 410-8090"
-opening_hours: "10:00-19:00"
-website: "https://www.goodwillsne.org/"
+street: New Britain Avenue
+housenumber: "349"
+phone: +1 860 410-8090
+opening_hours: 10:00-19:00
+website: https://www.goodwillsne.org/

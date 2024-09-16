@@ -1,11 +1,11 @@
 id: 369018205
-type: way
+type: node
 latitude: 41.1413
 longitude: -73.26371
 postcode: "06824"
 city: Fairfield
-street: "Post Road"
-housenumber: 1828
-phone: "+1 203 2548308"
+street: Post Road
+housenumber: "1828"
+phone: +1 203 2548308
 opening_hours: ""
 website: ""

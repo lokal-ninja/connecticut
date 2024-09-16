@@ -1,11 +1,11 @@
 id: 295033948
-type: way
+type: node
 latitude: 41.39547
 longitude: -73.45207
 postcode: "06810"
 city: Danbury
-street: "Railroad Place"
-housenumber: 99
+street: Railroad Place
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

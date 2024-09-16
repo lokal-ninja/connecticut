@@ -1,11 +1,11 @@
 id: 146199174
-type: way
+type: node
 latitude: 41.77194
 longitude: -72.67011
 postcode: "06120"
 city: Hartford
-street: "Market Street"
-housenumber: 306
-phone: "+1 860 522 3131"
+street: Market Street
+housenumber: "306"
+phone: +1 860 522 3131
 opening_hours: ""
-website: "https://www.goodyearautoservice.com/en-US/shop/CT/Hartford/000900360-06120-2918"
+website: https://www.goodyearautoservice.com/en-US/shop/CT/Hartford/000900360-06120-2918

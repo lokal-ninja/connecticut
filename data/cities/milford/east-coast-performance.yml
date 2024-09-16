@@ -1,11 +1,11 @@
 id: 209392541
-type: way
+type: node
 latitude: 41.20293
 longitude: -73.10071
 postcode: "06460"
 city: Milford
-street: "Bridgeport Avenue"
-housenumber: 258
+street: Bridgeport Avenue
+housenumber: "258"
 phone: ""
 opening_hours: ""
 website: ""

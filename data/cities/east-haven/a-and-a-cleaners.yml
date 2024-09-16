@@ -1,11 +1,11 @@
 id: 727446616
-type: way
+type: node
 latitude: 41.26733
 longitude: -72.8719
 postcode: "06512"
 city: East Haven
-street: "Hemingway Avenue"
-housenumber: 29
+street: Hemingway Avenue
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

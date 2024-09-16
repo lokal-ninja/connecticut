@@ -1,11 +1,11 @@
 id: 898049364
-type: way
+type: node
 latitude: 41.80369
 longitude: -71.885
 postcode: "06239"
 city: Danielson
-street: "Main Street"
-housenumber: 66
-phone: "+1 860 779 1341"
+street: Main Street
+housenumber: "66"
+phone: +1 860 779 1341
 opening_hours: ""
-website: "https://store.vioc.com/ct/danielson/oil-change-ae1422.html"
+website: https://store.vioc.com/ct/danielson/oil-change-ae1422.html

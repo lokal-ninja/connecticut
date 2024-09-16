@@ -1,11 +1,11 @@
 id: 850222882
-type: way
+type: node
 latitude: 41.70976
 longitude: -72.58082
 postcode: "06033"
 city: Glastonbury
-street: "Oakwood Drive"
-housenumber: 269
-phone: "+1 860 633 1878"
+street: Oakwood Drive
+housenumber: "269"
+phone: +1 860 633 1878
 opening_hours: ""
-website: "https://www.lifestorage.com/storage-units/connecticut/hartford/06033/55-in-glastonbury"
+website: https://www.lifestorage.com/storage-units/connecticut/hartford/06033/55-in-glastonbury

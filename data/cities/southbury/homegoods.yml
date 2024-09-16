@@ -4,8 +4,8 @@ latitude: 41.46362
 longitude: -73.2302
 postcode: "06488"
 city: Southbury
-street: "Main Street South"
-housenumber: 775
-phone: "+1 203-264-0025"
-opening_hours: "09:00-22:00"
+street: Main Street South
+housenumber: "775"
+phone: +1 203-264-0025
+opening_hours: 09:00-22:00
 website: ""

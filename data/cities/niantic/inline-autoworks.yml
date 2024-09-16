@@ -1,11 +1,11 @@
 id: 1049768858
-type: way
+type: node
 latitude: 41.32
 longitude: -72.21507
 postcode: "06357"
 city: Niantic
-street: "Sessa Lane"
-housenumber: 4
+street: Sessa Lane
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

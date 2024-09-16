@@ -4,8 +4,8 @@ latitude: 41.71367
 longitude: -72.65328
 postcode: "06109"
 city: Wethersfield
-street: "Main Street"
-housenumber: 263
-phone: "860-257-2790"
-opening_hours: "Tu-Fr 08:00-19:00, Sa 08:00-17:00, Su 09:00-16:00, Mo closed"
-website: "https://www.heirloommkt.com/"
+street: Main Street
+housenumber: "263"
+phone: 860-257-2790
+opening_hours: Tu-Fr 08:00-19:00, Sa 08:00-17:00, Su 09:00-16:00, Mo closed
+website: https://www.heirloommkt.com/

@@ -1,11 +1,11 @@
 id: 167644019
-type: way
+type: node
 latitude: 41.42388
 longitude: -73.42226
 postcode: "06811"
 city: Danbury
-street: "Federal Road"
-housenumber: 114
-phone: "+1 203-730-9600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/danbury/ct/danbury/06811/6209"
+street: Federal Road
+housenumber: "114"
+phone: +1 203-730-9600
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/danbury/ct/danbury/06811/6209

@@ -1,11 +1,11 @@
 id: 462818325
-type: way
+type: node
 latitude: 41.38903
 longitude: -73.44471
 postcode: "06810"
 city: Danbury
-street: "Main Street"
-housenumber: 23
+street: Main Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

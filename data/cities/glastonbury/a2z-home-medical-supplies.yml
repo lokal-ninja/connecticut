@@ -1,11 +1,11 @@
 id: 947420098
-type: way
+type: node
 latitude: 41.70731
 longitude: -72.59909
 postcode: "06033"
 city: Glastonbury
-street: "New London Turnpike"
-housenumber: 548
-phone: "+1 860 633 1882"
+street: New London Turnpike
+housenumber: "548"
+phone: +1 860 633 1882
 opening_hours: ""
-website: "https://a2zhomemed.com"
+website: https://a2zhomemed.com

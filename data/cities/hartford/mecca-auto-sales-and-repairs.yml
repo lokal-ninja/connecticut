@@ -1,11 +1,11 @@
 id: 590554174
-type: way
+type: node
 latitude: 41.73221
 longitude: -72.67503
 postcode: "06114"
 city: Hartford
-street: "Franklin Avenue"
-housenumber: 585
-phone: "+1 860 216 9965"
+street: Franklin Avenue
+housenumber: "585"
+phone: +1 860 216 9965
 opening_hours: ""
-website: "https://www.meccaautosalesandrepairs.com"
+website: https://www.meccaautosalesandrepairs.com

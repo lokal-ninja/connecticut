@@ -1,11 +1,11 @@
 id: 209686648
-type: way
+type: node
 latitude: 41.23879
 longitude: -73.02396
 postcode: "06460"
 city: Milford
-street: "Banner Drive"
-housenumber: 9
+street: Banner Drive
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

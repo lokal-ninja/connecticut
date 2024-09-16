@@ -1,11 +1,11 @@
 id: 205414804
-type: way
+type: node
 latitude: 41.14405
 longitude: -73.25146
 postcode: "06824"
 city: Fairfield
-street: "Beach Road"
-housenumber: 88
+street: Beach Road
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

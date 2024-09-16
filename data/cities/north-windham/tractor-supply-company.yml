@@ -1,11 +1,11 @@
 id: 205862511
-type: way
+type: node
 latitude: 41.74464
 longitude: -72.16831
 postcode: "06256"
 city: North Windham
-street: "Boston Post Road"
-housenumber: 476
-phone: "+1 860-450-1065"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Boston Post Road
+housenumber: "476"
+phone: +1 860-450-1065
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

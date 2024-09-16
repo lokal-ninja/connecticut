@@ -1,11 +1,11 @@
 id: 594321241
-type: way
+type: node
 latitude: 41.5768
 longitude: -72.3344
 postcode: "06415"
 city: Colchester
-street: "Broadway"
-housenumber: 71
+street: Broadway
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

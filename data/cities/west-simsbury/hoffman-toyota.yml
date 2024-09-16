@@ -1,11 +1,11 @@
 id: 699141466
-type: way
+type: node
 latitude: 41.81912
 longitude: -72.86827
 postcode: "06092"
 city: West Simsbury
-street: "Albany Turnpike"
-housenumber: 36
-phone: "+1-860-651-3725"
+street: Albany Turnpike
+housenumber: "36"
+phone: +1-860-651-3725
 opening_hours: ""
-website: "https://www.hoffmantoyota.com/"
+website: https://www.hoffmantoyota.com/

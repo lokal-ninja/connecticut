@@ -1,11 +1,11 @@
 id: 947928645
-type: way
+type: node
 latitude: 41.68005
 longitude: -72.59941
 postcode: "06033"
 city: Glastonbury
-street: "Main Street"
-housenumber: 1287
+street: Main Street
+housenumber: "1287"
 phone: ""
 opening_hours: ""
-website: "http://www.riverviewfarmsct.com"
+website: http://www.riverviewfarmsct.com

@@ -4,8 +4,8 @@ latitude: 41.56427
 longitude: -72.65174
 postcode: "06457"
 city: Middletown
-street: "Main Street"
-housenumber: 608
+street: Main Street
+housenumber: "608"
 phone: ""
-opening_hours: "Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 12:00-17:00"
+opening_hours: Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 12:00-17:00
 website: ""

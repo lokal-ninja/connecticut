@@ -1,11 +1,11 @@
 id: 1017702779
-type: way
+type: node
 latitude: 41.65026
 longitude: -72.67993
 postcode: "06067"
 city: Rocky Hill
-street: "Cromwell Avenue"
-housenumber: 741
+street: Cromwell Avenue
+housenumber: "741"
 phone: ""
 opening_hours: ""
 website: ""

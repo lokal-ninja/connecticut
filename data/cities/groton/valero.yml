@@ -1,11 +1,11 @@
 id: 1050485408
-type: way
+type: node
 latitude: 41.35208
 longitude: -71.99878
 postcode: "06355"
 city: Groton
-street: "New London Road"
-housenumber: 530
+street: New London Road
+housenumber: "530"
 phone: ""
 opening_hours: ""
 website: ""

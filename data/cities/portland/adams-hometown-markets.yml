@@ -4,8 +4,8 @@ latitude: 41.56946
 longitude: -72.62748
 postcode: "06480"
 city: Portland
-street: "Marlborough Street"
-housenumber: 316
-phone: "+1 509-882-1900"
-opening_hours: "Mo-Su 07:00-21:00"
+street: Marlborough Street
+housenumber: "316"
+phone: +1 509-882-1900
+opening_hours: Mo-Su 07:00-21:00
 website: ""

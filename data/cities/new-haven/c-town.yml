@@ -4,8 +4,8 @@ latitude: 41.30844
 longitude: -72.89466
 postcode: "06513"
 city: New Haven
-street: "Ferry Street"
-housenumber: 325
+street: Ferry Street
+housenumber: "325"
 phone: ""
-opening_hours: "07:30-22:00"
+opening_hours: 07:30-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.30378
 longitude: -72.92371
 postcode: "06510"
 city: New Haven
-street: "State Street"
-housenumber: 262
+street: State Street
+housenumber: "262"
 phone: ""
-opening_hours: "Th 13:00-19:00; Sa 10:00-16:00"
-website: "https://ecoworksct.org/"
+opening_hours: Th 13:00-19:00; Sa 10:00-16:00
+website: https://ecoworksct.org/

@@ -1,11 +1,11 @@
 id: 923121040
-type: way
+type: node
 latitude: 41.67612
 longitude: -71.9147
 postcode: "06374"
 city: Plainfield
-street: "Norwich Road"
-housenumber: 650
+street: Norwich Road
+housenumber: "650"
 phone: ""
 opening_hours: ""
 website: ""

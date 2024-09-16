@@ -1,11 +1,11 @@
 id: 953666574
-type: way
+type: node
 latitude: 41.66926
 longitude: -72.81744
 postcode: "06053"
 city: New Britain
-street: "West Main Street"
-housenumber: 1055
+street: West Main Street
+housenumber: "1055"
 phone: ""
 opening_hours: ""
 website: ""

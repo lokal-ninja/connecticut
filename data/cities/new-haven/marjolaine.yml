@@ -4,8 +4,8 @@ latitude: 41.31518
 longitude: -72.91021
 postcode: "06511"
 city: New Haven
-street: "State Street"
-housenumber: 961
-phone: "(203) 789-8589"
-opening_hours: "Tu-Fr 07:00-18:00; Sa 08:00-17:00; Su 08:00-13:00; Mo off"
-website: "https://www.marjolainepastry.com/"
+street: State Street
+housenumber: "961"
+phone: (203) 789-8589
+opening_hours: Tu-Fr 07:00-18:00; Sa 08:00-17:00; Su 08:00-13:00; Mo off
+website: https://www.marjolainepastry.com/

@@ -1,11 +1,11 @@
 id: 948494549
-type: way
+type: node
 latitude: 41.71636
 longitude: -72.61219
 postcode: "06033"
 city: Glastonbury
-street: "Main Street"
-housenumber: 2711
-phone: "+1 860 659 9292"
+street: Main Street
+housenumber: "2711"
+phone: +1 860 659 9292
 opening_hours: ""
-website: "https://economyoilchange.com/glastonbury-location"
+website: https://economyoilchange.com/glastonbury-location

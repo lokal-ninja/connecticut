@@ -4,8 +4,8 @@ latitude: 41.66703
 longitude: -72.60223
 postcode: "06073"
 city: Glastonbury
-street: "Main Street"
-housenumber: 908
-phone: "+1 860 657 4111"
-opening_hours: "Mo-Sa 05:00-15:00; Su 06:00-14:00"
-website: "https://www.harposbakery.com"
+street: Main Street
+housenumber: "908"
+phone: +1 860 657 4111
+opening_hours: Mo-Sa 05:00-15:00; Su 06:00-14:00
+website: https://www.harposbakery.com

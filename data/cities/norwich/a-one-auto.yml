@@ -1,11 +1,11 @@
 id: 918515754
-type: way
+type: node
 latitude: 41.49905
 longitude: -72.09672
 postcode: "06360"
 city: Norwich
-street: "West Thames Street"
-housenumber: 688
-phone: "+1 860 859 5242"
+street: West Thames Street
+housenumber: "688"
+phone: +1 860 859 5242
 opening_hours: ""
-website: "https://www.aoneautoct.com"
+website: https://www.aoneautoct.com

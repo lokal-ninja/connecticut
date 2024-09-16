@@ -1,11 +1,11 @@
 id: 901868307
-type: way
+type: node
 latitude: 41.54394
 longitude: -72.05533
 postcode: "06360"
 city: Norwich
-street: "Boswell Avenue"
-housenumber: 646
+street: Boswell Avenue
+housenumber: "646"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ct/norwich/17205"
+website: https://www.dollargeneral.com/store-directory/ct/norwich/17205

@@ -1,11 +1,11 @@
 id: 290842653
-type: way
+type: node
 latitude: 41.27955
 longitude: -72.5951
 postcode: "06443"
 city: Madison
-street: "Boston Post Road"
-housenumber: 768
+street: Boston Post Road
+housenumber: "768"
 phone: ""
 opening_hours: ""
 website: ""

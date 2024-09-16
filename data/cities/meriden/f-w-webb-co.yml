@@ -1,11 +1,11 @@
 id: 280927912
-type: way
+type: node
 latitude: 41.52507
 longitude: -72.7667
 postcode: "06450"
 city: Meriden
-street: "Pomeroy Avenue"
-housenumber: 30
+street: Pomeroy Avenue
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

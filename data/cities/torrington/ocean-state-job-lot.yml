@@ -1,11 +1,11 @@
 id: 482899635
-type: way
+type: node
 latitude: 41.81515
 longitude: -73.12474
 postcode: "06790"
 city: Torrington
-street: "Main Street"
-housenumber: 681
+street: Main Street
+housenumber: "681"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00, Su 09:00-20:00"
+opening_hours: Mo-Sa 08:00-21:00, Su 09:00-20:00
 website: ""

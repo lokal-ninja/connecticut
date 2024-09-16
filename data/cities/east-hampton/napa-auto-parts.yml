@@ -1,11 +1,11 @@
 id: 1039478987
-type: way
+type: node
 latitude: 41.58523
 longitude: -72.49458
 postcode: "06424"
 city: East Hampton
-street: "East High Street"
-housenumber: 72
-phone: "+1 860 267 1220"
+street: East High Street
+housenumber: "72"
+phone: +1 860 267 1220
 opening_hours: ""
-website: "https://www.napaonline.com/stores/ct/east-hampton/72-e-high-st?cid=pl_DAC_jobber_EastHamptonAutoPartsInc_22347"
+website: https://www.napaonline.com/stores/ct/east-hampton/72-e-high-st?cid=pl_DAC_jobber_EastHamptonAutoPartsInc_22347

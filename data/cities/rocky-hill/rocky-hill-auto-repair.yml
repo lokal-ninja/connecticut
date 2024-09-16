@@ -1,11 +1,11 @@
 id: 963815752
-type: way
+type: node
 latitude: 41.66592
 longitude: -72.63985
 postcode: "06067"
 city: Rocky Hill
-street: "Silas Deane Highway"
-housenumber: 2306
+street: Silas Deane Highway
+housenumber: "2306"
 phone: "+18605632141"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 505155460
-type: way
+type: node
 latitude: 41.73339
 longitude: -72.20176
 postcode: "06250"
 city: Mansfield Center
-street: "Storrs Road"
-housenumber: 95
-phone: "+1 860 456 3066"
+street: Storrs Road
+housenumber: "95"
+phone: +1 860 456 3066
 opening_hours: ""
-website: "https://www.eastbrookmallct.com"
+website: https://www.eastbrookmallct.com

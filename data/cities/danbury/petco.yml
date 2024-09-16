@@ -4,8 +4,8 @@ latitude: 41.37777
 longitude: -73.47615
 postcode: "06810"
 city: Danbury
-street: "Sugar Hollow Road"
-housenumber: 5
-phone: "+1 203-748-0120"
-opening_hours: "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ct/danbury/pet-supplies-danbury-ct-3743.html"
+street: Sugar Hollow Road
+housenumber: "5"
+phone: +1 203-748-0120
+opening_hours: Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/ct/danbury/pet-supplies-danbury-ct-3743.html

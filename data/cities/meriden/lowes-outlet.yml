@@ -1,11 +1,11 @@
 id: 280927865
-type: way
+type: node
 latitude: 41.52305
 longitude: -72.76347
 postcode: "06450"
 city: Meriden
-street: "East Main Street"
-housenumber: 1163
-phone: "+1 203-514-3100"
-opening_hours: "10:00-20:00"
-website: "https://www.lowes.com/store/ct-meriden/3567"
+street: East Main Street
+housenumber: "1163"
+phone: +1 203-514-3100
+opening_hours: 10:00-20:00
+website: https://www.lowes.com/store/ct-meriden/3567

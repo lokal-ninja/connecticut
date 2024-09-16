@@ -1,11 +1,11 @@
 id: 958245609
-type: way
+type: node
 latitude: 41.67356
 longitude: -72.59911
 postcode: "06073"
 city: Glastonbury
-street: "Main Street"
-housenumber: 1098
-phone: "+1 860 833 0095"
+street: Main Street
+housenumber: "1098"
+phone: +1 860 833 0095
 opening_hours: ""
-website: "http://kbfarmstead.com"
+website: http://kbfarmstead.com

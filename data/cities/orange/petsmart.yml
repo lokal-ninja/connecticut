@@ -4,8 +4,8 @@ latitude: 41.27921
 longitude: -72.98867
 postcode: "06477"
 city: Orange
-street: "Boston Post Road"
-housenumber: 55
-phone: "+1 203-937-2749"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ct/orange-store2286.html"
+street: Boston Post Road
+housenumber: "55"
+phone: +1 203-937-2749
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ct/orange-store2286.html

@@ -4,8 +4,8 @@ latitude: 41.22238
 longitude: -73.0737
 postcode: "06460"
 city: Milford
-street: "West Clark Street"
-housenumber: 258
+street: West Clark Street
+housenumber: "258"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cumberlandfarms.com/"
+opening_hours: 24/7
+website: https://www.cumberlandfarms.com/

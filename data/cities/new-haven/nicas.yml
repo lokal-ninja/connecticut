@@ -4,8 +4,8 @@ latitude: 41.31659
 longitude: -72.91559
 postcode: "06511"
 city: New Haven
-street: "Orange Street"
-housenumber: 603
+street: Orange Street
+housenumber: "603"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00; Su 07:00-16:00"
+opening_hours: Mo-Sa 07:00-19:00; Su 07:00-16:00
 website: ""

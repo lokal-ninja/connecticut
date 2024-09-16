@@ -1,11 +1,11 @@
 id: 543775335
-type: way
+type: node
 latitude: 41.66971
 longitude: -72.84928
 postcode: "06062"
 city: Plainville
-street: "Woodford Avenue"
-housenumber: 361
+street: Woodford Avenue
+housenumber: "361"
 phone: ""
 opening_hours: ""
 website: ""

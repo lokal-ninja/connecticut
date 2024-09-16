@@ -1,11 +1,11 @@
 id: 209412430
-type: way
+type: node
 latitude: 41.21361
 longitude: -73.07768
 postcode: "06460"
 city: Milford
-street: "Boston Post Road"
-housenumber: 1
-phone: "203-882-5686"
-opening_hours: "Mo-Th 09:00-20:00, Fr 09:00-18:00, Sa 09:00-17:00, Su 11:00-16:00"
-website: "https://www.danperkinssubaru.com/"
+street: Boston Post Road
+housenumber: "1"
+phone: 203-882-5686
+opening_hours: Mo-Th 09:00-20:00, Fr 09:00-18:00, Sa 09:00-17:00, Su 11:00-16:00
+website: https://www.danperkinssubaru.com/

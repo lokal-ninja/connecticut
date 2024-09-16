@@ -1,11 +1,11 @@
 id: 835171254
-type: way
+type: node
 latitude: 41.72892
 longitude: -72.20187
 postcode: "06226"
 city: Willimantic
-street: "Storrs Road"
-housenumber: 7
+street: Storrs Road
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.77471
 longitude: -72.65545
 postcode: "06108"
 city: East Hartford
-street: "Cedar Street"
-housenumber: 12
-phone: "+1 860 528 0592"
+street: Cedar Street
+housenumber: "12"
+phone: +1 860 528 0592
 opening_hours: ""
-website: "https://brew-wine.com"
+website: https://brew-wine.com

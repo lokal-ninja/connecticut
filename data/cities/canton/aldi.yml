@@ -1,11 +1,11 @@
 id: 950258052
-type: way
+type: node
 latitude: 41.82488
 longitude: -72.88405
 postcode: "06019"
 city: Canton
-street: "Albany Turnpike"
-housenumber: 101
-phone: "+1 877-473-1105"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ct/canton/101-albany-turnpike"
+street: Albany Turnpike
+housenumber: "101"
+phone: +1 877-473-1105
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ct/canton/101-albany-turnpike

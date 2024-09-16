@@ -1,11 +1,11 @@
 id: 1016062528
-type: way
+type: node
 latitude: 41.56779
 longitude: -72.12912
 postcode: "06254"
 city: Franklin
-street: "New Park Avenue"
-housenumber: 6
+street: New Park Avenue
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

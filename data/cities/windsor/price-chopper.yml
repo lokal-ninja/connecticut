@@ -1,11 +1,11 @@
 id: 152196261
-type: way
+type: node
 latitude: 41.87095
 longitude: -72.66202
 postcode: "06095"
 city: Windsor
-street: "Poquonock Avenue"
-housenumber: 599
+street: Poquonock Avenue
+housenumber: "599"
 phone: ""
 opening_hours: ""
 website: ""

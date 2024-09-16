@@ -4,8 +4,8 @@ latitude: 41.69755
 longitude: -72.72315
 postcode: "06111"
 city: Newington
-street: "Main Street"
-housenumber: 1042
-phone: "+1 860 666 2112"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-14:00"
-website: "https://www.flowersetcllc.com/"
+street: Main Street
+housenumber: "1042"
+phone: +1 860 666 2112
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-14:00
+website: https://www.flowersetcllc.com/

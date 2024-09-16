@@ -1,11 +1,11 @@
 id: 692971438
-type: way
+type: node
 latitude: 41.60231
 longitude: -72.68098
 postcode: "06416"
 city: Cromwell
-street: "Berlin Road"
-housenumber: 38
-phone: "+1-860-635-5204"
-opening_hours: "24/7"
-website: "https://www.cumberlandfarms.com/stores/ct/cromwell-4721"
+street: Berlin Road
+housenumber: "38"
+phone: +1-860-635-5204
+opening_hours: 24/7
+website: https://www.cumberlandfarms.com/stores/ct/cromwell-4721

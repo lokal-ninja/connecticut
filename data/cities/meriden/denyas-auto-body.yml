@@ -1,11 +1,11 @@
 id: 280927905
-type: way
+type: node
 latitude: 41.52632
 longitude: -72.75249
 postcode: "06450"
 city: Meriden
-street: "Preston Avenue"
-housenumber: 21
+street: Preston Avenue
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

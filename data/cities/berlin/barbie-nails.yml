@@ -1,11 +1,11 @@
 id: 545138334
-type: way
+type: node
 latitude: 41.64222
 longitude: -72.77057
 postcode: "06037"
 city: Berlin
-street: "New Britain Road"
-housenumber: 238
+street: New Britain Road
+housenumber: "238"
 phone: ""
 opening_hours: ""
 website: ""

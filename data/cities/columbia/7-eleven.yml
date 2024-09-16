@@ -1,11 +1,11 @@
 id: 1040028767
-type: way
+type: node
 latitude: 41.71357
 longitude: -72.28496
 postcode: "06237"
 city: Columbia
-street: "Route 66"
-housenumber: 52
-phone: "+1 860 228 1181"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ct/columbia/52-route-66-32522"
+street: Route 66
+housenumber: "52"
+phone: +1 860 228 1181
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ct/columbia/52-route-66-32522

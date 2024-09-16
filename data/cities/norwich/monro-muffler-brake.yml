@@ -1,11 +1,11 @@
 id: 926879231
-type: way
+type: node
 latitude: 41.51738
 longitude: -72.09847
 postcode: "06360"
 city: Norwich
-street: "West Main Street"
-housenumber: 557
-phone: "+1 860 850 0284"
+street: West Main Street
+housenumber: "557"
+phone: +1 860 850 0284
 opening_hours: ""
-website: "https://www.monro.com/store-search/?LocationSearchQuery=06360"
+website: https://www.monro.com/store-search/?LocationSearchQuery=06360

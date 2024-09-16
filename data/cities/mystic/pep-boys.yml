@@ -1,11 +1,11 @@
 id: 773877503
-type: way
+type: node
 latitude: 41.39043
 longitude: -71.98878
 postcode: "06355"
 city: Mystic
-street: "Gold Star Highway"
-housenumber: 2400
+street: Gold Star Highway
+housenumber: "2400"
 phone: ""
-opening_hours: "Mo-Sa 07:30-19:00; Su 09:00-18:00"
+opening_hours: Mo-Sa 07:30-19:00; Su 09:00-18:00
 website: ""

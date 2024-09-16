@@ -4,8 +4,8 @@ latitude: 41.81711
 longitude: -73.37065
 postcode: "06754"
 city: Cornwall
-street: "Kent Rd S, Cornwall Bridge, CT 06754"
-housenumber: 25
+street: Kent Rd S, Cornwall Bridge, CT 06754
+housenumber: "25"
 phone: ""
-opening_hours: "Tu-Fr 07:00-17:00; Sa, Su 08:00-17:00"
-website: "https://www.cornwallcountrymarket.com/"
+opening_hours: Tu-Fr 07:00-17:00; Sa, Su 08:00-17:00
+website: https://www.cornwallcountrymarket.com/

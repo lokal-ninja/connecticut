@@ -1,11 +1,11 @@
 id: 902832969
-type: way
+type: node
 latitude: 41.5032
 longitude: -72.09211
 postcode: "06360"
 city: Norwich
-street: "West Thames Street"
-housenumber: 526
-phone: "+1 860 887 3034"
+street: West Thames Street
+housenumber: "526"
+phone: +1 860 887 3034
 opening_hours: ""
-website: "https://www.facebook.com/Big-Harrys-Discount-Liquors-137965946244899"
+website: https://www.facebook.com/Big-Harrys-Discount-Liquors-137965946244899

@@ -1,11 +1,11 @@
 id: 56819447
-type: way
+type: node
 latitude: 41.76102
 longitude: -72.73939
 postcode: "06107"
 city: West Hartford
-street: "Raymond Road"
-housenumber: 50
-phone: "+1 860-523-8500"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/westhartford"
+street: Raymond Road
+housenumber: "50"
+phone: +1 860-523-8500
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.wholefoodsmarket.com/stores/westhartford

@@ -1,11 +1,11 @@
 id: 257732018
-type: way
+type: node
 latitude: 41.11001
 longitude: -73.54598
 postcode: "06905"
 city: Stamford
-street: "High Ridge Road"
-housenumber: 1201
-phone: "+1 203-321-0429"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://local.acmemarkets.com/ct/stamford/1201-high-ridge-rd.html"
+street: High Ridge Road
+housenumber: "1201"
+phone: +1 203-321-0429
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://local.acmemarkets.com/ct/stamford/1201-high-ridge-rd.html

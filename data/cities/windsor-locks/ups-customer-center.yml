@@ -1,11 +1,11 @@
 id: 888332200
-type: way
+type: node
 latitude: 41.9388
 longitude: -72.67517
 postcode: "06096"
 city: Windsor Locks
-street: "Insurance Lane"
-housenumber: 85
-phone: "+1 800 742 5877"
+street: Insurance Lane
+housenumber: "85"
+phone: +1 800 742 5877
 opening_hours: ""
-website: "https://www.ups.com/dropoff"
+website: https://www.ups.com/dropoff

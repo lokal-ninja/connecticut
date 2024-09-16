@@ -1,11 +1,11 @@
 id: 290842654
-type: way
+type: node
 latitude: 41.27774
 longitude: -72.59716
 postcode: "06443"
 city: Madison
-street: "Sampson Rock Drive"
-housenumber: 128
+street: Sampson Rock Drive
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

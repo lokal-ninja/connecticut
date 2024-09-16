@@ -1,11 +1,11 @@
 id: 587245847
-type: way
+type: node
 latitude: 41.53094
 longitude: -73.2052
 postcode: "06798"
 city: Woodbury
-street: "Main Street South"
-housenumber: 572
+street: Main Street South
+housenumber: "572"
 phone: ""
 opening_hours: ""
-website: "https://www.fowlersusa.com/"
+website: https://www.fowlersusa.com/

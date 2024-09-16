@@ -1,11 +1,11 @@
 id: 208776054
-type: way
+type: node
 latitude: 41.20007
 longitude: -73.18347
 postcode: "06608"
 city: Bridgeport
-street: "Noble Avenue"
-housenumber: 1360
-phone: "+1 203 3343397"
+street: Noble Avenue
+housenumber: "1360"
+phone: +1 203 3343397
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.23168
 longitude: -73.05061
 postcode: "06460"
 city: Milford
-street: "Boston Post Road"
-housenumber: 915
+street: Boston Post Road
+housenumber: "915"
 phone: ""
 opening_hours: ""
-website: "https://www.mazdaofmilford.com/"
+website: https://www.mazdaofmilford.com/

@@ -1,11 +1,11 @@
 id: 209061671
-type: way
+type: node
 latitude: 41.1934
 longitude: -73.14995
 postcode: "06614"
 city: Stratford
-street: "Barnum Avenue"
-housenumber: 140
+street: Barnum Avenue
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

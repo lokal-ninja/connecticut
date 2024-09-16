@@ -1,11 +1,11 @@
 id: 887425300
-type: way
+type: node
 latitude: 41.34621
 longitude: -72.03491
 postcode: "06340"
 city: Groton
-street: "Fort Hill Road"
-housenumber: 40
-phone: "+1 860 448 1760"
+street: Fort Hill Road
+housenumber: "40"
+phone: +1 860 448 1760
 opening_hours: ""
-website: "https://www.johnsonstruevalue.com/"
+website: https://www.johnsonstruevalue.com/

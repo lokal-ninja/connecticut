@@ -4,8 +4,8 @@ latitude: 41.58466
 longitude: -71.99286
 postcode: "06351"
 city: Lisbon
-street: "River Road"
-housenumber: 160
-phone: "+1 860-376-4288"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/lisbon-ct-619"
+street: River Road
+housenumber: "160"
+phone: +1 860-376-4288
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/lisbon-ct-619

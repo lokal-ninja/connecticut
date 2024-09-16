@@ -1,11 +1,11 @@
 id: 943023767
-type: way
+type: node
 latitude: 41.91649
 longitude: -71.90815
 postcode: "06260"
 city: Putnam
-street: "Livery Street"
-housenumber: 23
-phone: "+1 877 393 9329"
+street: Livery Street
+housenumber: "23"
+phone: +1 877 393 9329
 opening_hours: ""
-website: "https://www.cargillchev.com"
+website: https://www.cargillchev.com

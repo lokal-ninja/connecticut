@@ -1,11 +1,11 @@
 id: 439240562
-type: way
+type: node
 latitude: 41.29387
 longitude: -73.23148
 postcode: "06611"
 city: Monroe
-street: "Monroe Turnpike"
-housenumber: 101
+street: Monroe Turnpike
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

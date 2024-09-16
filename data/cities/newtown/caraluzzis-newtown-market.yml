@@ -4,8 +4,8 @@ latitude: 41.41309
 longitude: -73.30213
 postcode: "06470"
 city: Newtown
-street: "Queen Street"
-housenumber: 5
+street: Queen Street
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

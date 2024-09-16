@@ -1,11 +1,11 @@
 id: 280134651
-type: way
+type: node
 latitude: 41.5346
 longitude: -72.77387
 postcode: "06450"
 city: Meriden
-street: "Gravel Street"
-housenumber: 238
+street: Gravel Street
+housenumber: "238"
 phone: ""
 opening_hours: ""
 website: ""

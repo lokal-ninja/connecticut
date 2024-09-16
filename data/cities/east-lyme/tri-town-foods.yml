@@ -1,11 +1,11 @@
 id: 548037304
-type: way
+type: node
 latitude: 41.36711
 longitude: -72.20878
 postcode: "06333"
 city: East Lyme
-street: "Chesterfield Road"
-housenumber: 15
-phone: "860 739 2434"
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-20:00"
-website: "http://www.tritownfoods.com"
+street: Chesterfield Road
+housenumber: "15"
+phone: 860 739 2434
+opening_hours: Mo-Sa 07:00-21:00; Su 07:00-20:00
+website: http://www.tritownfoods.com

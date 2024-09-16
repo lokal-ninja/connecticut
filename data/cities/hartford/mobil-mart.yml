@@ -1,11 +1,11 @@
 id: 915301059
-type: way
+type: node
 latitude: 41.77807
 longitude: -72.68695
 postcode: "06112"
 city: Hartford
-street: "Albany Avenue"
-housenumber: 605
-phone: "+1 810 919 3820"
+street: Albany Avenue
+housenumber: "605"
+phone: +1 810 919 3820
 opening_hours: ""
-website: "https://www.exxon.com/en/find-station/200322015"
+website: https://www.exxon.com/en/find-station/200322015

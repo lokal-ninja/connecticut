@@ -1,11 +1,11 @@
 id: 933004798
-type: way
+type: node
 latitude: 41.76005
 longitude: -71.89905
 postcode: "06239"
 city: Plainfield
-street: "Old Putnam Road Extension"
-housenumber: 86
-phone: "+1 860 774 7200"
+street: Old Putnam Road Extension
+housenumber: "86"
+phone: +1 860 774 7200
 opening_hours: ""
 website: ""

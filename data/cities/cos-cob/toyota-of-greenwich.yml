@@ -1,11 +1,11 @@
 id: 399257076
-type: way
+type: node
 latitude: 41.03622
 longitude: -73.60282
 postcode: "06807"
 city: Cos Cob
-street: "East Putnam Avenue"
-housenumber: 75
-phone: "+1-203-661-5055"
+street: East Putnam Avenue
+housenumber: "75"
+phone: +1-203-661-5055
 opening_hours: ""
-website: "https://www.toyotaofgreenwich.com/"
+website: https://www.toyotaofgreenwich.com/

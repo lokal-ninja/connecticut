@@ -1,11 +1,11 @@
 id: 548608956
-type: way
+type: node
 latitude: 41.79871
 longitude: -71.90542
 postcode: "06234"
 city: Brooklyn
-street: "Providence Road"
-housenumber: 520
-phone: "+1 860 779 3040"
+street: Providence Road
+housenumber: "520"
+phone: +1 860 779 3040
 opening_hours: ""
-website: "https://www.sweetpeasfinefoods.com"
+website: https://www.sweetpeasfinefoods.com

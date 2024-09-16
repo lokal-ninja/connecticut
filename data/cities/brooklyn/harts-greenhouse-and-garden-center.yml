@@ -1,11 +1,11 @@
 id: 945686996
-type: way
+type: node
 latitude: 41.79399
 longitude: -71.93867
 postcode: "06234"
 city: Brooklyn
-street: "Providence Road"
-housenumber: 151
+street: Providence Road
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

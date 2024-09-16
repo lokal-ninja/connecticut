@@ -1,11 +1,11 @@
 id: 870624808
-type: way
+type: node
 latitude: 41.2844
 longitude: -73.49616
 postcode: "06877"
 city: Ridgefield
-street: "Prospect Street"
-housenumber: 29
+street: Prospect Street
+housenumber: "29"
 phone: "+12034382626"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-13:00"
-website: "http://www.ridgefieldsupply.com/"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-13:00
+website: http://www.ridgefieldsupply.com/

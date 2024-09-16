@@ -1,11 +1,11 @@
 id: 553429226
-type: way
+type: node
 latitude: 41.79001
 longitude: -72.54987
 postcode: "06042"
 city: Manchester
-street: "Adams Street"
-housenumber: 185
+street: Adams Street
+housenumber: "185"
 phone: ""
 opening_hours: ""
 website: ""

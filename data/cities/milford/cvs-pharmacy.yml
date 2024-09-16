@@ -1,11 +1,11 @@
 id: 209665214
-type: way
+type: node
 latitude: 41.23105
 longitude: -73.04679
 postcode: "06460"
 city: Milford
-street: "Cherry Street"
-housenumber: 989
+street: Cherry Street
+housenumber: "989"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/milford-ct-pharmacies/989-boston-post-road-milford-ct-06460/storeid=71"
+website: https://www.cvs.com/store-locator/milford-ct-pharmacies/989-boston-post-road-milford-ct-06460/storeid=71

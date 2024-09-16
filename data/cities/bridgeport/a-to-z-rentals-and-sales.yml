@@ -1,11 +1,11 @@
 id: 368078218
-type: way
+type: node
 latitude: 41.16947
 longitude: -73.21864
 postcode: "06605"
 city: Bridgeport
-street: "Dewey Street"
-housenumber: 153
+street: Dewey Street
+housenumber: "153"
 phone: ""
 opening_hours: ""
 website: ""

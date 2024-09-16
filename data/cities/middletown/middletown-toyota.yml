@@ -1,11 +1,11 @@
 id: 699141467
-type: way
+type: node
 latitude: 41.57665
 longitude: -72.6716
 postcode: "06457"
 city: Middletown
-street: "Newfield Street"
-housenumber: 634
-phone: "+1-860-347-7294"
+street: Newfield Street
+housenumber: "634"
+phone: +1-860-347-7294
 opening_hours: ""
-website: "https://www.middletowntoyota.com/"
+website: https://www.middletowntoyota.com/

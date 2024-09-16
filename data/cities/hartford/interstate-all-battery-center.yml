@@ -1,11 +1,11 @@
 id: 913713217
-type: way
+type: node
 latitude: 41.78276
 longitude: -72.70292
 postcode: "06112"
 city: Hartford
-street: "Homestead Avenue"
-housenumber: 425
-phone: "+1 860 563 1242"
+street: Homestead Avenue
+housenumber: "425"
+phone: +1 860 563 1242
 opening_hours: ""
-website: "https://www.interstatebatteries.com/locations/all-battery-center-hartford-ct"
+website: https://www.interstatebatteries.com/locations/all-battery-center-hartford-ct

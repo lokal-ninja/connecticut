@@ -1,11 +1,11 @@
 id: 959646256
-type: way
+type: node
 latitude: 41.72594
 longitude: -72.61685
 postcode: "06033"
 city: Glastonbury
-street: "Putnam Boulevard"
-housenumber: 49
-phone: "+1 860-657-0658"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.staples.com/ct/glastonbury/49-putnam-blvd"
+street: Putnam Boulevard
+housenumber: "49"
+phone: +1 860-657-0658
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.staples.com/ct/glastonbury/49-putnam-blvd

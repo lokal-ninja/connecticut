@@ -1,11 +1,11 @@
 id: 209615041
-type: way
+type: node
 latitude: 41.22212
 longitude: -73.07486
-postcode: "06460-3134"
+postcode: 06460-3134
 city: Milford
-street: "Boston Post Road"
-housenumber: 238
-phone: "+1 844-473-1067"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ct/milford/238-boston-post-road"
+street: Boston Post Road
+housenumber: "238"
+phone: +1 844-473-1067
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ct/milford/238-boston-post-road

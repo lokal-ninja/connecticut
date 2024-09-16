@@ -4,8 +4,8 @@ latitude: 41.71278
 longitude: -72.72669
 postcode: "06111"
 city: Newington
-street: "Main Street"
-housenumber: 285
-phone: "+1 860 666 2000"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "http://www.kjbrands.com"
+street: Main Street
+housenumber: "285"
+phone: +1 860 666 2000
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: http://www.kjbrands.com

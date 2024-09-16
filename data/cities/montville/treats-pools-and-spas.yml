@@ -1,11 +1,11 @@
 id: 945255488
-type: way
+type: node
 latitude: 41.48309
 longitude: -72.0968
 postcode: "06382"
 city: Montville
-street: "Avery Road"
-housenumber: 22
-phone: "+1 860 848 1268"
+street: Avery Road
+housenumber: "22"
+phone: +1 860 848 1268
 opening_hours: ""
-website: "https://www.treatspools.com"
+website: https://www.treatspools.com

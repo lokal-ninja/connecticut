@@ -1,11 +1,11 @@
 id: 947420034
-type: way
+type: node
 latitude: 41.71096
 longitude: -72.60638
 postcode: "06033"
 city: Glastonbury
-street: "School Street"
-housenumber: 45
-phone: "+1 (860) 633-2632"
+street: School Street
+housenumber: "45"
+phone: +1 (860) 633-2632
 opening_hours: ""
-website: "https://www.facebook.com/stevesautotire"
+website: https://www.facebook.com/stevesautotire

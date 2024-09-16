@@ -1,11 +1,11 @@
 id: 136429917
-type: way
+type: node
 latitude: 41.81368
 longitude: -72.71149
 postcode: "06002"
 city: Bloomfield
-street: "Granby Street"
-housenumber: 55
-phone: "+1 860-286-0300"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/bloomfield-ct/ct/bloomfield/06002/6228"
+street: Granby Street
+housenumber: "55"
+phone: +1 860-286-0300
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/bloomfield-ct/ct/bloomfield/06002/6228

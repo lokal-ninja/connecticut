@@ -1,11 +1,11 @@
 id: 369178938
-type: way
+type: node
 latitude: 41.18436
 longitude: -73.21348
 postcode: "06604"
 city: Bridgeport
-street: "Wade Street"
-housenumber: 256
-phone: "+1 203 3340854"
+street: Wade Street
+housenumber: "256"
+phone: +1 203 3340854
 opening_hours: ""
 website: ""

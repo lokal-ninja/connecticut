@@ -1,11 +1,11 @@
 id: 558417721
-type: way
+type: node
 latitude: 41.57107
 longitude: -72.33316
 postcode: "06415"
 city: Colchester
-street: "Linwood Avenue"
-housenumber: 99
-phone: "+1 860 537 2361"
-opening_hours: "Mo-Su 08:00-22:00"
+street: Linwood Avenue
+housenumber: "99"
+phone: +1 860 537 2361
+opening_hours: Mo-Su 08:00-22:00
 website: ""

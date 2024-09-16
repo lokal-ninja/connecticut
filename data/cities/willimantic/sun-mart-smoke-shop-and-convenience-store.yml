@@ -1,11 +1,11 @@
 id: 837265307
-type: way
+type: node
 latitude: 41.7141
 longitude: -72.22682
 postcode: "06226"
 city: Willimantic
-street: "Main Street"
-housenumber: 1242
-phone: "+1 860 423 7036"
+street: Main Street
+housenumber: "1242"
+phone: +1 860 423 7036
 opening_hours: ""
-website: "https://www.facebook.com/a1Sunmart"
+website: https://www.facebook.com/a1Sunmart

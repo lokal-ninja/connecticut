@@ -1,11 +1,11 @@
 id: 659431926
-type: way
+type: node
 latitude: 41.51731
 longitude: -72.72818
 postcode: "06455"
 city: Middlefield
-street: "Baileyville Road"
-housenumber: 223
+street: Baileyville Road
+housenumber: "223"
 phone: ""
 opening_hours: ""
 website: ""

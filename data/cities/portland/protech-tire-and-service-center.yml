@@ -1,11 +1,11 @@
 id: 962445114
-type: way
+type: node
 latitude: 41.56015
 longitude: -72.58078
 postcode: "06480"
 city: Portland
-street: "Portland Cobalt Road"
-housenumber: 1611
+street: Portland Cobalt Road
+housenumber: "1611"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 876466299
-type: way
+type: node
 latitude: 41.34101
 longitude: -72.12371
 postcode: "06385"
 city: Waterford
-street: "Boston Post Road"
-housenumber: 106
+street: Boston Post Road
+housenumber: "106"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/waterford-ct-pharmacies/106-boston-post-road-waterford-ct-06385/storeid=1268"
+website: https://www.cvs.com/store-locator/waterford-ct-pharmacies/106-boston-post-road-waterford-ct-06385/storeid=1268

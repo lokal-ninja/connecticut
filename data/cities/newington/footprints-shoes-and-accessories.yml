@@ -1,11 +1,11 @@
 id: 696540836
-type: way
+type: node
 latitude: 41.65526
 longitude: -72.72387
 postcode: "06111"
 city: Newington
-street: "Costello Road"
-housenumber: 79
+street: Costello Road
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 254827270
-type: way
+type: node
 latitude: 41.81092
 longitude: -72.54965
-postcode: "06040;06074"
+postcode: 06040;06074
 city: Manchester;South Windsor
-street: "Buckland Hills Drive"
+street: Buckland Hills Drive
 housenumber: 125;105 A
-phone: "+1 860-327-0082"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.target.com/sl/south-windsor/1249"
+phone: +1 860-327-0082
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.target.com/sl/south-windsor/1249

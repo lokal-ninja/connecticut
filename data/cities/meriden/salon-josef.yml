@@ -1,11 +1,11 @@
 id: 955590765
-type: way
+type: node
 latitude: 41.54093
 longitude: -72.81927
 postcode: "06451"
 city: Meriden
-street: "West Main Street"
-housenumber: 481
+street: West Main Street
+housenumber: "481"
 phone: ""
 opening_hours: ""
 website: ""

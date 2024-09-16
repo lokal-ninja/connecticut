@@ -1,11 +1,11 @@
 id: 1082412585
-type: way
+type: node
 latitude: 41.55894
 longitude: -72.31977
 postcode: "06415"
 city: Colchester
-street: "New London Road"
-housenumber: 150
-phone: "+1 860-537-0679"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: New London Road
+housenumber: "150"
+phone: +1 860-537-0679
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 587245849
-type: way
+type: node
 latitude: 41.53035
 longitude: -73.205
 postcode: "06798"
 city: Woodbury
-street: "Main Street South"
-housenumber: 592
+street: Main Street South
+housenumber: "592"
 phone: ""
 opening_hours: ""
-website: "https://www.robertmotorcars.com/"
+website: https://www.robertmotorcars.com/

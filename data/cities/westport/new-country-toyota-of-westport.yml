@@ -1,11 +1,11 @@
 id: 397176601
-type: way
+type: node
 latitude: 41.13806
 longitude: -73.33903
 postcode: "06880"
 city: Westport
-street: "Post Road East"
-housenumber: 777
-phone: "+1-203-222-3300"
+street: Post Road East
+housenumber: "777"
+phone: +1-203-222-3300
 opening_hours: ""
-website: "https://www.newcountrywestporttoyota.com/"
+website: https://www.newcountrywestporttoyota.com/

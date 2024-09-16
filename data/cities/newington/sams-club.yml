@@ -1,11 +1,11 @@
 id: 696004353
-type: way
+type: node
 latitude: 41.65269
 longitude: -72.73259
 postcode: "06111"
 city: Newington
-street: "Berlin Turnpike"
-housenumber: 3465
-phone: "+1 860-667-8809"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/newington-ct-sams-club/6636"
+street: Berlin Turnpike
+housenumber: "3465"
+phone: +1 860-667-8809
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/newington-ct-sams-club/6636

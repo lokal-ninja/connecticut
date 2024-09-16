@@ -1,11 +1,11 @@
 id: 404830501
-type: way
+type: node
 latitude: 41.05553
 longitude: -73.53989
 postcode: "06901"
 city: Stamford
-street: "Broad Street"
-housenumber: 74
-phone: "+1 203-363-0450"
-opening_hours: "Mo-Sa 09:00-22:30, Su 09:30-21:30"
-website: "https://stores.burlington.com/ct/stamford/445"
+street: Broad Street
+housenumber: "74"
+phone: +1 203-363-0450
+opening_hours: Mo-Sa 09:00-22:30, Su 09:30-21:30
+website: https://stores.burlington.com/ct/stamford/445

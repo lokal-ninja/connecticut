@@ -1,11 +1,11 @@
 id: 256617250
-type: way
+type: node
 latitude: 41.99017
 longitude: -73.19991
 postcode: "06058"
 city: Norfolk
-street: "station Place"
-housenumber: 2
+street: station Place
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

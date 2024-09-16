@@ -1,11 +1,11 @@
 id: 1305480742
-type: way
+type: node
 latitude: 42.00009
 longitude: -72.56678
 postcode: "06082"
 city: Enfield
-street: "Elm Street"
-housenumber: 190
+street: Elm Street
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

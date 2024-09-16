@@ -1,11 +1,11 @@
 id: 1049759021
-type: way
+type: node
 latitude: 41.32425
 longitude: -72.18922
 postcode: "06357"
 city: Niantic
-street: "Main Street"
-housenumber: 171
+street: Main Street
+housenumber: "171"
 phone: ""
 opening_hours: ""
 website: ""

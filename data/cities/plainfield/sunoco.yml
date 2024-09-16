@@ -1,11 +1,11 @@
 id: 923025863
-type: way
+type: node
 latitude: 41.67256
 longitude: -71.91493
 postcode: "06374"
 city: Plainfield
-street: "Norwich Road"
-housenumber: 704
-phone: "+1 860 564 6742"
+street: Norwich Road
+housenumber: "704"
+phone: +1 860 564 6742
 opening_hours: ""
-website: "https://www.sunoco.com/find-a-station"
+website: https://www.sunoco.com/find-a-station

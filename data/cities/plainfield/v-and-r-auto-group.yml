@@ -1,11 +1,11 @@
 id: 933005316
-type: way
+type: node
 latitude: 41.74124
 longitude: -71.90552
 postcode: "06387"
 city: Plainfield
-street: "Putnam Road"
-housenumber: 296
-phone: "+1 860 319 1227"
+street: Putnam Road
+housenumber: "296"
+phone: +1 860 319 1227
 opening_hours: ""
-website: "https://www.vrautogroup.com"
+website: https://www.vrautogroup.com

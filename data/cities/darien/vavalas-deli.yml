@@ -1,11 +1,11 @@
 id: 422059637
-type: way
+type: node
 latitude: 41.06944
 longitude: -73.49404
 postcode: "06820"
 city: Darien
-street: "Heights Road"
-housenumber: 156
-phone: "+1 203 655 4370"
-opening_hours: "Mo-Sa 06:00-17:30, Su 07:00-15:00"
-website: "https://www.myvavalasdeli.com/"
+street: Heights Road
+housenumber: "156"
+phone: +1 203 655 4370
+opening_hours: Mo-Sa 06:00-17:30, Su 07:00-15:00
+website: https://www.myvavalasdeli.com/

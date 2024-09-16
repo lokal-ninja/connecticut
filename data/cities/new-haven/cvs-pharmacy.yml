@@ -1,11 +1,11 @@
 id: 1208035086
-type: way
+type: node
 latitude: 41.32902
 longitude: -72.96837
 postcode: "06515"
 city: New Haven
-street: "Whalley Avenue"
-housenumber: 1168
+street: Whalley Avenue
+housenumber: "1168"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/new-haven-ct-pharmacies/1150-whalley-ave-new-haven-ct-06515/storeid=811"
+website: https://www.cvs.com/store-locator/new-haven-ct-pharmacies/1150-whalley-ave-new-haven-ct-06515/storeid=811

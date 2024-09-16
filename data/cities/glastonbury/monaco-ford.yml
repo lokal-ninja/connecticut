@@ -1,11 +1,11 @@
 id: 947139146
-type: way
+type: node
 latitude: 41.70527
 longitude: -72.59342
 postcode: "06033"
 city: Glastonbury
-street: "New London Turnpike"
-housenumber: 767
-phone: "+1-860-652-3000"
+street: New London Turnpike
+housenumber: "767"
+phone: +1-860-652-3000
 opening_hours: ""
-website: "https://www.monacoford.com/"
+website: https://www.monacoford.com/

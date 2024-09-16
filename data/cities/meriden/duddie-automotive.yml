@@ -1,11 +1,11 @@
 id: 404257600
-type: way
+type: node
 latitude: 41.54674
 longitude: -72.7838
 postcode: "06450"
 city: Meriden
-street: "Broad Street"
-housenumber: 1030
-phone: "(203) 440-1260"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://duddieautomotive.com/"
+street: Broad Street
+housenumber: "1030"
+phone: (203) 440-1260
+opening_hours: Mo-Fr 08:00-17:00
+website: https://duddieautomotive.com/

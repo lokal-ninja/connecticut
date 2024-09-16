@@ -1,11 +1,11 @@
 id: 209086135
-type: way
+type: node
 latitude: 41.1987
 longitude: -73.12972
 postcode: "06615"
 city: Stratford
-street: "Barnum Avenue Cutoff"
-housenumber: 875
-phone: "+1 203 3755751"
+street: Barnum Avenue Cutoff
+housenumber: "875"
+phone: +1 203 3755751
 opening_hours: ""
 website: ""

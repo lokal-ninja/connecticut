@@ -1,11 +1,11 @@
 id: 839843476
-type: way
+type: node
 latitude: 41.60395
 longitude: -73.41822
 postcode: "06776"
 city: New Milford
-street: "Merryall Road"
-housenumber: 28
+street: Merryall Road
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

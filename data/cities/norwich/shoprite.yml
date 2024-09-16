@@ -1,11 +1,11 @@
 id: 376993929
-type: way
+type: node
 latitude: 41.51367
 longitude: -72.10183
 postcode: "06360"
 city: Norwich
-street: "West Main Street"
-housenumber: 624
-phone: "+1 860-887-0409"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.shoprite.com/sm/planning/rsid/336"
+street: West Main Street
+housenumber: "624"
+phone: +1 860-887-0409
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.shoprite.com/sm/planning/rsid/336

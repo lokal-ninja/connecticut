@@ -4,8 +4,8 @@ latitude: 41.39708
 longitude: -73.45339
 postcode: "06810"
 city: Danbury
-street: "Main Street"
-housenumber: 301
+street: Main Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ct/danbury/301-main-st"
+website: https://stores.advanceautoparts.com/ct/danbury/301-main-st

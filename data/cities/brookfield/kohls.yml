@@ -1,11 +1,11 @@
 id: 310163803
-type: way
+type: node
 latitude: 41.43517
 longitude: -73.41081
 postcode: "06804"
 city: Brookfield
-street: "Federal Road"
-housenumber: 84
-phone: "+1 203-740-2000"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ct/brookfield-401.shtml"
+street: Federal Road
+housenumber: "84"
+phone: +1 203-740-2000
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/ct/brookfield-401.shtml

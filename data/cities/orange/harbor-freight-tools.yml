@@ -4,8 +4,8 @@ latitude: 41.27306
 longitude: -72.99256
 postcode: "06477"
 city: Orange
-street: "Boston Post Road"
-housenumber: 150
-phone: "+1 203-795-7024"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/150-boston-post-rd-ste-1-orange-06477?number=341"
+street: Boston Post Road
+housenumber: "150"
+phone: +1 203-795-7024
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/150-boston-post-rd-ste-1-orange-06477?number=341

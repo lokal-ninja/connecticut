@@ -1,11 +1,11 @@
 id: 215666614
-type: way
+type: node
 latitude: 41.28923
 longitude: -73.49748
 postcode: "06877"
 city: Ridgefield
-street: "Danbury Road"
-housenumber: 34
+street: Danbury Road
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

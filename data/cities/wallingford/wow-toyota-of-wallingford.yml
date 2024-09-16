@@ -1,11 +1,11 @@
 id: 279860899
-type: way
+type: node
 latitude: 41.47986
 longitude: -72.81189
 postcode: "06492"
 city: Wallingford
-street: "North Colony Road"
-housenumber: 859
-phone: "+1-203-284-7400"
+street: North Colony Road
+housenumber: "859"
+phone: +1-203-284-7400
 opening_hours: ""
-website: "https://www.wow-toyota.com/"
+website: https://www.wow-toyota.com/

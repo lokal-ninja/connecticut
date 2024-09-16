@@ -1,11 +1,11 @@
 id: 206961929
-type: way
+type: node
 latitude: 41.19695
 longitude: -73.20095
 postcode: "06606"
 city: Bridgeport
-street: "Main Street"
-housenumber: 2533
+street: Main Street
+housenumber: "2533"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 42431658
-type: way
+type: node
 latitude: 41.75471
 longitude: -72.76541
 postcode: "06107"
 city: West Hartford
-street: "Farmington Avenue"
-housenumber: 1235
+street: Farmington Avenue
+housenumber: "1235"
 phone: ""
 opening_hours: ""
 website: ""

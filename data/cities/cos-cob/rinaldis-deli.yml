@@ -1,11 +1,11 @@
 id: 686057257
-type: way
+type: node
 latitude: 41.04423
 longitude: -73.60034
 postcode: "06807"
 city: Cos Cob
-street: "Orchard Street"
-housenumber: 70
+street: Orchard Street
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

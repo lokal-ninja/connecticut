@@ -1,11 +1,11 @@
 id: 335750457
-type: way
+type: node
 latitude: 41.28868
 longitude: -72.9587
 postcode: "06516"
 city: West Haven
-street: "Campbell Avenue"
-housenumber: 1089
-phone: "+1 203-933-6690"
+street: Campbell Avenue
+housenumber: "1089"
+phone: +1 203-933-6690
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ct/west-haven/1089-campbell-ave-25523"
+website: https://www.7-eleven.com/locations/ct/west-haven/1089-campbell-ave-25523

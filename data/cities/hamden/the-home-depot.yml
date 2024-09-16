@@ -1,11 +1,11 @@
 id: 337902099
-type: way
+type: node
 latitude: 41.36116
 longitude: -72.92267
 postcode: "06514"
 city: Hamden
-street: "Dixwell Avenue"
-housenumber: 1873
-phone: "+1 203-248-5925"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/hamden/ct/hamden/06514/8473"
+street: Dixwell Avenue
+housenumber: "1873"
+phone: +1 203-248-5925
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/hamden/ct/hamden/06514/8473

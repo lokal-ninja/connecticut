@@ -1,11 +1,11 @@
 id: 742726435
-type: way
+type: node
 latitude: 41.64664
 longitude: -72.67961
 postcode: "06067"
 city: Rocky Hill
-street: "Cromwell Avenue"
-housenumber: 887
-phone: "+1 860-423-3056"
+street: Cromwell Avenue
+housenumber: "887"
+phone: +1 860-423-3056
 opening_hours: ""
 website: ""

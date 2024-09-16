@@ -1,11 +1,11 @@
 id: 550007593
-type: way
+type: node
 latitude: 41.66819
 longitude: -71.91611
 postcode: "06374"
 city: Plainfield
-street: "Norwich Road"
-housenumber: 777
+street: Norwich Road
+housenumber: "777"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ct/plainfield/777-norwich-rd"
+website: https://stores.advanceautoparts.com/ct/plainfield/777-norwich-rd

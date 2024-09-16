@@ -1,11 +1,11 @@
 id: 403775033
-type: way
+type: node
 latitude: 41.38698
 longitude: -72.87321
 postcode: "06473"
 city: North Haven
-street: "State Street"
-housenumber: 79
+street: State Street
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

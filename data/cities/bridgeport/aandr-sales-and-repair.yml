@@ -1,11 +1,11 @@
 id: 207244091
-type: way
+type: node
 latitude: 41.18989
 longitude: -73.19526
 postcode: "06604"
 city: Bridgeport
-street: "Grand Street"
-housenumber: 298
-phone: "+1 203 3348107"
-opening_hours: "Mo-Sa 08:00-17:00; Su off"
+street: Grand Street
+housenumber: "298"
+phone: +1 203 3348107
+opening_hours: Mo-Sa 08:00-17:00; Su off
 website: ""

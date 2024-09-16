@@ -1,11 +1,11 @@
 id: 899325406
-type: way
+type: node
 latitude: 41.84244
 longitude: -71.87661
 postcode: "06241"
 city: Dayville
-street: "Putnam Pike"
-housenumber: 18
-phone: "+1 860 774 1820"
+street: Putnam Pike
+housenumber: "18"
+phone: +1 860 774 1820
 opening_hours: ""
-website: "https://www.townfairtire.com/store/tires/connecticut/dayville"
+website: https://www.townfairtire.com/store/tires/connecticut/dayville

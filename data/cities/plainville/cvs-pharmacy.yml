@@ -1,11 +1,11 @@
 id: 670180750
-type: way
+type: node
 latitude: 41.67556
 longitude: -72.85767
 postcode: "06062"
 city: Plainville
-street: "Farmington Avenue"
-housenumber: 14
+street: Farmington Avenue
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/plainville-ct-pharmacies/14-farmington-avenue-plainville-ct-06062/storeid=839"
+website: https://www.cvs.com/store-locator/plainville-ct-pharmacies/14-farmington-avenue-plainville-ct-06062/storeid=839

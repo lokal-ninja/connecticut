@@ -4,8 +4,8 @@ latitude: 41.19943
 longitude: -73.19275
 postcode: "06606"
 city: Bridgeport
-street: "North Avenue"
-housenumber: 300
+street: North Avenue
+housenumber: "300"
 phone: ""
-opening_hours: "Mo-Fr 07:00-23:00; Sa,Su 07:00-22:00"
-website: "https://www.autozone.com/locations/ct/bridgeport/300-north-ave.html"
+opening_hours: Mo-Fr 07:00-23:00; Sa,Su 07:00-22:00
+website: https://www.autozone.com/locations/ct/bridgeport/300-north-ave.html

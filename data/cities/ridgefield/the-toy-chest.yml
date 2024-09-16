@@ -1,11 +1,11 @@
 id: 164025709
-type: way
+type: node
 latitude: 41.28248
 longitude: -73.49871
 postcode: "06877"
 city: Ridgefield
-street: "Main Street"
-housenumber: 441
+street: Main Street
+housenumber: "441"
 phone: "+12034319227"
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-17:00"
-website: "http://www.thetoychestct.com/"
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-17:00
+website: http://www.thetoychestct.com/

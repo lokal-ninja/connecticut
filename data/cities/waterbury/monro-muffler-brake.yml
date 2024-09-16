@@ -1,11 +1,11 @@
 id: 946596490
-type: way
+type: node
 latitude: 41.55754
 longitude: -73.052
 postcode: "06702"
 city: Waterbury
-street: "West Main Street"
-housenumber: 649
+street: West Main Street
+housenumber: "649"
 phone: ""
 opening_hours: ""
 website: ""

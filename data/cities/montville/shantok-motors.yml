@@ -1,11 +1,11 @@
 id: 945256040
-type: way
+type: node
 latitude: 41.48592
 longitude: -72.10052
 postcode: "06382"
 city: Montville
-street: "Route 32"
-housenumber: 2246
-phone: "+1 860 848 7731"
+street: Route 32
+housenumber: "2246"
+phone: +1 860 848 7731
 opening_hours: ""
-website: "https://www.shantokmotors.net"
+website: https://www.shantokmotors.net

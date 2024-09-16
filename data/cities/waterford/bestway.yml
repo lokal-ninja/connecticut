@@ -1,11 +1,11 @@
 id: 890259312
-type: way
+type: node
 latitude: 41.34158
 longitude: -72.11938
 postcode: "06385"
 city: Waterford
-street: "Boston Post Road"
-housenumber: 76
+street: Boston Post Road
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

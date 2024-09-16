@@ -1,11 +1,11 @@
 id: 727079531
-type: way
+type: node
 latitude: 41.25091
 longitude: -72.88958
 postcode: "06512"
 city: East Haven
-street: "South End Road"
-housenumber: 9
+street: South End Road
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

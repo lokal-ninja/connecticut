@@ -1,11 +1,11 @@
 id: 955597661
-type: way
+type: node
 latitude: 41.57255
 longitude: -72.77021
 postcode: "06450"
 city: Meriden
-street: "North Broad Street"
-housenumber: 2041
+street: North Broad Street
+housenumber: "2041"
 phone: ""
 opening_hours: ""
 website: ""

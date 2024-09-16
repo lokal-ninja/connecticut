@@ -1,11 +1,11 @@
 id: 72372966
-type: way
+type: node
 latitude: 41.17645
 longitude: -73.23246
 postcode: "06825"
 city: Fairfield
-street: "Tunix Hill Road"
-housenumber: 525
+street: Tunix Hill Road
+housenumber: "525"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.31051
 longitude: -72.93033
 postcode: "06511"
 city: New Haven
-street: "York Street"
-housenumber: 264
+street: York Street
+housenumber: "264"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
 website: ""

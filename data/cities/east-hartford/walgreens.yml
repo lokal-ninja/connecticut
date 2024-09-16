@@ -1,11 +1,11 @@
 id: 952720608
-type: way
+type: node
 latitude: 41.76622
 longitude: -72.60388
 postcode: "06118"
 city: East Hartford
-street: "Silver Lane"
-housenumber: 922
+street: Silver Lane
+housenumber: "922"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-922+silver+ln-east+hartford-ct-06118/id=7566"
+website: https://www.walgreens.com/locator/walgreens-922+silver+ln-east+hartford-ct-06118/id=7566

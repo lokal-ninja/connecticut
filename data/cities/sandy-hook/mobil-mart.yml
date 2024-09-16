@@ -1,11 +1,11 @@
 id: 853594726
-type: way
+type: node
 latitude: 41.41694
 longitude: -73.2927
 postcode: "06482"
 city: Sandy Hook
-street: "Church Hill Road"
-housenumber: 62
-phone: "+1-203-270-7854"
+street: Church Hill Road
+housenumber: "62"
+phone: +1-203-270-7854
 opening_hours: ""
-website: "https://www.exxon.com/en/find-station/mobil-sandyhook-ct-newtownmobil-200314551"
+website: https://www.exxon.com/en/find-station/mobil-sandyhook-ct-newtownmobil-200314551

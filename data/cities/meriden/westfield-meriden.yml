@@ -1,11 +1,11 @@
 id: 177953130
-type: way
+type: node
 latitude: 41.55214
 longitude: -72.80787
 postcode: "06451"
 city: Meriden
-street: "Lewis Avenue"
-housenumber: 470
+street: Lewis Avenue
+housenumber: "470"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.westfield.com/meriden"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.westfield.com/meriden

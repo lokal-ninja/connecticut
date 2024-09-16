@@ -1,11 +1,11 @@
 id: 857932671
-type: way
+type: node
 latitude: 41.55919
 longitude: -73.41848
 postcode: "06776"
 city: New Milford
-street: "Danbury Road"
-housenumber: 104
-phone: "+1 860-350-0304"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/New-Milford/CT/New-Milford/06776/4878"
+street: Danbury Road
+housenumber: "104"
+phone: +1 860-350-0304
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/New-Milford/CT/New-Milford/06776/4878

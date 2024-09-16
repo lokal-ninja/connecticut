@@ -1,11 +1,11 @@
 id: 264495810
-type: way
+type: node
 latitude: 41.4147
 longitude: -73.31006
 postcode: "06470"
 city: Newtown
-street: "Main Street"
-housenumber: 43
-phone: "+1 203 426 9901"
-opening_hours: "Mo-Sa 06:00-17:00"
-website: "https://newtowngeneralstore.com/"
+street: Main Street
+housenumber: "43"
+phone: +1 203 426 9901
+opening_hours: Mo-Sa 06:00-17:00
+website: https://newtowngeneralstore.com/

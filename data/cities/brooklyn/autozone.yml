@@ -1,11 +1,11 @@
 id: 889095716
-type: way
+type: node
 latitude: 41.79947
 longitude: -71.90234
 postcode: "06234"
 city: Brooklyn
-street: "Providence Road"
-housenumber: 560
-phone: "+1 860 774 1220"
+street: Providence Road
+housenumber: "560"
+phone: +1 860 774 1220
 opening_hours: ""
-website: "https://www.autozone.com/locations/ct/brooklyn/560-providence-rd.html"
+website: https://www.autozone.com/locations/ct/brooklyn/560-providence-rd.html

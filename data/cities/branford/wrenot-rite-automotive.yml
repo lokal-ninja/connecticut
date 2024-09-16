@@ -1,11 +1,11 @@
 id: 387272764
-type: way
+type: node
 latitude: 41.27572
 longitude: -72.83296
 postcode: "06405"
 city: Branford
-street: "West Main Street"
-housenumber: 998
+street: West Main Street
+housenumber: "998"
 phone: ""
 opening_hours: ""
 website: ""

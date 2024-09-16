@@ -1,11 +1,11 @@
 id: 552505595
-type: way
+type: node
 latitude: 41.80558
 longitude: -72.55568
 postcode: "06042"
 city: Manchester
-street: "Pleasant Valley Road"
-housenumber: 1527
+street: Pleasant Valley Road
+housenumber: "1527"
 phone: ""
 opening_hours: ""
 website: ""

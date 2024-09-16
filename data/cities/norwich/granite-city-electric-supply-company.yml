@@ -1,11 +1,11 @@
 id: 921003277
-type: way
+type: node
 latitude: 41.51684
 longitude: -72.09806
 postcode: "06360"
 city: Norwich
-street: "West Main Street"
-housenumber: 558
-phone: "+1 860 889 8456"
+street: West Main Street
+housenumber: "558"
+phone: +1 860 889 8456
 opening_hours: ""
-website: "https://www.granitecityelectric.com/locations-norwich"
+website: https://www.granitecityelectric.com/locations-norwich

@@ -1,11 +1,11 @@
 id: 955592925
-type: way
+type: node
 latitude: 41.5338
 longitude: -72.79227
 postcode: "06450"
 city: Meriden
-street: "Broad Street"
-housenumber: 518
+street: Broad Street
+housenumber: "518"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ct/meriden/autoparts-5347.html"
+website: https://locations.oreillyauto.com/ct/meriden/autoparts-5347.html

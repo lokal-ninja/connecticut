@@ -1,11 +1,11 @@
 id: 687316826
-type: way
+type: node
 latitude: 41.85951
 longitude: -72.43164
 postcode: "06066"
 city: Vernon
-street: "Hartford Turnpike"
-housenumber: 1302
+street: Hartford Turnpike
+housenumber: "1302"
 phone: ""
 opening_hours: ""
 website: ""

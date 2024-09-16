@@ -1,11 +1,11 @@
 id: 875639684
-type: way
+type: node
 latitude: 41.79653
 longitude: -72.52139
 postcode: "06042"
 city: Manchester
-street: "Oakland Street"
-housenumber: 80
-phone: "+1 860-645-4100"
-opening_hours: "Mo-Th 09:00-19:00; Sa 09:00-16:00; Fr 09:00-18:00"
-website: "https://www.manchestermazda.com/"
+street: Oakland Street
+housenumber: "80"
+phone: +1 860-645-4100
+opening_hours: Mo-Th 09:00-19:00; Sa 09:00-16:00; Fr 09:00-18:00
+website: https://www.manchestermazda.com/
