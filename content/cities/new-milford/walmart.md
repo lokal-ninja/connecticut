@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /new-milford/walmart/
-shop: supermarket
+shop: department store
 ---

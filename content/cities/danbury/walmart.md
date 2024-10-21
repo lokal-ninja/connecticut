@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /danbury/walmart/
-shop: supermarket
+shop: department store
 ---
