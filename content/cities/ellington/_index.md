@@ -1,6 +1,6 @@
 ---
 title: Ellington
 url: /ellington/
-latitude: 41.894
-longitude: -72.46
+latitude: 41.892
+longitude: -72.461
 ---
