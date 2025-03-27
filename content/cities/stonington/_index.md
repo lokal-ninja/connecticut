@@ -1,6 +1,6 @@
 ---
 title: Stonington
 url: /stonington/
-latitude: 41.354
-longitude: -71.968
+latitude: 41.371
+longitude: -71.957
 ---
