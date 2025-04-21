@@ -1,6 +1,6 @@
 ---
 title: East Hampton
 url: /east-hampton/
-latitude: 41.584
-longitude: -72.503
+latitude: 41.575
+longitude: -72.502
 ---
