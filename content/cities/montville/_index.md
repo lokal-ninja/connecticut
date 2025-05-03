@@ -1,6 +1,6 @@
 ---
 title: Montville
 url: /montville/
-latitude: 41.432
-longitude: -72.222
+latitude: 41.485
+longitude: -72.1
 ---

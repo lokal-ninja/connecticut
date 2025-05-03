@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /willimantic/cvs-pharmacy/
+url: /willimantic-windham/cvs-pharmacy/
 shop: chemist
 ---
