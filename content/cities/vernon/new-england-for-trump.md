@@ -1,5 +1,5 @@
 ---
 title: "New England For Trump"
 url: /vernon/new-england-for-trump/
-shop: shop
+shop: general
 ---

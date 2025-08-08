@@ -1,6 +1,6 @@
 ---
 title: East Hartford
 url: /east-hartford/
-latitude: 41.764
-longitude: -72.61
+latitude: 41.771
+longitude: -72.659
 ---
