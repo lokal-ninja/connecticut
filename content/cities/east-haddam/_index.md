@@ -1,6 +1,6 @@
 ---
 title: East Haddam
 url: /east-haddam/
-latitude: 41.471
-longitude: -72.447
+latitude: 41.464
+longitude: -72.442
 ---
