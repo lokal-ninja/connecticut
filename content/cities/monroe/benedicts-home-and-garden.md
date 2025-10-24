@@ -1,5 +1,5 @@
 ---
-title: "Benedict's Home and Garden"
+title: "Benedict's Home & Garden"
 url: /monroe/benedicts-home-and-garden/
 shop: garden centre
 ---
