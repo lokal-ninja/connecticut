@@ -1,6 +1,6 @@
 ---
 title: Danielson
 url: /danielson/
-latitude: 41.809
-longitude: -71.877
+latitude: 41.806
+longitude: -71.883
 ---
