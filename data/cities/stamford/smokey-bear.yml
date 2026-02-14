@@ -7,5 +7,5 @@ city: Stamford
 street: Broad Street
 housenumber: "57"
 phone: "+17188666000"
-opening_hours: Su-Th 08:00-00:00; Fr-Sa 08:00-02:00
+opening_hours: Su-Th 08:00-24:00; Fr-Sa 08:00-02:00
 website: ""
