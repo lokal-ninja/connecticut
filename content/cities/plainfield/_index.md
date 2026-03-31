@@ -1,6 +1,6 @@
 ---
 title: Plainfield
 url: /plainfield/
-latitude: 41.723
-longitude: -71.905
+latitude: 41.68
+longitude: -71.914
 ---

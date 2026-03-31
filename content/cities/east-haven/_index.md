@@ -1,6 +1,6 @@
 ---
 title: East Haven
 url: /east-haven/
-latitude: 41.283
-longitude: -72.882
+latitude: 41.322
+longitude: -72.862
 ---
