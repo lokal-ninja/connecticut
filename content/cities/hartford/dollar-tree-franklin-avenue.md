@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /hartford/dollar-tree-park-street/
+url: /hartford/dollar-tree-franklin-avenue/
 shop: variety store
 ---

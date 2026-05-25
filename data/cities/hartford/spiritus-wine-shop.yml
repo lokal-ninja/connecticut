@@ -1,11 +1,11 @@
 id: 3275425533
 type: node
-latitude: 41.76748
-longitude: -72.67716
+latitude: 41.76747
+longitude: -72.6771
 postcode: "06103"
 city: Hartford
 street: Asylum Street
-housenumber: "222"
+housenumber: 222;220
 phone: +1 860 247 5431
 opening_hours: ""
 website: https://www.spiritus.com/

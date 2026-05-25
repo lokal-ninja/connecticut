@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
-url: /colchester/citgo/
+url: /new-milford/citgo/
 shop: convenience
 ---
