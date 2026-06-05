@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /hartford/family-dollar-park-street/
+url: /hartford/family-dollar-farmington-avenue/
 shop: variety store
 ---
