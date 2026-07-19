@@ -1,6 +1,6 @@
 ---
 title: Branford
 url: /branford/
-latitude: 41.278
-longitude: -72.822
+latitude: 41.296
+longitude: -72.782
 ---
