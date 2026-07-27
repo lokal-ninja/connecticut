@@ -1,6 +1,6 @@
 ---
 title: Bozrah
 url: /bozrah/
-latitude: 41.565
-longitude: -72.151
+latitude: 41.508
+longitude: -72.148
 ---
