@@ -1,5 +1,5 @@
 ---
-title: "wheels"
+title: "Wheels"
 url: /newtown/wheels/
 shop: convenience
 ---
