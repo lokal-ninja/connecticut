@@ -1,6 +1,6 @@
 ---
 title: Glastonbury
 url: /glastonbury/
-latitude: 41.715
-longitude: -72.608
+latitude: 41.723
+longitude: -72.622
 ---
