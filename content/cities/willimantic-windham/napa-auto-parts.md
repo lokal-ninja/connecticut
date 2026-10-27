@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
-url: /willimantic/napa-auto-parts/
+url: /willimantic-windham/napa-auto-parts/
 shop: car parts
 ---
