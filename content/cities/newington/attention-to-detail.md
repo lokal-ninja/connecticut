@@ -1,5 +1,5 @@
 ---
 title: "Attention To Detail"
-url: /middletown/attention-to-detail/
+url: /newington/attention-to-detail/
 shop: car repair
 ---
